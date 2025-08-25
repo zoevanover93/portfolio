@@ -89,7 +89,6 @@ This capstone applies a **full data science workflow** to the used car market:
 ---
 
 ## 👤 Author
-**Your Name** — Data Science M.S., WGU  
-- Portfolio: <your-site.com>  
-- LinkedIn: <your-linkedin>  
-- Email: <you@domain.com>  
+**Zoe Vanover** — Data Science M.S., WGU    
+- LinkedIn: <https://www.linkedin.com/in/zoe-vanover-65a996258/>
+- Email: <zoe.vanover93@gmail.com>  
