@@ -1,0 +1,3671 @@
+"feature","coefficient"
+"(Intercept)",-507249.379217363
+"engine8.0L W16 64V GDI DOHC Twin Turbo",270581.637706424
+"modelVeyron 16.4 Grand Sport",270580.530127056
+"brandBugatti",270578.695076601
+"engine605.0HP 5.7L 10 Cylinder Engine Gasoline Fuel",261094.557984282
+"modelCarrera GT Base",261094.49613688
+"modelQuattroporte Base",166202.41533769
+"engine394.0HP 4.2L 8 Cylinder Engine Gasoline Fuel",116195.268206038
+"engine759.0HP 6.5L 12 Cylinder Engine Gasoline Fuel",96982.4331259562
+"int_col.Charles Blue",96476.8561944173
+"modelAventador SVJ Base",94709.3540638814
+"transmission.7-Speed",92380.7683642859
+"engine6.8L V12 48V GDI DOHC Twin Turbo",81738.7715937896
+"modelPhantom",75332.0955963555
+"modelViper GTC",74525.1181456138
+"engine645.0HP 8.4L 10 Cylinder Engine Gasoline Fuel",74525.0815022053
+"engine729.0HP 6.5L 12 Cylinder Engine Gasoline Fuel",69427.6809113408
+"modelAventador S Base",69427.1425976232
+"int_col.Cobalt Blue",68880.5891621072
+"ext_col.Tempest",68880.0454781927
+"int_col.Black / Brown",68137.1251525017
+"ext_col.China Blue",67025.5182671241
+"engine6.8L V12 48V GDI DOHC",65808.9968109746
+"modelPhantom Drophead Coupe Drophead",65808.483999389
+"engine788.0HP 6.5L 12 Cylinder Engine Gasoline Fuel",65165.0414024791
+"model812 Superfast Base",65164.7597378279
+"engine6.5L V12 48V MPFI DOHC",62549.0432482274
+"engine6.7L V12 48V GDI DOHC Twin Turbo",61154.4522269677
+"modelCullinan",61153.3893075875
+"engine5.4 Liter SC DOHC",59836.860135526
+"modelGT",59836.2485618829
+"model911 GT2 RS",59212.1438153734
+"ext_col.Balloon White",47911.572996114
+"engine6.5L V-12 DOHC, variable valve control, premium unleaded, engine",47909.3310763191
+"modelAventador LP750-4 Superveloce",47907.9992591605
+"model911 R",45235.4885539751
+"engine710.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",43908.9126916946
+"engine3.8L H6 24V GDI DOHC Twin Turbo",43219.1047195827
+"brandRolls-Royce",43178.4993569769
+"int_col.Grace White",41832.9217443787
+"engine502.0HP 4.0L Flat 6 Cylinder Engine Gasoline Fuel",39618.2904312756
+"int_col.Hotspur",39398.6618476846
+"ext_col.C / C",39398.4536906242
+"engine660.0HP 3.9L 8 Cylinder Engine Gasoline Fuel",39348.9317453586
+"model488 Spider Base",38320.3541952537
+"engine5.2L V12 48V GDI DOHC Twin Turbo",37937.0546830203
+"model720S Performance",36397.0951165313
+"modelHuracan Tecnica Coupe",36007.6945079649
+"ext_col.Bianco Monocerus",35999.8307060241
+"ext_col.BLU ELEOS",35999.5689030983
+"engine4.0L H6 24V GDI DOHC",34152.8557770101
+"modelQuattroporte Sport GT",-33950.3817607269
+"modelAMG G 63 4MATIC",33517.8112938937
+"engine641.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",32784.2604503706
+"int_col.Giallo Taurus / Nero Ade",32683.3763569667
+"ext_col.Bianco Isis",32682.8093359955
+"modelAventador LP700-4",32678.7946928039
+"brandLamborghini",31962.1144728737
+"engine611.0HP 3.9L 8 Cylinder Engine Gasoline Fuel",31523.709684158
+"modelRoma Base",31523.4132954418
+"int_col.Nero Ade",31385.7209310269
+"engine571.0HP 6.2L 12 Cylinder Engine Gasoline Fuel",30628.3103301599
+"modelMurcielago Base",30627.7065557337
+"int_col.Beluga",29617.8840473194
+"engine4.0L V8 32V MPFI DOHC Twin Turbo",28863.2447901338
+"modelMartin DBS Superleggera",28848.173923564
+"brandFerrari",28216.4358367593
+"ext_col.Matte White",28169.3785013008
+"engine3.0L V6 24V PDI DOHC Twin Turbo",28168.7515163336
+"modelMC20 Base",28168.5670211938
+"engine572.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel",28061.7649211492
+"int_col.Portland",27554.5701772819
+"ext_col.Onyx",27554.2246556307
+"modelBentayga Azure First Edition",27552.8255311394
+"ext_col.Python Green",27199.6398137876
+"ext_col.Diamond White",26608.9901130025
+"modelMaybach S 580 4MATIC",26608.4769128619
+"engine3.9L V8 32V GDI DOHC Twin Turbo",26602.4227732352
+"modelContinental GT V8",26432.1707019977
+"engine5.2L V-10 gasoline direct injection, DOHC, variable valve contro",26192.5915761752
+"transmission.7-Speed Automatic with Auto-Shift",25984.4400267372
+"engine161.0HP 2.0L 4 Cylinder Engine Diesel Fuel",25975.5151815064
+"transmission.Manual",25711.9364243782
+"int_col.Porpoise",25137.6871167062
+"ext_col.Granite",25137.1232149478
+"transmission.8-SPEED A/T",25135.3023577774
+"modelContinental GT GT Speed",25134.1891115365
+"engine12 Cylinder Engine",25133.729800076
+"modelUrus Base",25125.7464308948
+"engine577.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",24571.5453035558
+"engine562.0HP 5.2L 10 Cylinder Engine Gasoline Fuel",24569.3567973912
+"modelGallardo LP570-4 Superleggera",24568.7824495441
+"modelAMG G 63 Base",24118.1895924979
+"modelRover Range Rover P530 SE LWB 7 Seat",23893.303815656
+"ext_col.Fountain Blue",23434.6739321254
+"engine6L W-12 port/direct injection, DOHC, variable valve control, twi",23433.3838331433
+"ext_col.Bianco Icarus Metallic",23375.3039210091
+"engine473.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel",23036.1289876865
+"model911 Carrera 4 GTS",23035.9739937776
+"ext_col.Arancio Borealis",22639.2850718801
+"modelHuracan EVO Coupe",22636.0401393916
+"brandMcLaren",22542.8621075362
+"ext_col.–",22527.8070827074
+"engine573.0HP 5.2L 10 Cylinder Engine Gasoline Fuel",22459.4582540123
+"model911 Turbo S",22393.9103115387
+"model911 Turbo",22383.3655143189
+"engine500.0HP 4.0L Flat 6 Cylinder Engine Gasoline Fuel",22306.3467785367
+"engine4L V-8 gasoline direct injection, DOHC, variable valve control,",22279.0569353132
+"modelRover Range Rover Autobiography",22202.1693909599
+"transmission.–",22001.3833476819
+"model911 GT3",21975.2795669506
+"modelRover Range Rover P530 SE SWB",21807.3055414492
+"engine624.0HP 6.6L 12 Cylinder Engine Gasoline Fuel",21654.8003963893
+"modelWraith Base",21654.2983616849
+"int_col.Bianco Polar",21563.2602205337
+"ext_col.Grigio Nimbus",21562.6348827318
+"modelUrus Pearl Capsule",21560.0685831877
+"ext_col.Iridium Silver Metallic",21428.1689381785
+"engine6.2L V8 32V MPFI DOHC",21427.415651738
+"modelSLS AMG Base",21426.8636297448
+"ext_col.Designo Magno Matte",21327.2621018911
+"modelG 550 4x4 Squared Base",21326.6035478543
+"ext_col.Carpathian Grey",21277.9460919854
+"ext_col.Custom Color",21238.6892642028
+"engine4.0L",21237.9908335204
+"modelCayenne Turbo GT",21237.4213331333
+"engine6.0L W12 48V PDI DOHC Twin Turbo",21007.9075302333
+"engine670.0HP 5.5L 8 Cylinder Engine Gasoline Fuel",20861.5012595831
+"modelCorvette Z06 w/2LZ",20861.4229703285
+"modelHuracan EVO Base",20650.4193819095
+"transmission.Automatic, 8-Spd Dual-Clutch",20602.0537987243
+"modelMC20 MC20",20601.4102518473
+"engineNettuno 3L V-6 port/direct injection, DOHC, variable valve contr",20601.390971882
+"engine602.0HP 3.9L 8 Cylinder Engine Gasoline Fuel",20582.3063474922
+"modelGTC4Lusso T",20582.003867216
+"engine580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel",19976.8234371735
+"engine715.0HP 5.2L 12 Cylinder Engine Gasoline Fuel",19741.5520168202
+"int_col.Linen",19533.5427893316
+"modelHUMMER EV Edition 1",19430.7709798351
+"ext_col.Lizard Green",18636.406296573
+"model911 GT3 RS",18635.301066616
+"modelMartin Vantage Base",18322.257848568
+"engine4.4 Liter",18113.1811432416
+"ext_col.Nero Noctis",17919.3022250752
+"engine5.2L V10 40V GDI DOHC",17911.4502155292
+"engine603.0HP 4.0L 8 Cylinder Engine Gasoline/Mild Electric Hybrid",17777.0589520579
+"modelAMG GLS 63 4MATIC",17776.8831260794
+"modelContinental GT Speed",17774.2089137585
+"engine808.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",17759.6123762903
+"modelChallenger SRT Demon",17759.5003718933
+"brandMaserati",17738.7751439284
+"engine602.0HP 5.2L 10 Cylinder Engine Gasoline Fuel",17671.4858087795
+"modelHuracan LP610-4",17670.8585816687
+"transmission.7-Speed Manual",17063.0936525656
+"transmission.6-Speed Manual",16753.9871304006
+"engine540.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel",16677.3345018142
+"modelHuracan LP580-2",16254.0615729209
+"engine443.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel",16225.5318796252
+"engine542.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",15986.8528751402
+"int_col.Nero",15921.0644139912
+"ext_col.Rosso Corsa",15920.9261502086
+"model488 GTB Base",15918.4503534908
+"ext_col.Dark Sapphire",15619.3734683704
+"modelContinental GT V8 First Edition",15617.3930256636
+"engine610.0HP 5.2L 10 Cylinder Engine Gasoline Fuel",15514.0491620395
+"modelR8 5.2 V10 plus",15513.9973946154
+"modelRover Range Rover P400 SE SWB",15483.5012151996
+"engine562.0HP 3.8L 8 Cylinder Engine Gasoline Fuel",15216.8859296237
+"engine4.0L V8 32V GDI DOHC Twin Turbo",15122.1854733909
+"modelContinental GT W12",15074.2995786795
+"modelSprinter 3500 High Roof",15042.0811332199
+"engine450.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel",14977.9356737078
+"model911 Targa 4 GTS",14977.7364832915
+"engine4.0 Liter Twin Turbo",14924.0189496305
+"model570S Spider",14895.5906993192
+"modelAMG GT R",14868.3408429787
+"engine565.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",14791.31811038
+"engine453.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",14552.4294364899
+"modelCayenne GTS Coupe AWD",14552.2750926991
+"ext_col.Daytona Gray Pearl Effect w/ Black Roof",14534.519443554
+"modelR8 5.2 V10 performance",14532.8775372812
+"modelX7 ALPINA XB7",14506.2977102114
+"engine543.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",14180.0216099663
+"engine475.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel",14114.8685632836
+"transmission.8-Speed Automatic with Auto-Shift",14026.270187414
+"modelMetris Base",13473.4689195687
+"transmission.9-Speed Automatic with Auto-Shift",13396.0777340238
+"modelAMG GT C",13395.9488757253
+"engine3.5L V6 24V PDI DOHC Twin Turbo Hybrid",13395.9128239926
+"modelNSX Base",13395.5326653197
+"ext_col.Rosso Mars Metallic",13355.560471177
+"int_col.Sahara Tan",13341.9881641607
+"modelMartin DBX Base",13341.4544168192
+"modelRover Range Rover Sport First Edition",13101.0933056898
+"engine3.8L V6 24V MPFI DOHC Twin Turbo",13079.8860465034
+"ext_col.Bayside Blue",13079.7340479471
+"modelG-Class G 550",13005.479985591
+"int_col.Hotspur Hide",12851.5985646062
+"ext_col.Beluga Black",12851.1620125714
+"engine379.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel",12710.6274380964
+"model718 Cayman GT4",12440.9046610401
+"modelRover Range Rover Sport SVR Carbon Edition",12438.1329362741
+"engine414.0HP 4.0L Flat 6 Cylinder Engine Gasoline Fuel",12425.6946273867
+"modelHuracan LP580-2S",12410.2775696113
+"model718 Spyder Base",12379.4088727355
+"engine409.0HP 3.4L V6 Cylinder Engine Gasoline Fuel",12374.1300235529
+"modelLX 600 F SPORT",12374.1033882939
+"modelBentayga V8",12352.9045033845
+"engine630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",12238.2516047221
+"engine5.2L V10 40V PDI DOHC",12225.6861666843
+"ext_col.Kemora Gray Metallic",12068.0291551077
+"engine430.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel",12051.5727519899
+"model911 Carrera GTS",12051.3732883681
+"engine523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel",11958.9054711421
+"engine416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",11920.0263808208
+"modelG-Class G 550 4MATIC",11919.9796481743
+"modelBentayga Speed",11797.2662658332
+"modelCamaro ZL1",11209.7091228752
+"int_col.Blk",11195.4142652497
+"int_col.Black / Express Red",11115.0832877045
+"modelR8 5.2 V10",11063.4340055841
+"modelCayman GT4",11050.4927317533
+"modelAMG GT 63 S 4-Door",11015.581678372
+"modelRover Range Rover Westminster SWB",10942.7419406872
+"brandBentley",10816.0191551209
+"engine550.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",10759.503741643
+"engine3.0L H6 24V GDI DOHC Twin Turbo",10741.258887418
+"int_col.Beluga Hide",10738.9796679856
+"ext_col.Ice",10738.5145827765
+"modelEscalade Sport",10337.3168048186
+"ext_col.Dark Gray Metallic",10251.8360644731
+"ext_col.Blue Caelum",10042.3564642465
+"modelEQS 450 4MATIC",10033.8955665196
+"model570S Base",10019.065811049
+"engine797.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",9890.18663049143
+"transmission.7-Speed Automatic",9827.53100418795
+"brandAston",9809.44153589204
+"modelBentayga Activity Edition",9807.75753596697
+"engine550.0HP 5.2L 10 Cylinder Engine Gasoline Fuel",9724.02247666804
+"modelR8 5.2",9724.00034742273
+"engine557.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",9602.69051959006
+"modelRover Range Rover SV Autobiography Dynamic SWB",9602.53684490371
+"modelEscalade ESV Premium Luxury Platinum",9510.08474015204
+"modelBentayga Onyx Edition",9440.22791714515
+"ext_col.Vega Blue",9379.04737400563
+"engine3.8L V8 32V MPFI DOHC Twin Turbo",9378.13978527893
+"engine493.0HP 5.0L 10 Cylinder Engine Gasoline Fuel",8941.04176057419
+"modelGallardo SE",8940.32382670869
+"ext_col.Jupiter Red",-8849.85893296682
+"engine420.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel",8794.38636409015
+"modelS-Class S 580 4MATIC",8786.70206454494
+"engine617.0HP 4.4L 8 Cylinder Engine Gasoline Fuel",8763.70191013057
+"modelM8 Competition",8606.22513689537
+"engine4.4L V8 32V GDI DOHC Twin Turbo",8528.19300555442
+"modelGT-R Black Edition",8476.85194908436
+"modelCountryman Cooper",-8456.11996229168
+"engine2L H-4 DOHC, variable valve control, regular unleaded, engine wi",-8429.26244279255
+"ext_col.Quartz Blue Pearl",-8429.1354384608
+"model840 i xDrive",8388.98975860407
+"ext_col.designo Diamond White Metallic",8244.0965257367
+"engine480.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel",8206.58715986927
+"model911 Turbo Cabriolet",8206.445918412
+"engine553.0HP 3.9L 8 Cylinder Engine Gasoline Fuel",8177.5773566175
+"modelCalifornia T",8177.25930749415
+"model718 Boxster GTS",8158.09590471969
+"modelEscalade Sport Platinum",8021.71024763694
+"engine536.0HP Electric Motor Electric Fuel System",7983.7648439752
+"modelAir Grand Touring",7983.40976068683
+"modelEscalade ESV Sport",7963.01753071575
+"modelYukon Denali Ultimate",7926.78975652479
+"modelM8 Gran Coupe Competition",7912.11087712209
+"modelM3 Competition xDrive",7842.46609672954
+"ext_col.Onyx Black",7799.94332011839
+"modelGhibli Base",-7766.50935144963
+"engine345.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-7766.31426854843
+"modelS8 4.0T quattro",7739.58828770035
+"modelBronco Raptor",7729.45517396543
+"engine277.0HP 3.0L Straight 6 Cylinder Engine Diesel Fuel",7719.53662136938
+"modelCoupe Cambiocorsa",-7717.35407060406
+"engine390.0HP 4.2L 8 Cylinder Engine Gasoline Fuel",-7717.13998153216
+"engine496.0HP 4.0L 8 Cylinder Engine Gasoline/Mild Electric Hybrid",7703.48694956753
+"modelGT-R Premium",7675.4899969408
+"engine521.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",7653.82357341086
+"modelContinental GT V8 S",7653.57584613539
+"int_col.Tan",7555.17316352734
+"engine405.0HP 4.2L 8 Cylinder Engine Gasoline Fuel",-7455.22106432416
+"ext_col.Rift Metallic",7403.8646456255
+"engine6.2L V8 16V GDI OHV Supercharged",7403.62828282494
+"modelCT5-V Blackwing",7403.42883295518
+"modelYukon XL Denali",7385.29697081631
+"modelAMG G AMG G 63 4MATIC",7360.86890694983
+"modelAMG GT Base",7341.49635028424
+"engine471.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",7319.41754425138
+"modelTaycan Turbo",7279.56395733259
+"modelModel X Base",7275.63400365151
+"model911 Carrera",7169.00983197328
+"ext_col.Frozen Dark Silver Metallic",7135.36115462868
+"ext_col.Gentian Blue Metallic",7118.44357635402
+"transmission.2-Speed Automatic",7118.20977035421
+"engine404.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-7081.87535058616
+"brandLucid",7076.65797699746
+"engine702.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",7020.06813652226
+"engine591.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",7000.12238519463
+"modelRS Q8 4.0T",7000.05810477774
+"modelCorvette Stingray w/3LT",6966.24193798226
+"engine650.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",6947.50674629901
+"engine450.0HP 4.5L 8 Cylinder Engine Gasoline Fuel",-6884.28965630733
+"modelX7 M50i",6872.75053679296
+"ext_col.Blu",6866.41563560839
+"modelQuattroporte Modena Q4",6865.5835191894
+"engine533.0HP Electric Motor Electric Fuel System",6854.03080341937
+"modelM4 Competition",6780.32399623713
+"engine6.4L V8 32V DDI OHV Twin Turbo Diesel",-6779.96904278156
+"engine482.0HP Electric Motor Electric Fuel System",6769.24192200242
+"modelTaycan 4S",6768.82747053323
+"modelCaliber Express",-6755.7191496019
+"engine760.0HP 5.2L 8 Cylinder Engine Gasoline Fuel",6746.69796168926
+"modelRS Q8 4.0T quattro",6720.32017283278
+"engine582.0HP 6.0L 12 Cylinder Engine Gasoline Fuel",6706.28897375217
+"modelA3 2.0T",-6689.55864205442
+"brandPorsche",6556.98956068189
+"transmission.10-Speed Automatic with Overdrive",6518.69782789322
+"modelLC 500 Base",6484.41048336763
+"modelRover Defender X",6424.55923759139
+"modelF-350 Platinum",6405.39209058175
+"int_col.Black/Red",6399.92343281603
+"engine4.0 Liter TFSI",6398.97472239196
+"modelRS 7 4.0T",6398.62367210984
+"engine362.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid",6342.67686676353
+"modelLeaf SL",-6291.46505749884
+"engine107.0HP Electric Motor Electric Fuel System",-6291.35920711343
+"modelM3 CS",6262.41430146272
+"engine563.0HP 5.5L 8 Cylinder Engine Gasoline Fuel",6224.50892454264
+"engine575.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",6223.47477903206
+"engine600.0HP 6.0L 12 Cylinder Engine Gasoline Fuel",6211.72243540965
+"modelModel X Long Range",6208.48397628998
+"engine490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",6200.8616762578
+"modelR1S Adventure Package",6188.125518492
+"modelSupra A91-MT Edition",6154.8400871824
+"engine3.0L I6 24V DDI DOHC Turbo Diesel",6129.28061368751
+"engine405.0HP 4.8L 8 Cylinder Engine Gasoline Fuel",-6109.17943445856
+"engine369.0HP 1.5L 3 Cylinder Engine Plug-In Electric/Gas",6108.67509023947
+"engine560.0HP 5.2L 10 Cylinder Engine Gasoline Fuel",6095.1395389356
+"modelGallardo LP560-4",6094.57846613364
+"modelSonic LT",-6091.70596694823
+"engine252.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-6086.07650012901
+"modelMalibu LTZ",-6086.05694959766
+"engine4.4 Liter Twin Turbo",6057.74583214439
+"modelYukon XL AT4",6049.92876542348
+"int_col.Caramel",6038.31975213652
+"ext_col.Nightfall Mica",6038.08053877084
+"modelGhibli S Q4",-6034.90746367673
+"ext_col.Ametrin Metallic",6007.31668997773
+"modelShelby GT350R Base",5996.22090058456
+"modelLX 570 Three-Row",5989.26091499624
+"modelM4 Competition xDrive",5985.78215148702
+"modelSLK-Class SLK320",-5981.78408192279
+"engine365.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",5971.28357854961
+"modelEscalade Premium Luxury",5969.53584776591
+"modelA-Class A 220 4MATIC",-5966.14696501127
+"brandRivian",5956.06316822038
+"engine429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid",5938.00224513277
+"engine835.0HP Electric Motor Electric Fuel System",5877.40053092746
+"modeli3 Base w/Range Extender",-5845.43937609628
+"engine385.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel",5844.55473011452
+"model911 Carrera 4S",5839.55543858509
+"modelLaCrosse CX",-5838.74850542648
+"modelR1S Launch Edition",5780.03115879255
+"modelXJ Base",-5776.30895129225
+"model911 Carrera 4",5770.04696215327
+"modelX5 3.0i",-5757.97266876984
+"engine168.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-5739.11913012903
+"ext_col.Infrared Tintcoat",5736.4545483486
+"ext_col.Black Raven",5734.36539014907
+"modelG-Class G 63 AMG",5729.21796792572
+"modeli3 94 Ah",-5705.43604701487
+"modelCube 1.8 S",-5704.41844093969
+"ext_col.Donington Grey Metallic",5676.63939107539
+"modelDeVille Base",-5674.48280732599
+"engine140.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-5655.81677967442
+"modelEclipse Spyder GS",-5655.7970783912
+"modelMazda3 s Sport",-5639.69869736805
+"modelTT 1.8L",-5624.59433955067
+"engine2L I-4 gasoline direct injection, DOHC, variable valve control,",-5613.15962419568
+"modelC-Class 4MATIC Sedan",-5612.94612654091
+"engine603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",5612.51448082352
+"modelAMG E 63 S 4MATIC",5612.45523985047
+"modelAMG GT AMG GT S",5603.1110163643
+"modelX5 xDrive40e",-5599.26462776792
+"modelTaycan",5593.26728803221
+"engine375.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid",5570.97109648403
+"engine153.0HP 2.3L 4 Cylinder Engine Gasoline Fuel",-5557.87931294304
+"engine201.0HP 2.5L Flat 6 Cylinder Engine Gasoline Fuel",-5557.08606206422
+"engine232.0HP 1.3L Rotary engine Gasoline Fuel",-5550.0978189119
+"modelRX-8 Grand Touring",-5550.07487102256
+"ext_col.Magnetite Black Metallic",5523.84681686864
+"modelAMG S 63 Base 4MATIC",5523.17136449541
+"model850 Turbo",-5521.10988084623
+"modelC-Class C280 4MATIC",-5518.19447959111
+"modelR-Class R 350 4MATIC",-5510.0123800745
+"engine104.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-5507.26492736594
+"modelAccent GL",-5507.19507437087
+"modelQuattroporte S",-5500.31056460995
+"engine425.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-5500.11932084529
+"modelRover Discovery Sport HSE",-5495.7687419843
+"ext_col.Indus Silver",-5495.42056773053
+"modelLevante S",-5489.44982232336
+"modelCLS-Class CLS 550",5488.57967330452
+"modelJuke SV",-5469.78354383015
+"modelSebring LX",-5466.36010286273
+"engine638.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",5462.49397392478
+"modelCorvette ZR-1",5462.41564402507
+"modelAviator Luxury",-5458.92028757372
+"modelSierra 1500 Denali Ultimate",5457.81606211204
+"model1500 TRX",5431.17534168395
+"modelPickup Truck XE",-5430.26777679848
+"modelRL Technology",-5401.83801054472
+"engine109.0HP 1.5L 4 Cylinder Engine Gasoline Fuel",-5392.15959715464
+"modelFit Sport",-5391.99372375707
+"engine395.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid",5388.71130548859
+"engine437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid",5388.228244261
+"modelSentra SR",-5384.3797238839
+"engine1.8 Liter",-5384.33921606687
+"modelC-Class C 250 Luxury",-5382.10879841043
+"engine600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel",5376.69401472164
+"int_col.Sakhir Orange",5369.60029673486
+"modelATS 2.0L Turbo Luxury",-5369.58425412212
+"ext_col.Blue Metallic",5369.38096932202
+"model911 Carrera S",5368.93057684196
+"engine78.0HP 1.2L 3 Cylinder Engine Gasoline Fuel",-5366.36888669185
+"modelMirage ES",-5366.34920814378
+"engine156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel",-5362.14692129392
+"modelDart SE",-5342.98835753813
+"modelPacifica Touring",-5338.84411669246
+"modelProMaster 2500 Window Van High Roof",5334.027386875
+"engine169.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-5326.70268841261
+"modelMalibu 1LT",-5326.62455117278
+"engine670.0HP Electric Motor Electric Fuel System",5319.48340670058
+"engine122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-5317.53992960341
+"engine266.0HP 4.0L V6 Cylinder Engine Gasoline Fuel",-5311.9071521101
+"modelPathfinder Silver",-5311.77142163253
+"modelS80 3.2",-5301.03531065795
+"engine503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",5298.17869513477
+"modele-Golf SE",-5294.91888715955
+"engine115.0HP Electric Motor Electric Fuel System",-5294.78371025688
+"modelCLK-Class 500 Cabriolet",-5283.92142974806
+"modelCorvette Stingray w/2LT",5282.2839862057
+"engine475.0HP 6.7L 8 Cylinder Engine Diesel Fuel",5275.9940839192
+"modelAvalon Limited",-5267.08384030852
+"engine180.0HP 3.4L V6 Cylinder Engine Gasoline Fuel",-5266.00403458241
+"modelImpala Base",-5265.97018757731
+"modelMatrix XRS",-5261.21627516344
+"engine620.0HP Electric Motor Electric Fuel System",5254.67971289625
+"modelAir Pure",5254.30914570353
+"modelAMG GT 53 Base",5253.0455853549
+"modelQX80 SENSORY",5243.04323886698
+"modelLancer Sportback ES",-5240.75842199521
+"modelQX56 Base",-5240.2928325036
+"modelMazda3 i Sport",-5237.35874491064
+"modelGenesis Coupe 2.0T",-5224.02941417701
+"engine552.0HP 6.0L 12 Cylinder Engine Flex Fuel Capability",5217.07074202205
+"ext_col.Volcano Grey Metallic",-5215.24050130982
+"modelZ4 3.0i Roadster",-5212.53640628457
+"engine215.0HP 3.2L V6 Cylinder Engine Gasoline Fuel",-5208.67109347618
+"engine5.0L V8 32V GDI DOHC Supercharged",5187.33372331337
+"modelRover Range Rover P525 Westminster",5187.0846250209
+"engine1.5L I3 12V GDI DOHC Turbo",-5185.82647787599
+"modelCorolla S Plus",-5171.78886890031
+"modelForester 2.5 X",-5171.2603374174
+"modelGL-Class GL 550",-5168.54221329163
+"engine440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",5153.15460426819
+"engine245.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-5149.48677902412
+"engine290.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",-5137.32735230026
+"modelTaycan Base",5129.62809301317
+"modelPathfinder SV",-5125.42534782491
+"engine132.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-5105.75219813989
+"modelES 330 Base",-5104.26013837422
+"engine5L V-8 gasoline direct injection, DOHC, variable valve control,",-5094.20789486358
+"transmission.Auto, 6-Spd w/CmdShft",-5094.05476919329
+"modelForte LX",-5093.34657726867
+"engine2L I-4 DOHC, D-CVVT variable valve control, engine with 147HP",-5093.28209356304
+"ext_col.Silky Silver",-5092.69856666021
+"ext_col.Ember Pearlcoat",5091.12257894328
+"modelGrand Wagoneer Base",5090.72686703596
+"engine186.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-5083.48693116165
+"modelC70 T5",-5081.85138920677
+"engine182.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-5081.75656093609
+"modelMazda6 iSport VE",-5080.97771899511
+"modelGolf Auto TSI S",-5051.14992613442
+"modelGhibli S Q4 GranSport",-5050.02003172993
+"model535 i",-5045.85555901301
+"ext_col.Baltic Gray",5044.37902072683
+"modelGrand Wagoneer Series III",5043.57720995939
+"modelDTS Base",-5043.09640215179
+"engine240.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",-5037.48260616461
+"modelMonte Carlo Supercharged SS",-5037.44898510484
+"modelCayenne E-Hybrid S",-5036.65926176318
+"modelRover Range Rover Evoque SE Premium",-5035.11351186375
+"engine503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",5031.22083977462
+"modelSequoia TRD Pro",5029.53015257494
+"engine255.0HP 4.8L 8 Cylinder Engine Gasoline Fuel",-5025.32568719686
+"modelSLK-Class SLK230 Kompressor",-5014.27799663791
+"engine190.0HP 2.3L 4 Cylinder Engine Gasoline Fuel",-5014.22314838689
+"engine120 AH",-5013.82498425925
+"engine210.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-5011.83746863039
+"modelAvalon XLS",-5011.79239924002
+"modelTSX Technology",-5005.42754102729
+"engine172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-4999.23938217459
+"engine215.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",-4989.06807099864
+"modelAMG C AMG C 63 S",-4984.95375314954
+"modelThunderbird Premium",-4981.17587216743
+"engine172.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid",-4976.80056706636
+"modelVue Hybrid Base",-4976.77341222122
+"modelEos 2.0T",-4976.72354232698
+"modelRover LR2 HSE",-4974.12863987089
+"engine263.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-4973.82907404573
+"modelFocus ST Base",-4966.00345202121
+"modelCLK-Class 550",-4959.77940266757
+"modelTerrain SLT",-4955.72574759232
+"modelGTI Base",-4950.50724876024
+"engine132.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-4947.27793356264
+"modelVeloster Base",-4947.15210850999
+"engine335.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-4942.93612203894
+"modelDurango SLT",-4942.87574274651
+"brandsmart",-4941.0049871431
+"engine70.0HP 1.0L 3 Cylinder Engine Gasoline Fuel",-4940.94303989053
+"modelForTwo Pure",-4940.86951294847
+"engine201.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-4935.79805764511
+"modelG6 GTP",-4935.63050196724
+"modelBronco",4929.23905790022
+"engine180.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-4927.58985769722
+"modelVersa 1.8 S",-4927.15104534368
+"modelTaurus X Limited",-4926.73804522638
+"modelMazda3 i Touring",-4923.5849290561
+"modelAvenger SE",-4922.29569445352
+"modelContinental GTC Base",4918.65124605819
+"engine176.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-4918.53091330719
+"modelRAV4 SE",-4918.45026794099
+"modelSorento SX",-4916.31812153256
+"modelS4 3.0 Prestige",-4911.00830122321
+"engine420.0HP 5.6L 8 Cylinder Engine Gasoline Fuel",-4905.82876771204
+"modelM56 Base",-4905.78455155811
+"model500e Battery Electric",-4905.1416856408
+"engine111.0HP Electric Motor Electric Fuel System",-4904.99705628644
+"modelRover Range Rover Evoque SE",-4904.65547563089
+"modelCLK-Class CLK 350",-4897.27690455228
+"modelCamry Hybrid Base",-4893.55035306857
+"modelGLC 300 Base 4MATIC",-4892.51493956356
+"modelA4 2.0T Premium",-4889.81104062094
+"modelC-Class C 300 Luxury",-4887.16708714638
+"modelEdge SEL",-4873.69259529111
+"ext_col.White Platinum Tri-Coat Metallic",-4873.15828975851
+"modelCorolla LE",-4866.28198323961
+"modelMKX Reserve",-4855.33645059749
+"brandSuzuki",-4852.59770316673
+"modelSX4 Base",-4852.55561791935
+"modelCorvette Stingray w/1LT",4849.79939749639
+"modelXF Luxury",-4849.63427256491
+"model328 xi",-4849.01452155343
+"modelSLK-Class SLK280 Roadster",-4844.65360661908
+"modelQ40 Base",-4840.73481008218
+"modelSprinter 2500 Standard Roof",4834.85649863573
+"model430 i",-4830.03691872084
+"engine240.0HP 2.7L Flat 6 Cylinder Engine Gasoline Fuel",-4823.2069394026
+"engine160.0HP 1.4L 4 Cylinder Engine Gasoline Fuel",-4821.0550046823
+"model328 i xDrive",-4815.82379308536
+"modelCX-7 Sport",-4814.81020208386
+"modelSierra 1500 SLE1 Extended Cab",-4814.80331146833
+"modelQ7 3.0T Premium Plus",-4814.55188303562
+"engine280.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-4814.53832223545
+"modelF-250 XLT Super Duty",-4813.33639888913
+"engine260.0HP 5.4L 8 Cylinder Engine Gasoline Fuel",-4813.30126530077
+"modelRam 1500 Laramie",-4813.21417112778
+"modelEdge SE",-4813.07951640835
+"modelCapri XR2",-4802.50315751339
+"modelCompass Sport",-4795.66097052212
+"engine335.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-4789.99097903524
+"modelM-Class ML 350",-4785.70811971863
+"modelOptima LX",-4782.90778978842
+"modelMazda3 i SV",-4781.73849240081
+"modelMustang Premium",-4773.71606008713
+"modelOptima Hybrid EX",-4772.39329812838
+"engine160.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4767.79379197219
+"engine147.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid",-4767.52914754259
+"modelC-Max Energi SE",-4766.74663441149
+"engine136.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-4764.81655793733
+"modelCruze LS",-4764.68734473371
+"model325 xi",-4762.44116366254
+"modelKona N Base",-4761.24198947537
+"ext_col.Ultra Black",-4760.82135836703
+"modelSL-Class SL400",-4759.74589865011
+"modelA4 2.0T Premium quattro",-4758.13597820846
+"engine218.0HP 2.5L 5 Cylinder Engine Gasoline Fuel",-4757.28738650894
+"modelRover LR2 Base",-4756.78733239845
+"modelLancer DE",-4755.47117682118
+"modeli8 Base",4754.56671606478
+"modelGLA-Class GLA 250 4MATIC",-4752.57322556897
+"engine444.0HP 2.9L V6 Cylinder Engine Gasoline Fuel",4750.02406922668
+"modelRS 5 2.9T",4749.90595205916
+"modelCooper S Base",-4748.94487880344
+"modelNew Beetle GLS",-4747.1793184643
+"engine115.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4747.15992871484
+"modelViper SRT-10",4746.34886000351
+"modelMurano SL",-4746.34240844629
+"engine170.0HP 0.65L Electric Motor Electric Fuel System",-4746.0148464836
+"modelXF 25t Premium",-4740.65194513316
+"modelTT 2.0T Premium",-4739.90340542683
+"modelMX-5 Miata Shinsen",-4739.14914723473
+"modelImpreza 2.0i",-4735.19056178844
+"modelProMaster 3500 Tradesman",-4734.14934852529
+"modelGolf GTI 2.0T SE w/Performance Package 4-Door",-4732.42510656506
+"engine173.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4731.72778041999
+"modelRover Defender SE",4731.14525495152
+"modelDTS Luxury II",-4729.19954372726
+"engine170.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel",-4725.52003270146
+"model323 Ci",-4725.41797050325
+"engine174.0HP 2.8L V6 Cylinder Engine Gasoline Fuel",-4717.95845589034
+"modelJetta GLX VR6",-4717.83058589309
+"modelBoxster Base",-4714.09637913677
+"engine244.0HP 2.3L 4 Cylinder Engine Gasoline Fuel",-4701.49266376438
+"modelDakota Big Horn/Lone Star",-4699.32097478649
+"engine158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4697.73507999136
+"model1500 Cheyenne",-4697.36126606545
+"modelCruze LT",-4696.81001619293
+"modelMustang V6 Premium",-4695.23237804345
+"engine118.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-4693.43174994487
+"modelCooper Base",-4693.33190856473
+"modelRX 300 Base",-4692.91719485497
+"modelXC70 3.2",-4689.05149682362
+"modelRAV4 Base",-4687.96818875693
+"modelS8 4.2 quattro",-4687.95557166524
+"engine360.0HP 4.2L 8 Cylinder Engine Gasoline Fuel",-4687.81402371181
+"modelGranTurismo Base",-4686.23446363236
+"modelX3 xDrive35i",-4685.32883858681
+"engine132.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4684.32297447256
+"engine275.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-4683.49132886509
+"engine265.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-4681.72087123756
+"modelSRX Performance Collection",-4681.64328518134
+"engine201.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-4678.98991662734
+"modelVeloster Turbo R-Spec",-4678.91795367869
+"engine545.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",4674.48250977996
+"modelForte Koup EX",-4674.20053127276
+"modelGenesis 5",-4673.40753976539
+"modelS-Class S500",-4672.63097661688
+"model1500 Cheyenne Extended Cab",-4672.227787155
+"engine190.0HP 4.3L V6 Cylinder Engine Gasoline Fuel",-4669.05039356175
+"modelS-10 LS Crew Cab",-4668.9918249614
+"modelCLA-Class CLA 250",-4666.7719194694
+"modelALPINA B7 ALPINA B7 xDrive",4665.25754703138
+"modelJetta S",-4656.67094946885
+"modelS40 T5",-4646.24771608123
+"engine6.6 Liter Twin Turbo",4638.81537754048
+"modelM760 M760i xDrive",4638.59926464279
+"modelHS 250h Premium",-4638.4825486978
+"engine320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel",-4635.50854412501
+"engine188.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas",-4632.96701660777
+"modelEquinox 2LT",-4630.8593385113
+"modelXT6 Premium Luxury AWD",4630.01512417816
+"modelSilverado 1500 W/T",-4626.83826900493
+"modelTLX Base",-4626.72129054516
+"modelRover Range Rover Supercharged",-4626.21333183805
+"engine400.0HP 4.2L 8 Cylinder Engine Gasoline Fuel",-4626.16705129627
+"engine227.0HP 2.5L 5 Cylinder Engine Gasoline Fuel",-4624.74291134887
+"modelC-Class C 300 4MATIC Sport",-4623.35110246435
+"modelQ50 3.0t Red Sport 400",-4622.09913262805
+"ext_col.Liquid Platinum",-4621.65256685973
+"engine151.0HP Electric Motor Hydrogen Fuel",-4615.44720479569
+"modelMirai Base",-4615.33290564093
+"engine156.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4613.98984326628
+"modelEscape XLT",-4613.86578847296
+"engine230.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel",-4609.80017025738
+"modelFocus SE",-4605.03720455916
+"transmission.Automatic, 8-Spd PDK Dual-Clutch",4600.28254698415
+"modelQ50 Hybrid Sport",-4600.23885063276
+"engine283.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-4600.08249631458
+"modelRoutan SE",-4599.93891675041
+"engine2.9L V-6 gasoline direct injection, DOHC, variable valve control",4599.70426799161
+"modelPanamera 4 Platinum Edition",4599.39140976238
+"engine360.0HP 4.8L 8 Cylinder Engine Gasoline Fuel",-4597.49672349004
+"model428 i",-4595.16807755763
+"engine162.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-4592.39361815263
+"engine173.0HP 2.7L V6 Cylinder Engine Gasoline Fuel",-4592.25774937923
+"modelEclipse GS",-4592.12810994846
+"engine3.5L V-6 port/direct injection, DOHC, VVT-iE/VVT-i variable valv",-4591.13894590093
+"transmission.Automatic, 10-Spd",-4590.66188801973
+"modelLS 500 Base",-4590.47615416439
+"engine180.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4590.29168114317
+"model320 i xDrive",-4590.10842006239
+"modelA6 3.0T Prestige",-4586.8939108079
+"engine526.0HP 5.2L 8 Cylinder Engine Gasoline Fuel",4585.35497402666
+"model500 Lounge",-4585.3426639722
+"modelCX-7 Grand Touring",-4585.17151446034
+"modelFusion Hybrid Titanium",-4582.9810457063
+"modelPanamera 4",-4578.2406190876
+"model325 Ci",-4577.21479706109
+"engine275.0HP 4.8L 8 Cylinder Engine Gasoline Fuel",-4572.74557123505
+"modelTerrain SLT-1",-4566.63304444977
+"engine323.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-4561.60555036562
+"modelTT Roadster quattro",-4561.36321460973
+"engine225.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-4561.3586170289
+"modelFusion SE",-4560.44279029833
+"engine160.0HP 1.5L 4 Cylinder Engine Gasoline Fuel",-4560.22441576082
+"modelMalibu LT",-4560.16782026234
+"engine201.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-4560.09296422427
+"model911 Carrera 4S Cabriolet",4555.27299871017
+"engine211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4554.73602648009
+"engine165.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-4554.32653787585
+"engine155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4550.69806361817
+"engine250.0HP 2.7L V6 Cylinder Engine Gasoline Fuel",-4547.77243418129
+"modelallroad 2.7T",-4547.66535310128
+"engine287.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-4546.53209247247
+"engine136.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4545.46685407116
+"model750 Li",-4543.9182165656
+"modelAcadia SLT-1",-4541.56587884984
+"int_col.Boulder",4540.58694001085
+"engine3.4L V6 24V PDI DOHC Twin Turbo Hybrid",4540.36268700173
+"modelMazda6 i Grand Touring",-4538.19262293312
+"engine306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",-4534.48935608792
+"modelSonata GLS",-4532.69871530466
+"engine228.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-4527.27086504478
+"engine239.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-4525.99770136111
+"engine168.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-4524.29208262932
+"modelGenesis Coupe 3.8 Track",-4521.83436319199
+"engine3.6 Liter DOHC",-4515.23518982283
+"ext_col.Tango Red Metallic",4512.21564569839
+"engine400.0HP 2.5L 5 Cylinder Engine Gasoline Fuel",4510.52666949002
+"modelTT RS 2.5T",4510.45917874921
+"engine500.0HP 5.0L 10 Cylinder Engine Gasoline Fuel",-4504.45705873446
+"engine173.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-4502.58518745531
+"modelSilverado 2500 High Country",4498.01379093085
+"modelFusion Energi Titanium",-4496.22815787257
+"engine312.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-4494.5051981712
+"ext_col.Black Obsidian",-4491.12856371394
+"model4Runner Venture Special Edition",-4490.79386232576
+"engine4L V-6 DOHC, VVT-i variable valve control, regular unleaded, eng",-4490.39735702136
+"int_col.Black/Graphite",-4489.28493259353
+"engine138.0HP 1.4L 4 Cylinder Engine Gasoline Fuel",-4487.44804588625
+"engine286.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-4485.24504600668
+"modelTL Type S",-4485.22902846385
+"engine126.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-4483.90450517542
+"engine440.0HP 2.9L V6 Cylinder Engine Gasoline Fuel",4483.79210311327
+"modelCorolla CE",-4483.73366587081
+"int_col.Sakhir Orange/Black",4483.21855488428
+"modelX6 M Base",4482.6312597279
+"engine175.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-4480.49670282757
+"int_col.WHITE",4477.33137937288
+"engine2.4L I4 16V MPFI SOHC",-4476.77715487421
+"modelCompass Limited",-4476.77300420192
+"transmission.Automatic, 8-Spd Sport w/Sport & Manual Modes",4476.7187122658
+"engine6.6L V-12 gasoline direct injection, DOHC, variable valve contro",4476.35542633298
+"modelM760 i xDrive",4476.32961266969
+"engine270.0HP 4.8L 8 Cylinder Engine Gasoline Fuel",-4475.29258326634
+"modelSilverado 1500 LS",-4475.27070546082
+"engine250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-4475.14450099472
+"modelGL-Class GL 450",-4474.78773105432
+"modelTSX Base",-4473.33485538309
+"engine179.0HP 1.5L 4 Cylinder Engine Gasoline Fuel",-4472.98545411149
+"ext_col.Wolf Gray",-4472.13591407193
+"modelGenesis 4.6",-4465.17568056887
+"modelExplorer Sport",-4464.91883188943
+"modelImpreza Outback Sport Wagon",-4460.2075505445
+"engine268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-4460.07904285892
+"brandFIAT",-4455.96978009614
+"modelEdge Sport",-4453.57164923082
+"engine188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-4445.24183709887
+"engine300.0HP 4.4L 8 Cylinder Engine Gasoline Fuel",-4444.77972945168
+"modelEscape SEL",-4444.43396609617
+"engine166.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4443.81301226874
+"int_col.Charcoal Black",-4440.98157129374
+"engine230.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",-4430.72495377612
+"modelE-Class E 350 4MATIC",-4429.51862874225
+"modelQ3 45 S line Premium",-4428.57541926129
+"modelMX-5 Miata Sport",-4428.34207968216
+"engine1.6L I-4 gasoline direct injection, DOHC, variable valve control",-4427.25248651509
+"engine3.6L V6 GDI DOHC",-4425.83651437392
+"engine1.6L I4 16V GDI DOHC",-4418.6834867633
+"modelVeloster Value Edition",-4418.59827435783
+"ext_col.Ironman Silver",-4418.58998853002
+"modelCC Sport",-4417.42822725439
+"engine295.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid",-4417.1079830435
+"engine190.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-4414.38443322007
+"modelGLK-Class GLK 350",-4414.14111777559
+"engine200.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-4408.07185916491
+"modelAltima 2.5 SL",-4406.97120837444
+"modelS90 T5 Momentum",-4406.20137728963
+"modelSonata SE",-4403.37383254533
+"modelCamry XLE",-4399.69750410361
+"brandScion",-4393.92363688727
+"modelxB Base",-4393.68625571613
+"engine145.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-4393.5216452103
+"engine231.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4392.89018982911
+"engine137.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-4390.02020164123
+"modelCorolla iM Base",-4389.92664751231
+"engine444.0HP 2.9L V6 Cylinder Engine Gasoline/Mild Electric Hybrid",4389.37596329649
+"modelS7 2.9T Prestige",4389.14259185787
+"engine180.0HP 2.4L 4 Cylinder Engine Flex Fuel Capability",-4388.44945801822
+"modelVerano Convenience",-4388.14766443685
+"modelILX Premium Package",-4387.37759925275
+"brandMINI",-4384.11603820599
+"model500X Trekking Plus",-4382.14656398641
+"modelNavigator L",-4380.6310413899
+"engine272.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4379.28545072031
+"model135 i",-4377.52148383714
+"modelPathfinder S",-4373.91055832377
+"engine264.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-4366.84910672693
+"modelG35 Sport",-4365.35535337793
+"modelCooper S Clubman Base",-4357.99616842373
+"transmission.2-Speed A/T",4350.66277257702
+"engine197.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-4350.61463080644
+"modelFiesta ST",-4350.50659659854
+"engine430.0HP 7.3L 8 Cylinder Engine Gasoline Fuel",4349.430940396
+"engine401.0HP 2.5L 5 Cylinder Engine Gasoline Fuel",4347.31581712981
+"modelRS 3 2.5T",4347.22648882043
+"model200 Limited",-4347.14077714303
+"modelXterra S",-4346.41708975532
+"engine235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel",-4343.3741484765
+"modelSQ8 4.0T Premium Plus",4340.3095387823
+"modelGranTurismo Sport",-4339.93018223902
+"engine454.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-4339.74310253542
+"engine2.0L I4 16V GDI DOHC Turbo Flexible Fuel",-4338.4602156638
+"modelTown Car Base",-4338.42641086914
+"engine383.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",4338.16122970641
+"modelBolt EV LT",-4334.4962621514
+"engine184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel",-4319.0202045939
+"modelLaCrosse Base",-4318.60934202365
+"engine200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",-4313.93534612158
+"modelLiberty Sport",-4308.80655901473
+"modelEscalade Base",-4307.57303383818
+"modelTown Car Signature",-4306.95632063257
+"modelGolf GTI 2.0T Autobahn 4-Door",-4304.49993076569
+"modelPatriot Latitude",-4303.60297558409
+"engine158.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-4302.65940778225
+"engine130.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-4294.52764044436
+"modelSLK-Class SLK 350",-4292.10916234374
+"modelGenesis Coupe 3.8 Base",-4291.24340065947
+"modelF-150 XLT SuperCab",-4285.95980952495
+"modelG35 Base",-4283.14268804189
+"engine2.5L 4 Cylinder Engine Gasoline Fuel",-4277.36595341558
+"modelMalibu Limited LT",-4277.20974244046
+"modelCruze LTZ",-4274.9838626684
+"modelTundra Platinum",4271.98048633249
+"engine248.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-4271.05470384003
+"engine148.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4269.39795100301
+"modelLucerne CXL",-4269.19342402374
+"engine275.0HP 4.2L Straight 6 Cylinder Engine Gasoline Fuel",-4268.91779762763
+"modelRainier CXL",-4268.76560762506
+"modelEclipse GT",-4265.08232014611
+"engine378.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-4263.66763761972
+"modelExplorer Eddie Bauer",-4262.68190600716
+"engine101.0HP 1.4L 4 Cylinder Engine Gasoline Fuel",-4261.46549731672
+"engine262.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-4258.59702557942
+"modelFlex SEL",-4258.48411547515
+"modelOutback 2.5 i Special Edition",-4257.93769827967
+"modelXE 25t",-4255.55160924166
+"modelRomeo Giulia Base",-4253.55753075109
+"engine440.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-4253.22203853229
+"modelR1T Launch Edition",4252.89210146846
+"modelX5 xDrive 35i Sport Activity",-4251.8437275139
+"model528 i",-4248.55670179179
+"modelTown & Country Touring",-4247.78437694583
+"engine340.0HP 4.2L 8 Cylinder Engine Gasoline Fuel",-4247.75295539443
+"modelS4 Base",-4247.74096425615
+"modelPanamera 2",-4244.31655141803
+"engine272.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-4242.89070772113
+"modelTSX 2.4",-4242.88009556103
+"modelX3 xDrive28i",-4242.70629019147
+"modelC-Class C55 AMG Sport",-4236.92655462108
+"engine362.0HP 5.4L 8 Cylinder Engine Gasoline Fuel",-4236.88910489991
+"model330e iPerformance",-4236.66111277186
+"engine247.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas",-4236.54517348324
+"engine156.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid",-4235.1973522157
+"modelFusion Hybrid Base",-4235.08807182444
+"modelTLX V6 Tech",-4234.01023744015
+"engine260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-4233.28900348256
+"engine292.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-4227.76068981951
+"modelSorento EX",-4226.08163735997
+"engine225.0HP 3.3L V6 Cylinder Engine Gasoline Fuel",-4226.05074352254
+"engine210.0HP 4.0L V6 Cylinder Engine Gasoline Fuel",-4225.3754767761
+"engine177.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-4224.77360582355
+"modelSolstice Base",-4224.66577371216
+"engine171.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-4221.20130016852
+"modelEscape Limited",-4221.01413616322
+"modelCamry Solara SLE",-4213.44624096662
+"engine210.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4207.42046708701
+"engine345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-4206.45232547862
+"engine220.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-4203.88967967988
+"engine160.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability",-4202.55968169286
+"modelZ4 2.5i Roadster",-4202.10010581234
+"modelCamaro Base",-4201.00992558512
+"modelNavigator Select",-4200.25012175813
+"engine210.0HP 5.8L 8 Cylinder Engine Gasoline Fuel",-4199.10915498536
+"modelF-250 Base",-4199.03101831475
+"engine325.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-4198.83978395273
+"modelGolf GTI 2.0T S 4-Door",-4196.71518610727
+"modelLeaf S",-4185.61892154825
+"engine147.0HP Electric Motor Electric Fuel System",-4185.54893554729
+"engine172.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-4185.42135352332
+"engine225.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-4184.68257696371
+"engine240.0HP 3.0L V6 Cylinder Engine Flex Fuel Capability",-4182.32838850254
+"modelCrossfire Limited",-4181.05919871025
+"engine292.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-4180.22524500444
+"engine300.0HP 3.7L V6 Cylinder Engine Flex Fuel Capability",-4178.44163231191
+"modelUtility Police Interceptor Base",-4178.15915015728
+"engine555.0HP 4.4L 8 Cylinder Engine Gasoline Fuel",-4175.39671580651
+"modelZ4 3.0si",-4170.52016000486
+"engine255.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",-4170.46911121428
+"model325 i",-4169.30078118522
+"model335 i",-4169.28991273183
+"engine150.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-4168.44043598113
+"modelNew Compass Trailhawk",-4168.00566191743
+"modelZ3 3.0i Roadster",-4167.15331418368
+"engine330.0HP 3.4L Flat 6 Cylinder Engine Gasoline Fuel",4163.75265048037
+"modelCayman R",4163.61544376241
+"modelOptima S",-4163.17574424191
+"ext_col.Daytona Gray Pearl Effect",4162.25793543782
+"engine260.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",-4158.88622675621
+"modelEclipse Spyder GT",-4158.73008714038
+"engine133.0HP 2.2L 4 Cylinder Engine Gasoline Fuel",-4158.56951710332
+"modelCamry LE",-4158.40043414113
+"modelEscape SE",-4155.20136314204
+"modelChallenger SRT Hellcat",4154.79815213485
+"engine210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel",-4153.86983539713
+"modelSRX Luxury Collection",-4153.68144890387
+"model370Z Base",-4151.80280440534
+"modelExplorer Sport Trac XLT",-4148.1124506136
+"engine175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-4146.41893324332
+"modelCTS 3.6L Luxury",-4144.70091236495
+"ext_col.Majestic Plum Metallic",-4144.45969304712
+"int_col.Light Platinum / Jet Black",-4144.38200809704
+"engine2.4L I4 16V MPFI DOHC",-4143.10243721331
+"modelOutlander Sport 2.4 SE",-4142.95040874905
+"modelXK8 Base",-4140.25371526482
+"engine348.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",-4137.95132060626
+"engine375.0HP Electric Motor Electric Fuel System",4132.52784523587
+"modelXE 20d Prestige",-4130.18056057907
+"model350Z Enthusiast",-4128.44621447197
+"engine150.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4125.96462081579
+"engine380.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-4121.69223503683
+"engine181.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-4120.02083114813
+"engine255.0HP 2.9L Flat 6 Cylinder Engine Gasoline Fuel",-4117.07194395551
+"modelAvalon Hybrid XLE Premium",-4114.6409073614
+"modelShelby GT350 Base",4111.92554517942
+"engine159.0HP 2.7L 4 Cylinder Engine Gasoline Fuel",-4105.49780710949
+"model300C Base",-4104.67441566854
+"engine290.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",-4104.25438126366
+"modelRio S",-4103.41365295855
+"engine170.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-4102.29198334914
+"modelJuke SL",-4100.59710644707
+"engine206.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid",-4099.97577098016
+"modelEquinox LT",-4099.91746837419
+"engine147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel",-4096.85899716802
+"fuel_type.not supported",-4093.47079011639
+"modelCelica GT",-4089.10512862466
+"modelGL-Class GL 450 4MATIC",-4087.01882569543
+"modelC-Class C 300",-4078.19818046036
+"int_col.Dark Auburn",4077.79439682299
+"ext_col.Sandstone Metallic",4077.70704812243
+"modelEscalade Premium Luxury Platinum",4077.5650500288
+"modelOdyssey LX",-4077.42917428494
+"modelJetta 1.4T R-Line",-4076.54334403216
+"modelCountryman Cooper S",-4074.58033462258
+"engine179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-4073.92574178887
+"model300 Touring",-4073.05880913633
+"engine416.0HP 3.0L V6 Cylinder Engine Plug-In Electric/Gas",-4071.45933384113
+"modelTaurus SHO",-4069.66833548831
+"modelMX-5 Miata Grand Touring",-4068.56133300322
+"modelIntegra GS-R",-4065.60307331606
+"engine5.4 Liter",-4065.60289079556
+"int_col.Camel Leather",-4064.96934113862
+"engine208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4062.74792783352
+"engine303.0HP 3.7L V6 Cylinder Engine Gasoline Fuel",-4061.92531267582
+"modelKona EV SEL",-4061.88012126032
+"modelMKT Base",-4061.82717438023
+"modelRover Range Rover Evoque Pure",-4061.24702585341
+"engine308.0HP 3.6L V6 Cylinder Engine Flex Fuel Capability",-4060.55710562401
+"modelX5 xDrive50i",-4055.64742467566
+"modelEquinox Premier w/2LZ",-4053.85402317523
+"ext_col.Iridescent Pearl Tricoat",-4053.60792292972
+"modelWrangler SE",-4053.04532306369
+"modelTucson Limited",-4051.8107841875
+"modelMaxima SV",-4048.1976140448
+"engine335.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-4047.96772854827
+"engine120.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-4046.45518463158
+"modelGenesis 3.8",-4045.75664380448
+"modelCompass Latitude",-4044.63790055793
+"engine230.0HP 3.3L V6 Cylinder Engine Gasoline Fuel",-4039.0887470188
+"modelRX 330 Base",-4038.99812627598
+"engine400.0HP 4.4L 8 Cylinder Engine Gasoline Fuel",-4037.12561076158
+"engine239.0HP 3.7L 5 Cylinder Engine Gasoline Fuel",-4036.93339179934
+"engine150.0HP 1.4L 4 Cylinder Engine Gasoline Fuel",-4036.16407983347
+"modelJetta 1.4T SE",-4036.10432951395
+"modelMKZ Hybrid Base",-4034.28519054478
+"engine534.0HP Electric Motor Electric Fuel System",4034.22516355536
+"modelModel X Long Range Plus",4033.92732292334
+"modelRover LR4 Lux",-4032.82951927985
+"modelJetta 1.4T S",-4031.44014139237
+"engine182.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",-4029.11561222807
+"modelRover Discovery LSE",-4029.09096524983
+"engine201.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-4027.6727093801
+"modelRSX Type S",-4027.67086255194
+"engine195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel",-4024.70674007794
+"engine160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-4024.54920739449
+"modelCR-V EX",-4024.33474889917
+"engine400.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-4024.27707279659
+"modelXT4 Sport",-4024.02893819845
+"engine420.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",4019.77691352881
+"modelG37 x",-4018.59239397835
+"modelFusion Hybrid SE Hybrid",-4015.71978881272
+"modelCivic LX",-4014.37161303534
+"modelRam 2500 SLT Mega Cab",-4012.38180916572
+"model428 Gran Coupe i xDrive",-4010.00435835776
+"modelCharger Base",-4008.997402673
+"modelOutlander Sport ES",-4004.08572010441
+"modelTucson SE",-4002.88500899386
+"modelCharger SRT Hellcat",4002.0320096313
+"modelXJ Vanden Plas",-4001.31938338737
+"brandChrysler",-4000.99559282387
+"engine184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-3998.96148660468
+"modelMazda6 i Touring",-3998.79243591372
+"engine197.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",-3998.07645689554
+"engine717.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",3996.36182209078
+"engine300.0HP 4.2L 8 Cylinder Engine Gasoline Fuel",-3995.99408930438
+"engine244.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-3994.01170849903
+"modelSuburban High Country",3993.68992862207
+"engine1.4L I4 16V GDI DOHC Turbo",-3991.07346440288
+"ext_col.Platinum Gray Metallic",-3990.71386683083
+"int_col.Black / Gray",-3990.47722471795
+"modelAccent SEL",-3986.81824627909
+"engine328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel",-3985.81924444574
+"engine250.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel",-3985.76392694726
+"modelOutback 3.0 R VDC Limited",-3985.64700598505
+"engine429.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",-3985.59036238829
+"modelLancer Evolution IX",3982.50855276942
+"modelM37 x",-3982.26845370129
+"model650 Gran Coupe i xDrive",-3980.78320898905
+"engine240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3980.195173167
+"model228 Gran Coupe i xDrive",-3979.15485431373
+"engine250.0HP 2.5L 5 Cylinder Engine Gasoline Fuel",-3978.23583802415
+"modelS60 T5 Premier Plus",-3978.11845819341
+"modelCX-5 Touring",-3974.64081648561
+"modelJetta GLI",-3973.58586432261
+"engine445.0HP 6.6L 8 Cylinder Engine Diesel Fuel",3972.0247437767
+"modelCTS Performance",-3972.00282695891
+"engine275.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3971.30744004344
+"modelBeetle 1.8T",-3967.93510118211
+"modelCamry Solara SE",-3967.02701269898
+"modelMKC Reserve",-3963.30814611037
+"engine180.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-3963.259005733
+"engine220.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-3960.46545343841
+"engine270.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-3956.19504604662
+"modelC30 T5 Premier Plus",-3950.95513024212
+"modelRover Discovery Sport SE",-3948.87143971057
+"engine424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-3947.28723961288
+"modelGenesis Coupe 3.8 Grand Touring",-3946.04409067434
+"engine175.0HP 3.9L V6 Cylinder Engine Gasoline Fuel",-3944.06861679325
+"engine302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",-3942.18780725235
+"engine192.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-3936.98307683638
+"ext_col.White Clearcoat",-3936.36591984085
+"modelATS 2.5L",-3936.32194004496
+"modelCamaro 1LT",-3936.00753096161
+"model500 Sport",-3934.73092418323
+"modelBaja Base",-3934.30698529881
+"modelSienna LE",-3933.57878858921
+"modelCrosstour EX-L",-3933.19807093607
+"modelShelby GT500 Base",3932.93246244021
+"engine120.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-3932.80817605096
+"modelIS 250 Base",-3932.0234818617
+"ext_col.Stellar Black Metallic",-3930.43871669023
+"engine2.0L I4 16V GDI DOHC Flexible Fuel",-3929.42932609938
+"engine270.0HP 3.2L V6 Cylinder Engine Gasoline Fuel",-3929.34086833621
+"modelFocus SEL",-3929.02398846469
+"modelCTS Luxury",-3928.49139318893
+"engine470.0HP 6.4L 8 Cylinder Engine Gasoline Fuel",3928.16925466399
+"modelWrangler Unlimited Rubicon 392",3928.12548861096
+"modelILX Premium & A-SPEC Packages",-3927.95109637835
+"engine3.2L V6 18V MPFI SOHC",-3927.37196883987
+"modelRover Range Rover HSE",-3927.27853900838
+"engine344.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",-3927.21408718395
+"modelRover LR3 HSE",-3925.28059920072
+"engine204.0HP 2.5L V6 Cylinder Engine Gasoline Fuel",-3922.13300397878
+"modelE-Class E 300",-3921.97249053144
+"modelRover LR4 HSE LUX Landmark Edition",-3919.19338391703
+"engine281.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",-3909.54793117908
+"engine225.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",-3909.54191046152
+"modelS80 T6",-3909.49672484822
+"engine302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-3909.37579844214
+"modelMKZ Base",-3907.74138627857
+"model335 i xDrive",-3905.76610257051
+"model540 i",-3905.4101369505
+"ext_col.Stormy Sea",-3904.82746939817
+"engine280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel",-3903.46567129064
+"engine430.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",3902.39864104859
+"modelMartin Vantage GT Base",3902.27705013288
+"engine138.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-3901.35928098716
+"modelAccent GLS",-3901.15725420075
+"modelOptima EX",-3900.92086606385
+"modelCivic EX",-3898.33814613929
+"engine288.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-3896.91561223775
+"engine170.0HP 2.5L 5 Cylinder Engine Gasoline Fuel",-3895.66240274948
+"engine332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel",-3895.59592062143
+"engine354.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid",-3895.55567811539
+"modelMatrix XR",-3892.70519267764
+"modelTT 1.8T",-3887.64879875793
+"modelMKZ Select",-3887.57710429622
+"modelIS 250C Base",-3884.66991233782
+"modelCharger R/T",-3877.22832139461
+"modelAvalanche 1500 LS",-3875.90164851196
+"engine115.0HP 1.7L 4 Cylinder Engine Gasoline Fuel",-3875.82229556034
+"modelCivic Si",-3875.45937146227
+"model228 i",-3874.55461019267
+"engine170.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-3872.13000199232
+"modelXF XFR-S",3867.48830573713
+"modelA5 2.0T Premium Plus",-3867.11099511212
+"engine265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-3863.6452095263
+"modelS5 3.0T Premium Plus",-3863.240990719
+"modelMKS Base",-3861.02299487985
+"modelLegacy 2.5 i Premium",-3860.93726196426
+"engine778.0HP Electric Motor Electric Fuel System",3860.16300616182
+"brandSaturn",-3854.90589527469
+"modelMustang EcoBoost",-3850.81287632372
+"model328 i",-3849.03584288899
+"modelSolstice GXP",-3848.08231116617
+"modelEcoSport SES",-3847.90766043515
+"modeli3 120Ah w/Range Extender",-3847.6938201223
+"ext_col.Volcanic Orange",-3846.49946459845
+"int_col.Carbon Black",-3846.33219623391
+"ext_col.Matador Red Mica",-3845.83149791629
+"modelElantra SE",-3845.19615976931
+"modelSSR Base",-3840.25828457778
+"engineHEMI 6.2L V-8 intercooled supercharger, premium unleaded, engine",3838.90170029972
+"engine210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel",-3835.54489504386
+"modelMKX Base",-3835.49614092556
+"engine173.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-3835.02035123354
+"model550 Gran Turismo i",-3834.84595858249
+"engine2.0L I4 16V MPFI DOHC Hybrid",-3833.85964623092
+"engine305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel",-3833.68458413728
+"engine315.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-3832.10111431552
+"engine4.7L 8 Cylinder Engine Gasoline Fuel",-3829.69035274298
+"engine456.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",3828.91223312746
+"modelAMG GT AMG GT",3828.81924615962
+"modelA4 2.0T Premium Plus",-3828.79005792001
+"modelTahoe RST",3828.19777285095
+"modelMDX Touring",-3827.91241963216
+"engine143.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-3827.81181683568
+"engine483.0HP 4.3L 8 Cylinder Engine Gasoline Fuel",3827.70213894301
+"modelF430 Berlinetta",3827.27996389608
+"modelGenesis Coupe 3.8 R-Spec",-3826.35003837303
+"modelRover Range Rover 5.0L Supercharged Autobiography LWB",3825.77249494497
+"model1500 Classic Tradesman",-3824.68658825895
+"modelCayenne Diesel",-3824.16346624606
+"engine200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3822.83929218835
+"engine2.4L I4 16V GDI DOHC",-3822.36685599862
+"engine318.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-3821.68326177006
+"modelGS 350 Base",-3821.37470517734
+"modelXF Premium",-3820.5191995565
+"modelSierra 2500 AT4",3814.23231583606
+"modelF-250 LARIAT",3809.23795676636
+"engineIntercooled Turbo Diesel V-8 6.7 L/406",3809.23557635231
+"modelTerrain SLE",-3807.19029070314
+"modelallroad 2.0T Prestige",-3806.56232167539
+"model528 i xDrive",-3800.66524449258
+"modelA3 2.0T Tech Premium",-3795.39216896877
+"ext_col.Crimson Red Tintcoat",-3795.16634942115
+"modelAcadia SLE-1",-3795.0112443575
+"modelMagnum R/T",-3791.62918857962
+"modelATS 3.6L Luxury",-3789.48240958512
+"engine321.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-3789.43759164757
+"engine140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-3787.54608171717
+"modelQ50 3.0t Signature Edition",-3785.96914783656
+"modelRover Defender X-Dynamic SE",3785.3542093886
+"modelM3 Competition",3784.11626331437
+"modelRover Range Rover SWB",3780.9677640582
+"model718 Cayman GTS",3780.45355724238
+"engine134.0HP 1.8L 4 Cylinder Engine Plug-In Electric/Gas",-3780.43614737935
+"modelPrius Plug-in Base",-3780.30537650934
+"modelRover Range Rover Supercharged LWB",3780.05587773314
+"modelSportage SX Turbo",-3778.04382884435
+"ext_col.Black Cherry",-3778.00252087846
+"engine148.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-3777.86385882139
+"modelRanger Edge SuperCab",-3777.73272105353
+"engine242.0HP 3.3L V6 Cylinder Engine Gasoline Fuel",-3776.85793739606
+"modelSorento LX",-3772.56061240718
+"modelCC 2.0T Sport",-3770.95166713044
+"engine300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",-3769.96931039464
+"modelSL-Class SL550 Roadster",-3768.40131441664
+"engine210.0HP 2.0L 4 Cylinder Engine Diesel Fuel",3763.2618892571
+"modelGolf SportWagen TSI SE",-3762.77748934054
+"modelXJ8 L",-3761.8859854382
+"engine303.0HP 5.3L 8 Cylinder Engine Gasoline Fuel",-3760.96029195711
+"modelMonte Carlo SS",-3760.91176827608
+"modelILX 2.0L w/Premium Package",-3759.64631380188
+"model640 Gran Coupe i xDrive",-3756.48662209403
+"modelCayenne Platinum Edition",-3750.09852070739
+"modelQX60 Base",-3749.49769201244
+"modelMartin DB7 Vantage Volante",-3749.33935860873
+"engine420.0HP 5.9L 12 Cylinder Engine Gasoline Fuel",-3749.11550672148
+"modelXT5 Luxury",-3744.5668605182
+"modelTucson SEL",-3740.42463706334
+"ext_col.Portofino Gray",-3739.88890487874
+"model535 i xDrive",-3739.88706443264
+"engine201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-3739.15340239197
+"engine260.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3737.76646262212
+"modelWrangler X",-3737.24741268438
+"modelSLK-Class SLK 250",-3735.34881522835
+"modelQ5 3.0 TDI Premium Plus",-3734.34079791805
+"modelE-Class E500",-3733.92213259749
+"engine300.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-3732.46447558
+"engine200.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-3725.80148352973
+"modelTown & Country Touring-L",-3725.12971693298
+"modelX1 sDrive28i",-3723.66125544184
+"modelMazda6 Grand Touring",-3722.93734982742
+"ext_col.Deep Crystal Blue Mica",-3722.85771083407
+"modelQX70 Base",-3714.71798719288
+"modelEquus Signature",-3712.78474105059
+"engine362.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-3711.6523383951
+"brandHyundai",-3710.49882595762
+"modelCTS Premium",-3705.89710189254
+"engine281.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-3702.8774361688
+"engine330.0HP 3.7L V6 Cylinder Engine Gasoline Fuel",-3700.57327819267
+"modelCTS 2.0L Turbo Luxury",-3696.75434083643
+"ext_col.Phantom Black",-3693.33544338081
+"modelSonata Sport",-3693.25087705355
+"modelRenegade Trailhawk",-3693.16367016025
+"brandPontiac",-3692.58006374056
+"modelMazda3 FWD w/Preferred Package",-3690.83627325558
+"modelLiberty Renegade",-3689.62875277774
+"modelAccord EX-L",-3688.94506256419
+"modelGolf SportWagen TSI S 4-Door",-3687.27184133748
+"modelXC90 3.2",-3684.58340692022
+"engine181.0HP 1.5L 3 Cylinder Engine Gasoline Fuel",-3683.45524940582
+"int_col.Rhapsody Blue",3680.9948210939
+"model330 i xDrive",-3676.54318564758
+"engine201.0HP Electric Motor Electric Fuel System",-3674.37503593421
+"engine2.0L I4 16V GDI DOHC",-3674.01257451849
+"modelS-Class S 450 4MATIC",3673.92966016854
+"engine273.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-3672.52695607962
+"engine142.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-3671.66967707297
+"modelXC90 Hybrid T8 Inscription",3668.92497874299
+"engine265.0HP 2.9L Flat 6 Cylinder Engine Gasoline Fuel",-3667.36992584516
+"engine375.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",-3667.1827322742
+"engine190.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel",-3665.6438332389
+"modelILX Technology Plus Package",-3665.2195628495
+"modelX5 xDrive35i",-3663.716278238
+"ext_col.Billet Clearcoat Metallic",-3662.93521607317
+"modelA3 2.0T Premium",-3658.54637746558
+"engine390.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-3658.31337390845
+"modelE-Class E55 AMG",-3656.89984876318
+"engine469.0HP 5.4L 8 Cylinder Engine Gasoline Fuel",-3656.87490341144
+"engine300.0HP 5.3L 8 Cylinder Engine Gasoline Fuel",-3656.26297040205
+"modelBlazer 1LT",-3655.15432068173
+"ext_col.Nightfall Gray Metallic",-3655.06989659072
+"int_col.BEIGE",3652.81415290299
+"transmission.Single-Speed Fixed Gear",3652.2397707669
+"engine261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel",-3652.1708083669
+"engineDual AC Electric Motors",3651.89196622926
+"engine182.0HP 2.4L 4 Cylinder Engine Gasoline/Mild Electric Hybrid",-3651.33625966457
+"modelXT5 Base",-3650.41224135313
+"modelQ70 3.7",-3648.07839595598
+"modelAMG E 53 Base 4MATIC",3646.71153622693
+"modelPathfinder Platinum",-3644.272208178
+"modelCT 200h Premium",-3640.56889085766
+"modelBeetle 2.0T S",-3640.24860500876
+"modelHardtop Cooper S",-3638.04906434087
+"model300 S",-3637.00506361764
+"engine285.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-3636.28421351573
+"engine166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-3635.8948877704
+"modelTransit Connect XL",-3635.61133821885
+"model370Z Touring",-3634.56536233889
+"engine222.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-3633.35764799536
+"modelMaxima GLE",-3633.17921639878
+"engine1.6L I4 16V GDI DOHC Turbo",-3628.78347816476
+"engine4.2L V8 32V GDI DOHC Twin Turbo",3628.52739347514
+"modelCT6-V 4.2L Blackwing Twin Turbo",3628.28840555717
+"ext_col.Brands Hatch Gray Metallic",3625.42385045209
+"modelM8 Base",3624.64536963127
+"engine300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel",-3624.02640683557
+"modelRanger Sport SuperCab",-3620.31507915407
+"modelTouareg VR6 Lux",-3618.14745378033
+"modelRX 300 4WD",-3616.07107104056
+"engine215.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",-3615.33173213379
+"modelMontero Limited",-3615.20734324651
+"engine188.0HP 2.0L 4 Cylinder Engine Gas/Electric Hybrid",-3612.54549122559
+"engine290.0HP 3.3L V6 Cylinder Engine Gasoline Fuel",-3610.66837181395
+"modelSanta Fe GLS",-3610.58808876545
+"engine240.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-3610.32146728926
+"modelK5 EX",-3608.51777635393
+"engine310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-3604.93139246078
+"modelRover Discovery SE",-3604.43347647219
+"engine295.0HP 3.6L V6 Cylinder Engine Flex Fuel Capability",-3599.97439208367
+"model200 C",-3599.65763228304
+"engine245.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid",-3599.50398483939
+"modelFusion Hybrid SE",-3597.91679042851
+"modelTransit Connect XLT",-3594.40114813752
+"modelEnclave Leather",-3592.00310179247
+"modelLaCrosse Leather",-3591.78497064305
+"engine300.0HP 6.0L 8 Cylinder Engine Gasoline Fuel",-3590.96503783789
+"modelSilverado 2500 H/D",-3590.75642948156
+"engine181.0HP 1.5L 4 Cylinder Engine Gasoline Fuel",-3589.86290880119
+"engine200.0HP Electric Motor Electric Fuel System",-3584.00016419553
+"modelATS 2.0L Turbo",-3582.40425464495
+"engine5.6L V8 32V GDI DOHC",-3582.24508472128
+"model350Z Touring",-3582.06549547328
+"engine167.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3581.92094040604
+"modelSky Red Line",-3581.17251488178
+"engine134.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid",-3580.45213567277
+"engine480.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",3577.53834157944
+"transmission.7-Speed M/T",3574.79193415452
+"modelCompass High Altitude",-3572.26044441086
+"model128 i",-3571.5263391557
+"engine355.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid",3571.37790423874
+"engine182.0HP Electric Motor Hydrogen Fuel",-3569.1598898045
+"modelMirai Limited",-3569.0561216922
+"transmission.5-Speed M/T",-3567.37469303048
+"engine300.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-3565.06763480784
+"modelHighlander Base",-3564.55987343359
+"modelMazda3 FWD w/Premium Package",-3564.17297121746
+"modelPassat 2.0T R-Line",-3563.7877904287
+"ext_col.Reflex Silver",-3563.16725555626
+"engine220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3561.94945834003
+"engine173.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-3560.82834638335
+"modelImpreza WRX Sti",-3560.67903631082
+"modelFirebird Base",-3557.92876741932
+"modelRam 2500 SLT Quad Cab",-3555.36476799796
+"modelOutback 2.5i Limited",-3554.37298311547
+"modelEvora 400 Base",3553.11543166901
+"engine245.0HP 5.9L 8 Cylinder Engine Gasoline Fuel",-3552.02295631867
+"modelRam 1500 Quad Cab",-3551.88123856474
+"int_col.Satin Black",-3550.33439992416
+"modelGladiator Mojave",3549.99234218614
+"modelBronco Sport Base",-3547.68122929113
+"ext_col.Shadow Black",-3547.3029571212
+"engine266.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-3545.97794686783
+"ext_col.Blue Reflex Mica",-3542.93418139536
+"modelTahoe LS",-3542.7046418227
+"modelChallenger SXT",-3539.13479322942
+"modelImpreza 2.0i Sport",-3538.85135016688
+"modelA6 2.0T Premium Plus",-3538.04489617145
+"modelChallenger R/T",-3536.34594833164
+"modelSky Base",-3535.9480360224
+"engine402.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-3535.90209942419
+"int_col.Oyster/Black",-3534.31207517636
+"modelCountryman Cooper S ALL4",-3534.14746939824
+"engine2.9 Liter Turbo",3534.01614328782
+"modelImpreza 2.0i Premium",-3529.9205477845
+"ext_col.Passion Red",-3529.61920166237
+"engine500.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",3527.94297110178
+"modelAcadia SLE",-3527.24248895744
+"modelImpala 1LT",-3524.52273480496
+"modelPanamera 4 Edition",-3521.81432663455
+"engine199.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid",-3519.5790023282
+"model750 Li xDrive",-3519.48379222047
+"engine407.0HP 4.4L 8 Cylinder Engine Gasoline Fuel",-3519.43551979723
+"int_col.Dark Gray",-3516.52797459097
+"modelQ50 Premium",-3515.42133926615
+"modelM235 i",-3514.72111508848
+"modelWrangler Sport",-3514.00488458153
+"model640 Gran Coupe i",-3512.36095771638
+"modelCharger GT",-3511.90775031733
+"modelX2 xDrive28i",-3509.70528767321
+"modelCT4 Luxury",-3508.88731069162
+"modelCayenne GTS",-3508.48025306873
+"engine265.0HP 4.0L V6 Cylinder Engine Gasoline Fuel",-3508.03007493229
+"modelFrontier SE Crew Cab",-3507.88943765261
+"engine202.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-3507.73553251527
+"modelX1 xDrive 28i",-3497.56332198729
+"modelSportage LX",-3497.41111264608
+"modelCommander Base",-3497.01790257153
+"modelQ3 45 S line Premium Plus",-3496.9725218225
+"ext_col.Glacier White Metallic",-3496.375736602
+"engine170.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3491.83928970099
+"modelAltima 2.5 S",-3490.88237691922
+"modelF-250 Platinum",3490.69017541463
+"ext_col.Snow White Pearl",-3488.8606963677
+"modelK5 GT-Line",-3486.8848557494
+"modelAvalon Touring",-3483.91965039869
+"modelRover Discovery Sport SE R-Dynamic",-3481.63153839962
+"modelSanta Fe SE",-3480.72441936415
+"model335 is",-3480.69318340965
+"modelFirebird Trans Am",-3477.83664909111
+"modelWrangler S",-3476.85451282413
+"modelAMG GLE 53 AMG GLE 53",3475.76225334253
+"modelALPINA B7 xDrive",-3474.93457582529
+"engine326.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",-3472.04077874219
+"modelColorado LT Crew Cab",-3469.99880905475
+"engine400.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel",3469.55521324584
+"modelSL-Class SL500 Roadster",-3466.59782470693
+"modelQ70 3.7X",-3464.71086418795
+"engine300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel",-3457.52125514376
+"modelCamry SE",-3456.9333706559
+"model435 i xDrive",-3455.80881836815
+"modelPathfinder SL",-3455.71767683029
+"modelSC 430 Base",-3452.04260001737
+"engine300.0HP 4.3L 8 Cylinder Engine Gasoline Fuel",-3452.03253681575
+"modelA4 2.0T Tech Premium",-3451.82821159377
+"modelSorento EX V6",-3444.65909783356
+"engine276.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-3442.79866189227
+"modelAtlas 3.6L SE w/Technology",-3442.77967557184
+"modelImpreza WRX",-3442.21305776348
+"transmission.4-Speed A/T",-3441.75884517578
+"model435 i",-3441.56918459061
+"engine200.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid",-3440.92722305833
+"modelForte LXS",-3438.06627105047
+"modelSonata Sport 2.0T",-3434.48788486253
+"modelColorado Z85",-3434.46575871538
+"modelBoxster S",-3434.43049780648
+"engine280.0HP 3.2L Flat 6 Cylinder Engine Gasoline Fuel",-3434.34113855479
+"engine242.0HP 3.7L 5 Cylinder Engine Gasoline Fuel",-3433.24343459427
+"model330 330i xDrive",-3433.0513746491
+"engineIntercooled Turbo Premium Unleaded I-4 2.0 L/122",-3432.8903943289
+"engine260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-3432.31710817467
+"modelH3 Base",-3430.60380972986
+"engine315.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",-3429.98672935201
+"engine220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability",-3423.8936081067
+"modelSilverado 1500 Hybrid 1HY",-3422.81721258154
+"engine332.0HP 6.0L 8 Cylinder Engine Gas/Electric Hybrid",-3422.77962902243
+"modelExpress 1500 Cargo",-3419.78398551258
+"engine235.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-3418.70520198523
+"modelMDX Sport",-3416.28132384
+"modelC-Class C 300 4MATIC",-3413.56107777342
+"modelGLA-Class GLA 45 AMG",-3409.43714060441
+"engine355.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3409.39985375027
+"ext_col.Santorin Black",3409.06874539099
+"engine305.0HP 6.8L 10 Cylinder Engine Gasoline Fuel",-3408.28952858882
+"modelE350 Super Duty Base",-3408.16242413024
+"engine184.0HP 2.4L 4 Cylinder Engine Flex Fuel Capability",-3407.07612873169
+"modelSonata Hybrid Base",-3405.88363658682
+"modelF-150 FX4",-3403.63703762845
+"engine240.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-3401.41716563487
+"modelLS 460 L",-3400.87449578336
+"engine305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-3399.46330303709
+"ext_col.Silver Mist",-3399.37805667272
+"engine2.0L I4 16V MPFI DOHC",-3398.14747589475
+"modelAcadia SLE-2",-3395.34515836276
+"engine357.0HP 1.5L 3 Cylinder Engine Plug-In Electric/Gas",3394.87620173356
+"modelTransit-350 XLT",3392.03085013736
+"int_col.BLACK",3388.5183020784
+"ext_col.Titanium Silver",-3387.9869074553
+"modelBronco Badlands Advanced",3387.73947488191
+"engine217.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-3385.31686433768
+"engine255.0HP 3.2L V6 Cylinder Engine Gasoline Fuel",-3384.55521060017
+"modelRogue SL",-3384.39962606998
+"modelA6 3.2 quattro",-3384.39935718878
+"modelElantra HEV Limited",-3383.85692837648
+"engine139.0HP 1.6L 4 Cylinder Engine Gas/Electric Hybrid",-3383.80924574925
+"engine295.0HP 4.8L 8 Cylinder Engine Gasoline Fuel",-3383.36526533664
+"modelSierra 1500 SL Crew Cab",-3383.34534090711
+"brandMazda",-3380.24900768865
+"engine185.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-3376.22284234799
+"modelModel X Performance",3372.48094158543
+"modelMDX 3.5L w/Advance & Entertainment Pkgs",-3362.77425453401
+"ext_col.Snowflake White Pearl Metallic",-3362.70255295287
+"modelMazda3 Grand Touring",-3362.67377266914
+"int_col.Graystone",-3362.5874627156
+"engine302.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-3361.58006917183
+"ext_col.Mango Tango Pearlcoat",-3359.55622803582
+"engine3.8L V6 12V MPFI OHV",-3359.47912892844
+"modelRover Range Rover Sport SE MHEV",3359.24742699964
+"modelTrailblazer RS",-3358.65597349544
+"modelGLA 250 Base 4MATIC",-3354.83651457282
+"engine300.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-3350.17382468311
+"engine319.0HP 6.0L 8 Cylinder Engine Gasoline Fuel",-3348.52112217343
+"engine1020.0HP Electric Motor Electric Fuel System",3348.1269188727
+"modelModel S Plaid",3347.89174685056
+"brandVolkswagen",-3347.67637442043
+"modelSilverado 1500 Z71 Extended Cab",-3342.37222266374
+"engine310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel",-3340.17589722601
+"modelAvalanche 1500 LTZ",-3337.41854997042
+"modelCamry Hybrid LE",-3335.86383879797
+"engine2.5L I4 16V PDI DOHC Hybrid",-3335.65857692264
+"modelDakota Sport",-3335.00385578693
+"engine325.0HP 3.7L V6 Cylinder Engine Gasoline Fuel",-3335.00187603721
+"modelDakota SLT Quad Cab",-3332.22586990954
+"modelA8 4.0T",-3331.82667665221
+"modelXF S",-3331.82627394622
+"modelTL 3.2",-3331.39184259858
+"modelPrius v Three",-3331.05470037846
+"modelAltima 2.5 SV",-3330.45987714086
+"ext_col.Scarlet Ember",-3330.36000072676
+"engine345.0HP 6.0L 8 Cylinder Engine Gasoline Fuel",-3329.88083742324
+"modelSilverado 1500 LT Crew Cab",-3329.73797843392
+"modelSorento SXL",-3329.58300573037
+"modelX7 xDrive40i",3329.42976240551
+"engine290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-3328.52008251771
+"modelLS 460 Base",-3326.8549680361
+"engine198.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-3323.70239966112
+"engine3.3L V6 24V GDI DOHC",-3323.23968793063
+"engine169.0HP 2.5L 4 Cylinder Engine Flex Fuel Capability",-3322.40807671287
+"modelPassat 2.0T SE",-3321.98922637225
+"ext_col.Quicksilver Metallic",-3317.17398876905
+"engine310.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability",-3316.59666072583
+"engine152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3311.13079795048
+"ext_col.Gold",-3310.4985886813
+"modelWagoneer Series III",3310.33735324935
+"engine181.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel",-3309.7915311756
+"engine401.0HP 6.6L 8 Cylinder Engine Gasoline Fuel",3308.84298685244
+"modelMKS EcoBoost",-3306.18595574474
+"modelF-250 XLT SuperCab Super Duty",-3302.63592229943
+"modelEnclave 1XL",-3299.9175941002
+"engine206.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-3298.76527969878
+"model430 Gran Coupe i xDrive",-3295.14880202492
+"engine2.0 Liter DOHC T/C",-3295.03139925496
+"engine250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3294.45601712113
+"ext_col.Carbon Black Metallic",-3294.39898366368
+"int_col.ORANGE",3293.96872165832
+"ext_col.BLUE",3293.77895409655
+"transmission.Automatic, 8-Spd M STEPTRONIC w/Drivelogic, Sport & Manual Modes",3293.51387655591
+"engine3L I-6 gasoline direct injection, DOHC, Double VANOS variable va",3293.37500135866
+"modelExpress 1500 Base",-3293.06580697041
+"engine189.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3293.01202610212
+"engine151.0HP 1.5L 4 Cylinder Engine Gas/Electric Hybrid",-3292.16038139542
+"modelInsight EX",-3292.08745850558
+"engine280.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3287.32907576349
+"engine306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-3287.31302793
+"modelRam 1500 ST",-3287.26467935531
+"engine207.0HP 4.0L V6 Cylinder Engine Gasoline Fuel",-3286.56456195353
+"ext_col.BLACK",3284.81835063312
+"modelLegacy 2.5i Premium",-3284.41934170717
+"modelA5 2.0T Premium",-3284.24553372924
+"modelClubman Cooper S ALL4",-3282.57097321587
+"modelColorado LT",-3278.8866583955
+"engine250.0HP 3.2L V6 Cylinder Engine Gasoline Fuel",-3278.71176357852
+"modelTT 3.2 Cabriolet quattro",-3278.55167194897
+"engine186.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-3274.46931341545
+"modelEscalade Platinum Edition",-3272.168381611
+"modelSierra 2500 Denali",3268.538075977
+"engine295.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability",-3267.85055564068
+"modelXKR Base",-3266.3596164991
+"modelCamry Solara SLE V6",-3265.36115522723
+"modelTL 3.7",-3264.12973351849
+"modelQ50 3.0T Premium",-3261.7531771856
+"modelWRX Base",-3258.14982658
+"engine300.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-3257.06438377016
+"engine300.0HP 3.4L Flat 6 Cylinder Engine Gasoline Fuel",-3254.98805625526
+"engine268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3254.86842403258
+"engine335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid",3251.63619878809
+"engine330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-3251.46234414656
+"modelWRX Limited",-3249.29699109979
+"engine241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3248.30377752725
+"model550 i xDrive",-3245.39113924482
+"engine245.0HP 4.0L V6 Cylinder Engine Gasoline Fuel",-3244.9294449086
+"model4Runner Sport",-3244.77812514411
+"engine152.0HP 3.0L V6 Cylinder Engine Flex Fuel Capability",-3243.93346743981
+"transmission.9-Speed Automatic",3242.31167876572
+"modelMacan S",-3241.29823744473
+"modelMDX 3.5L w/Technology Package",-3239.80452603822
+"modelCrosstrek 2.0i Limited",-3234.73971879545
+"modelGolf GTI 2.0T SE 4-Door",-3233.72257499427
+"modelF-150 Raptor",3233.02298661766
+"engine256.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3229.60869969394
+"ext_col.Mosaic Black Metallic",-3227.84251396175
+"engine187.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-3227.19497002508
+"model740 Li",-3227.13108696708
+"model435 Gran Coupe i",-3225.94191833509
+"engine2.5L I4 16V PDI DOHC",-3224.83514970818
+"modelChallenger SRT8",-3221.14009621374
+"brandMitsubishi",-3221.07053006242
+"engine385.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",-3220.30347669232
+"engine350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-3219.45419177792
+"engine2.5L I-4 DOHC, variable valve control, regular unleaded, engine",-3216.55087836504
+"modelBronco Wildtrak Advanced",3214.06441368543
+"ext_col.Glacier Silver Metallic",-3213.37257791835
+"engine147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3210.90116037963
+"modelC-Class C 300 4MATIC Luxury",-3210.51091644785
+"modelRegal Turbo - Premium 1",-3208.73476604287
+"transmission.5-Speed A/T",-3207.66272716491
+"engine375.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-3206.29460734749
+"model330 i",-3205.13165122402
+"engine141.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3202.715189759
+"modelRogue Sport S",-3202.6398692492
+"modelZDX Base",-3199.66026600033
+"engine403.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",-3199.5554527795
+"ext_col.Verde",3195.45986096227
+"modelQ60 3.0t Red Sport 400",-3193.05305648829
+"engine282.0HP 4.4L 8 Cylinder Engine Gasoline Fuel",-3192.8084188745
+"model740 iL",-3192.7418411859
+"modelRam 1500 SRT-10",-3192.00481801049
+"modelXTS Luxury",-3191.7514997277
+"modelCharger SRT8",-3189.67824754672
+"modelSorento LX V6",-3189.33514121229
+"ext_col.Sparkling Silver",-3189.03926988443
+"engine304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-3188.82467800801
+"modelQ50 Hybrid Premium",-3188.69549037207
+"modelCayenne Turbo S",-3185.42241611172
+"engine550.0HP 4.8L 8 Cylinder Engine Gasoline Fuel",-3185.29583339173
+"modelE150 XLT",-3183.8942629352
+"engine500.0HP Electric Motor Electric Fuel System",3180.72494070637
+"modelTitan XD S",-3180.48853332854
+"modelLYRIQ Luxury",3180.46825475126
+"engine169.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-3180.24274168797
+"ext_col.Dazzling White",-3179.35423526282
+"engine202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",-3176.0650154574
+"modelModel 3 Standard Range Plus",-3171.04056125484
+"model650 Gran Coupe i",-3168.12417694968
+"engine302.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability",-3167.46928677763
+"modelM-Class ML 350 4MATIC",-3167.30387888384
+"engine180.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-3167.26275749002
+"modelExcursion Limited Ultimate",-3167.24622960319
+"engine360.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-3166.53993663687
+"brandINFINITI",-3165.48341671502
+"modelRover Range Rover HSE SWB",3165.20662338957
+"model1500 Tradesman/Express",-3163.45539820391
+"modelMKZ Reserve",-3163.06286210798
+"modelTiguan 2.0T SE",-3157.93299105381
+"engine174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3157.90537696937
+"engine140.0HP 2.8L V6 Cylinder Engine Gasoline Fuel",-3156.45757617984
+"modelEurovan MV",-3156.36795845176
+"modelSienna XLE Limited",-3155.85197628721
+"modelExpedition EL XLT",-3155.52101817999
+"engine174.0HP 1.5L 4 Cylinder Engine Gasoline Fuel",-3153.91981315658
+"modelContinental Reserve",-3150.72017411247
+"engine420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",3150.13075882372
+"ext_col.Quartz White",-3147.20448597816
+"engine294.0HP 4.2L 8 Cylinder Engine Gasoline Fuel",-3146.64853012728
+"modelXJ8 Base",-3146.54554138914
+"engine295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel",-3143.39956095285
+"engine272.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-3143.32505143772
+"modelQ5 3.0T Premium Plus",-3143.28230394265
+"brandMercury",-3142.81846168021
+"modelZ Proto Spec",3141.93139200185
+"modelEscalade ESV Premium Luxury",3141.49456387252
+"modelCaprice Classic Base",-3139.60924823235
+"model340 i",-3139.02477015988
+"engine303.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-3138.67177703972
+"modelXC60 T5 R-Design",-3134.53927804757
+"modelPassat 2.5 SE",-3131.89496636087
+"modelCamry XSE",-3129.10595113446
+"model650 i",-3127.23105240789
+"modelTundra SR5 Access Cab",-3127.08052046988
+"engine275.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-3125.86232452922
+"engine400.0HP 4.8L 8 Cylinder Engine Gasoline Fuel",-3124.13676457053
+"engine220.0HP 3.5L 5 Cylinder Engine Gasoline Fuel",-3122.82457144796
+"modelCivic Sport",-3122.04560305202
+"engine303.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-3121.53342235268
+"engine340.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-3118.89991497501
+"modelRSX Base",-3118.89691784997
+"ext_col.Twilight Blue Metallic",-3114.8833895474
+"engine2.5L H4 16V MPFI DOHC",-3114.8096502446
+"engine205.0HP 1.5L 4 Cylinder Engine Gasoline Fuel",-3114.23101754746
+"modelCivic Si Base",-3114.13936073579
+"modelNV200 S",-3113.85669824616
+"engine393.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",3113.51686259118
+"modelOutlander SEL",-3113.05955520477
+"engine235.0HP 4.7L 8 Cylinder Engine Flex Fuel Capability",-3110.61724376754
+"modelCommander Sport",-3110.26406651603
+"modelTitan XD SV",-3110.16100683982
+"modelE-Class E 350",-3109.7687638481
+"ext_col.Platinum Quartz Metallic",-3108.04769067756
+"engine155.0HP 1.3L 3 Cylinder Engine Gasoline Fuel",-3105.19191201236
+"modelCayenne E-Hybrid S Platinum Edition",-3104.01243109682
+"ext_col.Frozen White",-3103.31223424098
+"modelForte GT-Line",-3102.3343206538
+"engine212.0HP 2.0L 4 Cylinder Engine Gas/Electric Hybrid",-3102.27125058683
+"modelAccord Hybrid Touring",-3102.18111843552
+"engine252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-3101.88590792502
+"engine543.0HP 5.5L 12 Cylinder Engine Gasoline Fuel",3099.36880081498
+"modelType 57 Base",3099.29584552022
+"brandMaybach",3099.04243159491
+"brandBuick",-3095.51423433989
+"engine412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",-3094.81689164632
+"modelMark LT Base",-3092.56866837929
+"engine210.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel",-3092.07915350379
+"engine363.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-3091.07189936824
+"modelMX-5 Miata Base",-3089.14195913597
+"modelOdyssey EX-L",-3081.61371127552
+"modelMustang GT",-3081.54195773451
+"engine178.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-3080.43639345678
+"modelMazdaSpeed Miata MX-5 Base",-3080.36591234837
+"modelQX80 Base",-3080.22320185461
+"engine150.0HP 2.0L 4 Cylinder Engine Diesel Fuel",-3079.26771777216
+"modelA3 2.0 TDI Premium Plus",-3079.06780445107
+"modelMustang Base",-3078.19995544646
+"engine311.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",-3078.0407246239
+"modelFrontier SV",-3077.63719095254
+"modelMKC Base",-3075.37175475219
+"engine6.2L V8 16V GDI OHV",3068.02413440355
+"modelFX50 Base",-3066.17624654668
+"engine390.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",-3066.14701682088
+"modelF-350 Lariat Crew Cab Super Duty DRW",-3065.4965179255
+"engine310.0HP 2.3L 4 Cylinder Engine Gasoline Fuel",-3063.02915724887
+"engine284.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-3062.24194862203
+"modelCherokee X",-3057.54907803413
+"engine3.2L V6 24V MPFI DOHC",-3057.40744838387
+"engine365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-3052.65788656293
+"modelMacan Base",-3051.23514397655
+"modelAvalon XLE",-3050.83778706245
+"modelS2000 CR",3050.70614312748
+"engine237.0HP 2.2L 4 Cylinder Engine Gasoline Fuel",3050.64978497288
+"engine563.0HP 6.6L 12 Cylinder Engine Gasoline Fuel",3050.26069596817
+"modelGhost Base",3049.78499759925
+"modelSuburban Z71",3049.22712956072
+"modelNiro EX",-3047.76887878484
+"engine1.6L I4 16V GDI DOHC Hybrid",-3047.64140313257
+"modelK900 5.0L",-3047.07527061549
+"modelEdge Titanium",-3047.00493400798
+"engine453.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",3040.97938967986
+"modelA7 55 Premium Plus",3040.72375151308
+"engine270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-3036.56754647709
+"modelMustang V6",-3032.28334717664
+"modelForester Base",-3031.47459581421
+"modelColorado Z71",-3030.8449267557
+"modelWrangler Sahara Altitude",3029.2662521217
+"engine1.5L I3 12V PDI DOHC Turbo",-3028.04700022245
+"modelXC70 T6 Platinum",-3027.67119026717
+"ext_col.Black Noir Pearl",-3027.08788485844
+"engine200.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",-3026.11778952494
+"modelCascada Base",-3025.94567430875
+"modelG70 3.3T Advanced",-3025.79365682608
+"engine370.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-3025.4774599315
+"modelTraverse LS",-3023.5779351601
+"ext_col.Northsky Blue Metallic",-3023.03732944084
+"modelF-250 King Ranch",3019.69021764761
+"ext_col.Lunar Blue Metallic",-3019.1813233141
+"engine275.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability",3018.27062641477
+"modelF-250 Limited",3015.38396902655
+"model640 i",-3014.86992534806
+"modelRam 1500 SRT-10 Quad Cab",-3012.21287644166
+"modelCorsair Reserve",-3009.40439939593
+"ext_col.Kodiak Brown Metallic",-3008.55278459663
+"modelCayenne Turbo",-3008.25297049585
+"engine425.0HP 6.1L 8 Cylinder Engine Gasoline Fuel",-3005.76454147883
+"modelGrand Cherokee Limited",-3003.64742637892
+"modelQ60 3.0T Premium",-2996.39232156647
+"engine182.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-2995.63360658904
+"modelRam 2500 Laramie Quad Cab",-2991.43026359023
+"modelCamry Hybrid XLE",-2987.58077398013
+"modelXE 35t Premium",-2986.03822790008
+"brandSubaru",-2983.75312479128
+"model428 i xDrive SULEV",-2982.70126280502
+"modelHighlander LE Plus",-2981.48926838059
+"ext_col.Sangria Red",-2980.36645336258
+"modelGrand Cherokee Laredo",-2980.07217728714
+"engine335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-2976.51453255078
+"modelElement EX",-2975.05108311478
+"modelModel S 85D",-2973.80208940422
+"engine422.0HP Electric Motor Electric Fuel System",-2973.53169751747
+"engine131.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-2972.93638569488
+"engine271.0HP Electric Motor Electric Fuel System",-2970.98159325151
+"engine245.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-2969.6392984636
+"modelWrangler Unlimited X",-2967.69462090129
+"ext_col.Burnished Bronze Metallic",-2967.18945776806
+"modelEscalade Premium",-2963.89324252933
+"modelTT 2.0T",-2962.28153783782
+"engine184.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-2961.98914965582
+"modelMKC Select",-2958.58285712952
+"ext_col.Ruby Red Metallic Tinted Clearcoat",-2958.50974748469
+"int_col.Cappuccino",-2958.3334064617
+"engine485.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",2952.9454472365
+"engine2.5L I4 16V",-2951.78998253866
+"engine350.0HP 3.4L Flat 6 Cylinder Engine Gasoline Fuel",2950.44928921509
+"modelArteon 2.0T SE",-2950.36428814413
+"modelRanger XLT SuperCab",-2950.2698044871
+"ext_col.Pure White",-2949.73430856464
+"engine333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-2947.91722814792
+"modelTundra Hybrid TRD Pro",2946.16829991769
+"modelBolt EUV Premier",-2944.17900912779
+"engine370.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel",2944.17661908491
+"engine1.5L I4 16V GDI DOHC Turbo",-2944.16217041474
+"modelOutback 2.5i Premium",-2942.41129863811
+"modelSierra 1500 SLE Crew Cab",-2942.1473479573
+"model530 i xDrive",-2941.97939952558
+"modelArmada LE",-2938.72127060959
+"modelMazda3 s Grand Touring",-2937.40177200472
+"ext_col.Graphite Grey",-2937.17870638033
+"engine235.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-2936.85608022063
+"modelNX 200t Base",-2936.73074406743
+"model440 Gran Coupe 440i xDrive",-2936.09924133044
+"int_col.Medium Dark Slate",-2934.41051816857
+"engine3.5L V6 24V MPFI DOHC",-2933.89393587476
+"engine300.0HP 6.6L 8 Cylinder Engine Diesel Fuel",-2931.74855118095
+"modelSierra 3500 SLE",-2931.33391117227
+"modelBronco Sport Big Bend",-2931.12497832421
+"modelES 300h Base",-2929.65019513793
+"engine265.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-2927.60150967598
+"modelG90 5.0 Ultimate",-2927.39571619693
+"modelSanta Fe SEL",-2924.47653020424
+"modelQ5 2.0T Premium Plus",-2918.72636487047
+"modelXF 35t Prestige",-2917.6458892918
+"engine310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-2914.13937399574
+"engine426.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",-2913.63334891093
+"engine3.6L V6 24V MPFI DOHC Flexible Fuel",-2912.5511301155
+"engine463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",2910.9622302297
+"modelBronco Sport Outer Banks",-2909.99759017191
+"modelWrangler 80th Anniversary",-2905.6613487366
+"modelSilverado 1500 Base",-2903.78213878475
+"model1500 Classic SLT",-2903.13240352213
+"modelSanta Fe Sport 2.0L Turbo Ultimate",-2901.7674251731
+"transmission.CVT Transmission",-2901.59259417662
+"engine5.7 Liter",2901.10556084045
+"modelLand Cruiser",2900.97914484979
+"modelExplorer XLT",-2898.11250653021
+"engine1.2L I3 12V GDI DOHC Turbo",-2897.99626352178
+"modelTrailblazer LS",-2897.89626107462
+"modelTouareg V6 Executive",-2897.23962807272
+"engine290.0HP 4.3L 8 Cylinder Engine Gasoline Fuel",-2896.99096977968
+"modelLS 430 Base",-2896.95104137617
+"modelCherokee Sport",-2896.81489998648
+"modelMazda6 Touring",-2896.64749082308
+"modelTLX V6 Advance",-2896.38803541913
+"modelTL Technology",-2895.87329706543
+"modelNiro EV EX",-2895.52458869448
+"engine210.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-2895.17580742375
+"modelForester 2.5 XT",-2894.90814523083
+"engine3.0L V6 Cylinder Engine Diesel Fuel",-2892.27063478537
+"modelModel S 75D",-2892.2676309027
+"modelA8 L 4.0T",-2891.00698421941
+"modelCX-9 Touring",-2888.9970556037
+"modelE-Class E 550",-2882.11580176782
+"modelArmada Platinum",-2878.48834229508
+"modelRover Range Rover Velar R-Dynamic SE",-2876.98707683798
+"modelWRX Premium",-2873.3962240777
+"engine246.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-2872.45396663557
+"engine450.0HP 6.7L 8 Cylinder Engine Diesel Fuel",2871.74450107613
+"engine240.0HP 3.0L V6 Cylinder Engine Diesel Fuel",-2870.72291639549
+"modelGolf Alltrack TSI SE",-2866.83151294832
+"modelCamaro Z28",-2863.67159802687
+"engine283.0HP 3.6L V6 Cylinder Engine Flex Fuel Capability",-2862.72612256698
+"ext_col.Gecko Pearlcoat",-2862.53177932802
+"modelRover Range Rover Velar SVAutobiography Dynamic Edition",2861.38184427681
+"modelMX-5 Miata RF Grand Touring",-2861.24037611438
+"int_col.Navy Pier",-2858.10577877605
+"modelMaverick XL",-2858.09219124192
+"modelCX-30 2.5 S Select Package",-2855.91122819307
+"engine2.5L I4 16V GDI DOHC",-2855.21796252342
+"modelRC 350 Base",-2854.86350301711
+"modelSupra A91 Edition",2854.00553503167
+"engine208.0HP 3.3L V6 Cylinder Engine Gas/Electric Hybrid",-2853.40391540206
+"engine389.0HP 3.0L Straight 6 Cylinder Engine Plug-In Electric/Gas",2851.86431247409
+"modelX5 PHEV xDrive45e",2851.65458301535
+"brandHonda",-2851.2872432977
+"engine228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-2850.71117539845
+"engine390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel",-2846.36887348785
+"int_col.Canberra Beige",-2845.79694247619
+"modelRanger Lariat",-2844.62236056548
+"modelLeaf SV PLUS",-2842.39694537163
+"engine214.0HP Electric Motor Electric Fuel System",-2842.30507842186
+"modelEscalade ESV Base",-2839.33461614813
+"engine170.0HP 1.5L 4 Cylinder Engine Gasoline Fuel",-2839.28488813129
+"model750 750i xDrive",2830.37667404689
+"modelNV200 SV",-2829.90676539905
+"engine191.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-2828.00050219768
+"modelThunderbird Deluxe",-2823.43902489241
+"modelCanyon Elevation Standard",-2820.33222022803
+"modelRomeo Stelvio Ti Sport",-2819.56749063408
+"modelCrosstrek 2.0i Premium",-2812.82924391459
+"engine2.3L I4 16V GDI DOHC Turbo",-2811.18882134804
+"ext_col.Chalk",2808.07180183193
+"modelCamaro 2LT",-2805.11689601997
+"modelTacoma Base",-2804.23968695014
+"model86 Base",-2804.06628126629
+"modelMalibu Premier",-2803.24522073641
+"modelWrangler Rubicon",-2796.5081697717
+"ext_col.Eiger Grey",2794.82096895484
+"engine282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-2792.87192737206
+"modelTundra SR5 Double Cab",-2792.67070595318
+"modelSuburban 1500 LT",-2791.94415859285
+"modelX6 M50i",2789.79664460061
+"model86 860 Special Edition",-2789.52141717307
+"int_col.Graphite",-2788.75805885677
+"modelXF 25t Prestige",-2788.00494138003
+"ext_col.Rosso",-2783.58394325492
+"ext_col.Bronze Dune Metallic",-2780.09354220425
+"modelMDX 3.7L Advance",-2779.98935370251
+"modelSonata Hybrid Limited",-2777.1298925493
+"engine1.3L I3 12V GDI DOHC Turbo",-2775.85097315553
+"modelTT RS Base",-2774.97779608857
+"engine360.0HP 2.5L 5 Cylinder Engine Gasoline Fuel",-2774.84192785188
+"model3500 Tradesman",2772.47675240016
+"engine400.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel",2772.38948202831
+"engine263.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-2769.69081495504
+"engine320.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",-2769.46769911822
+"modelRX 350 Crafted Line F Sport",-2767.88776046058
+"engine444.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-2767.57274758783
+"modelRover Range Rover P525 HSE SWB",2766.0488492792
+"modelM6 Gran Coupe Base",2764.722417562
+"engine420.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-2764.69397664204
+"transmission.Automatic CVT",-2761.16459019846
+"ext_col.Midnight Silver Metallic",-2760.76864294102
+"transmission.4-Speed Automatic",-2758.44514639835
+"modelRover Discovery HSE LUXURY",-2757.58851839586
+"modelA6 3.0T Premium Plus",-2756.03208352047
+"ext_col.Twilight Black",-2753.30175851953
+"modelM240 i",-2753.07747442351
+"modelCayenne S",-2752.22408625605
+"int_col.White",2751.84803694401
+"modelIS 350 Base",-2750.60208330965
+"brandKia",-2750.01503913351
+"engine3.5L V6 24V GDI DOHC",-2746.30188821285
+"int_col.Adrenaline Red",2746.13440549118
+"ext_col.Silver Flare Metallic",2745.99386272769
+"transmission.8-Speed Manual",2745.75478600728
+"engine205.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",-2744.21585039873
+"engine340.0HP 3.4L Flat 6 Cylinder Engine Gasoline Fuel",2738.45263107088
+"modelCayman GTS",2738.263831517
+"engine493.0HP 5.5L 12 Cylinder Engine Gasoline Fuel",-2736.59779359927
+"modelE-Class E 550 4MATIC",-2733.40767710927
+"ext_col.Crystal Black Pearl",-2733.10294277864
+"engine258.0HP 3.2L V6 Cylinder Engine Gasoline Fuel",-2731.64264177742
+"engine250.0HP 5.9L Straight 6 Cylinder Engine Diesel Fuel",-2730.03994868574
+"modelImpreza WRX Base",-2729.95890019541
+"modelX5 M50i",2727.4694325283
+"engine316.0HP 6.0L 8 Cylinder Engine Gasoline Fuel",-2726.09702626628
+"engine380.0HP 4.3L 8 Cylinder Engine Gasoline Fuel",-2725.83150295395
+"modelSierra 3500 Denali",2725.69035295373
+"modelHardtop Cooper",-2724.86932742636
+"engine230.0HP 5.2L 8 Cylinder Engine Gasoline Fuel",-2724.3952223653
+"modelES 350 Base",-2720.42292576899
+"engine320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability",-2719.65860146464
+"model135 is",-2719.22720546016
+"engine707.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",2718.48165936142
+"modelM5 Competition",2717.41611960021
+"modelGX 470 Base",-2715.81393202111
+"modelEnclave Premium",-2713.16178298938
+"modelContinental GTC V8",2712.98420415914
+"model240SX Base",-2709.27740454997
+"engine400.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",-2706.09029053212
+"engine420.0HP 4.2L 8 Cylinder Engine Gasoline Fuel",-2702.07086154584
+"engine420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",-2696.59747745119
+"modelTacoma PreRunner",-2693.51903806247
+"engine308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-2692.36500209023
+"modelQ3 2.0T Premium Plus",-2682.52136394787
+"engine134.0HP 1.5L 3 Cylinder Engine Gasoline Fuel",-2681.98614774485
+"modelGL-Class GL 550 4MATIC",-2678.06126853526
+"engine340.0HP 8.1L 8 Cylinder Engine Gasoline Fuel",-2675.76256005675
+"modelSierra 2500 SLE H/D Extended Cab",-2675.72371160165
+"modelEnvision Preferred",-2674.89133906034
+"modelExplorer sport",-2671.39714295192
+"model370Z NISMO",-2669.05957360011
+"modelCX-9 Signature",-2668.03715213466
+"ext_col.Dark Graphite Metallic",-2667.73797163435
+"engine265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-2665.6990791366
+"modelCX-30 Preferred",-2663.45387533113
+"modelBRZ Limited",-2663.30507967824
+"modelF-250 XL Crew Cab Super Duty",-2663.15975819764
+"modelX4 M40i",2661.92005262079
+"modelA7 3.0T Prestige",-2661.21967870914
+"modelS60 T6 Momentum",-2661.02465642981
+"engine2.0 Liter TSI",-2654.82724678013
+"int_col.Titan Black",-2654.053045451
+"modelRanger XLT",-2653.20835902678
+"ext_col.Brilliant Silver Metallic",-2651.34297062235
+"engine154.0HP 2.7L 5 Cylinder Engine Diesel Fuel",-2650.72458631136
+"modelSprinter 2500 High Roof",-2650.59462523952
+"modelAvalanche 1500 LT",-2649.35436252273
+"ext_col.Cayenne Red Tintcoat",2648.5740163519
+"modelATS 2.5L Luxury",-2646.06976699424
+"modelExplorer Limited",-2646.01572220788
+"engine296.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",2645.30150607343
+"modelRover Defender S",2645.24994993172
+"int_col.Almond Beige",-2644.20812444506
+"modelDurango SRT 392",2644.19689647605
+"modelSL-Class SL600 Roadster",-2642.59172425255
+"modelConvertible Cooper",-2637.36546546779
+"int_col.Macchiato",-2634.78985671692
+"ext_col.Black Clearcoat",-2626.53587159096
+"modelGolf R 4-Door",-2618.89142148311
+"modelRover Range Rover Evoque S",-2617.28798300221
+"int_col.Ebony / Pimento",2614.35290892335
+"ext_col.Santorini Black",2614.22827059054
+"engineV8",2613.6562375597
+"engineHEMI 5.7L V-8 variable valve control, regular unleaded, engine w",-2613.51656452282
+"modelWagoneer Series II 4x4",-2613.45921985677
+"ext_col.Midnight Blue Metallic",2612.56619775496
+"modelX1 xDrive28i",-2611.47648462278
+"modelExpress 3500 Base",-2606.07230303232
+"engine389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel",2604.88660014309
+"ext_col.Rapid Red Metallic Tinted Clearcoat",-2603.50303335189
+"modelTLX Tech",-2597.26056750181
+"engine2L I-4 gasoline direct injection, MultiAir2 variable valve contr",-2596.71436153654
+"ext_col.Vulcano Black Metallic",-2596.20521390298
+"int_col.Red/Black",-2595.97503968236
+"model740 i",-2595.52615356708
+"modelRover Range Rover Sport Supercharged",-2594.45746587841
+"int_col.Charcoal",-2594.24497007088
+"modelXJ6 Vanden Plas",-2592.72427587817
+"ext_col.Tan",-2592.63697717415
+"engine310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability",-2592.01649343884
+"engine298.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-2590.9700457081
+"engine208.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid",-2590.15836104443
+"modelExcursion Limited",-2588.80643043768
+"int_col.Oyster W/Contrast",-2588.73885109768
+"modelXF 3.0 Portfolio",-2587.27094955632
+"engine380.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-2584.60665082602
+"engine146.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-2581.35478328189
+"modelSeltos S",-2581.3253246814
+"modelGrand Cherokee Altitude",-2575.1408341862
+"modelExpedition EL Limited",-2572.74771229753
+"modelFX37 Base",-2571.72517245375
+"modelF-TYPE V6 S",-2571.28310733478
+"engine3.0 Liter SC ULEV",-2571.11941596504
+"engine282.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability",-2570.80124784241
+"modelModel 3 Mid Range",-2570.13901026052
+"modelMazda6 Carbon Edition",-2565.89329007346
+"ext_col.Gun Metallic",-2565.01809367893
+"model650 i xDrive",-2563.62021500707
+"modelWrangler Unlimited",-2560.50659578814
+"modelMustang EcoBoost Premium",-2559.70669066698
+"modelSportage X-Pro",-2557.14721622495
+"ext_col.Jungle Green",-2556.57104391283
+"modelMazda6 Grand Touring Reserve",-2556.37543977748
+"modelFrontier SL",-2555.92014732411
+"modelbZ4X Limited",-2554.04122113415
+"modelQ3 S line Premium Plus",-2551.94600435314
+"modelZ4 sDrive28i",-2550.74415740143
+"modelWrangler Sahara",-2549.86471445836
+"model230 i",-2547.69564217259
+"engine510.0HP 5.5L 12 Cylinder Engine Gasoline Fuel",-2546.85578665944
+"modelRover Range Rover Sport HSE",-2543.14699472726
+"modelRomeo Giulia Ti",-2541.75915889303
+"ext_col.Ebony Black",-2538.78106160245
+"modelQ5 Premium",-2537.40428214734
+"brandAcura",-2536.97205355809
+"engine386.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-2533.43032013395
+"modelF-PACE 35t Premium",-2532.87937163293
+"modelXK Base",-2532.60647281243
+"modelRam 1500 SLT Mega Cab",-2529.40531073615
+"modelMustang GT Premium",-2526.6141305616
+"engine192.0HP 2.0L 4 Cylinder Engine Gas/Electric Hybrid",-2524.41756089148
+"engine280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-2523.0553969546
+"modelBRZ Premium",-2520.82018952173
+"modelLS 460 Crafted Line",-2520.66420698811
+"modelModel S 70D",-2518.89482600846
+"engine518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",2517.85758508321
+"modelA7 Premium",-2514.61676013506
+"engine271.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-2514.44275626844
+"engine276.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-2513.11065115207
+"modelElantra N Base",-2513.10162631258
+"modelZ4 sDrive35is",2511.36886585728
+"ext_col.Isle of Man Green Metallic",2507.82163309361
+"int_col.Kyalami Orange",2507.79589433659
+"ext_col.Pearl White",2507.64017987426
+"engine3.0L I6 24V GDI DOHC Twin Turbo",2507.55713827243
+"modelRX 350 Base",-2506.82495509808
+"modelBeetle 2.0T Final Edition SE",-2505.50870657304
+"int_col.Orange",2502.93958163121
+"modelSprinter Normal Roof",2502.64745757068
+"modelAccord Hybrid Base",-2498.59259636228
+"modelSLC 300 Base",-2496.77049891403
+"engine305.0HP 3.6L V6 Cylinder Engine Gasoline/Mild Electric Hybrid",-2493.83202581734
+"modelMaverick XLT",-2492.84967102832
+"modelModel 3 Long Range",-2492.11492000848
+"modelC-HR LE",-2487.17353391474
+"engine6.6L V8 32V DDI OHV Turbo Diesel",2486.74476020939
+"modelXLR V",-2482.68415294466
+"ext_col.Deep Blue Metallic",-2482.67264776048
+"engine443.0HP 4.4L 8 Cylinder Engine Gasoline Fuel",-2482.57060516977
+"modelExpedition Timberline",2482.34141928177
+"model2500 Powerwagon",-2481.84288680982
+"modelCX-30 Premium Package",-2481.65792399799
+"modelEscalade ESV Platinum Edition",-2480.89503845115
+"modelCX-5 Grand Touring",-2478.4963260053
+"modelSanta Cruz 2.5T Limited",-2472.25728930304
+"ext_col.Hampton Gray",-2471.53939982702
+"ext_col.Dark Slate Metallic",-2470.99450458924
+"int_col.Ebony / Ebony Accents",-2470.9937664453
+"modelCorvette Base",-2466.53981681419
+"modelM2 Base",2462.44282063089
+"modelCayman Base",-2462.35322461926
+"engine290.0HP 3.6L V6 Cylinder Engine Flex Fuel Capability",-2461.10202867348
+"modelWrangler Unlimited Sport",-2458.95568173547
+"modelXT5 Premium Luxury",-2457.63974623235
+"modelCamaro LT1",-2453.03661575949
+"modelC-Class C300 4MATIC",-2451.69115846772
+"int_col.Deep Cypress",2450.88161617994
+"ext_col.Dark Matter Metallic",2450.83267240935
+"modelTahoe LTZ",-2450.12836592439
+"modelF-150 Lariat SuperCrew",-2445.9878191282
+"engine279.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-2441.94527583346
+"modelRDX Base",-2441.8703166954
+"modelDurango GT",-2434.20207110446
+"ext_col.Machine Gray Metallic",-2427.38009697796
+"modelNavigator Base",-2426.21337282495
+"engine403.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability",-2423.96192638447
+"modelRX 450h Base",-2422.62490696983
+"engine335.0HP 6.6L 8 Cylinder Engine Diesel Fuel",-2422.44254006293
+"modelMKZ Reserve I",-2421.50540786581
+"engine260.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-2421.15646991943
+"ext_col.Silver Ice Metallic",-2419.92006606148
+"model911 Carrera 4 Cabriolet",-2416.60653871874
+"engine315.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel",-2416.51247956876
+"transmission.5-Speed Automatic",-2412.6967857036
+"engine3.6 Liter",-2411.81178669024
+"modelSuburban 1500 LTZ",-2407.25971580242
+"modelCX-30 Base",-2405.56093031247
+"modelA8 L 3.0T",-2396.38852322714
+"engine248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-2396.30712806775
+"engine340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-2394.81558370097
+"modelTTS 2.0T Premium Plus",-2389.96843185496
+"modelNX 300h Base",-2389.63471046602
+"engine230.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-2389.46006341748
+"engine2.5L I4 16V MPFI DOHC Hybrid",-2389.45993636926
+"modelTiguan 2.0T SEL Premium R-Line",-2389.28400195452
+"modelTLX",-2388.83297067957
+"engine236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel",-2384.14924398727
+"engine3.6L V6 24V GDI DOHC",-2382.49842158961
+"engine197.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-2380.88260360777
+"int_col.Sport",-2379.69266693409
+"ext_col.Red",2376.52832038068
+"modelCLS-Class CLS 400 4MATIC",-2375.03009672446
+"brandNissan",-2373.00039013173
+"modelMDX Technology",-2372.55592124255
+"engine350.0HP 6.4L 8 Cylinder Engine Diesel Fuel",-2368.35414829877
+"modelS-Class S 65 AMG",2366.12588853681
+"engine621.0HP 6.0L 12 Cylinder Engine Gasoline Fuel",2366.10337501026
+"engine400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel",-2365.98537427524
+"engine290.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability",-2364.54965309526
+"ext_col.Radiant Red Metallic II",-2363.50454730706
+"engine237.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-2362.09661370746
+"ext_col.Hellayella Clearcoat",-2360.40431116447
+"modelForester Premium",-2360.29294769014
+"modelMurano SV",-2360.14724648223
+"ext_col.Carpathian Grey Premium Metallic",-2359.83292877628
+"int_col.Cloud",-2359.59487772456
+"modelPilot EX-L",-2358.60447574721
+"int_col.Black / Saddle",2354.88800283325
+"modelF-250 XLT Crew Cab Super Duty",-2353.73843638533
+"engine310.0HP 4.7L 8 Cylinder Engine Flex Fuel Capability",-2353.30327956571
+"modelModel S Performance",-2352.44084518785
+"engine416.0HP Electric Motor Electric Fuel System",-2352.10417581666
+"modelSprinter 4500 High Roof",-2351.89076036002
+"modelGhibli S GranLusso",-2351.89025606537
+"engine350.0HP 3.7L V6 Cylinder Engine Gasoline Fuel",-2347.78779350166
+"engine3.5 Liter",-2347.77655551561
+"int_col.Red / Black",2345.96049351237
+"engine3.8L V8 32V GDI DOHC Twin Turbo",2345.61034906598
+"modelLevante GTS",2345.2532662364
+"modelSilverado 1500 Limited Custom",-2345.12830986738
+"engine2.7 Liter DOHC Turbo",-2345.07808161239
+"modelRomeo Stelvio Base",-2342.94787239219
+"modelAcadia Denali",-2341.63882105718
+"modelCTS-V Base",-2338.51897138536
+"engine416.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",2337.74741663029
+"modelLS 500 F Sport",2337.69432148855
+"modelGrand Cherokee Summit",-2333.21542107883
+"engine6.2 Liter",-2324.53677914702
+"engine224.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-2322.12206386389
+"modelSilverado 3500 High Country",2321.59243238493
+"modelEnvision Essence",-2321.25177113622
+"engine3.5 Liter GTDI",-2320.22880015677
+"ext_col.Ingot Silver Metallic",-2319.67244835461
+"engine300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel",-2315.20120877082
+"engine325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel",-2314.83357497365
+"engine550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",2314.54333118233
+"modelRover Range Rover 5.0L V8 Supercharged",2313.94032482152
+"engine605.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",2313.44478688687
+"engine405.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",2312.02306901354
+"modelM2 Competition",2311.88882375278
+"modelMarauder Base",-2310.32672656773
+"modelRover LR4 HSE",-2307.99306125451
+"ext_col.Soul Red Crystal Metallic",-2307.39366006787
+"ext_col.DB Black Clearcoat",-2306.81970393456
+"modelE-Class E 300 4MATIC",-2304.49585223919
+"modelYukon SLE",-2301.75702528104
+"modelEscalade Platinum",2300.56584774064
+"modelRX 350 F Sport",-2299.55135334831
+"modelMDX 3.5L Technology Package",-2296.8344629175
+"modelTLX A-Spec",-2296.74617405413
+"modelX5 eDrive xDrive40e",-2295.87122588134
+"engine313.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas",-2295.75753667017
+"int_col.Parchment",-2293.69333532028
+"modelTahoe Premier",2291.45052706449
+"ext_col.Snowflake White Pearl",-2288.09556427952
+"engine2.5L I4 16V PDI DOHC Turbo",-2287.4060012338
+"engine191.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid",-2286.8954496318
+"engine325.0HP 6.0L 8 Cylinder Engine Diesel Fuel",-2286.83183167063
+"ext_col.Sting Gray Clearcoat",-2285.95764429247
+"modelXC90 T6 Momentum",-2285.10712832517
+"ext_col.Metallic",-2284.61337107655
+"modelTLX Type S PMC Edition",2276.66522434088
+"modelGTO Base",-2270.04652257481
+"modelSanta Fe Sport 2.0L Turbo",-2269.86463715557
+"modelAMG C 43 Base",-2269.84165173406
+"modelEscape PHEV SE",-2268.83486033116
+"engine221.0HP 2.5L 4 Cylinder Engine Plug-In Electric/Gas",-2268.80124290228
+"modelGLC 300 GLC 300",-2263.0330102025
+"modelE-Class E 400",-2256.70090075534
+"ext_col.Octane Red Pearlcoat",-2255.76836385725
+"engine227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-2255.20226598891
+"engine3.0 Liter DOHC Twin Turbo",-2252.38729271316
+"engine255.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-2248.5748950089
+"modelTitan SL",-2247.97197109987
+"modelXC90 Recharge Plug-In Hybrid T8 Inscription 7 Passenger",2246.63313102969
+"modelA5 2.0T Prestige",-2242.84370298354
+"engine440.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-2241.00239074387
+"engineV6",-2240.0209991373
+"engine2.0 Liter Turbo",-2239.64567052377
+"int_col.Ivory / Ebony",-2239.26649272761
+"ext_col.Magnetic Black",-2236.48398645101
+"engine2.5L I4 16V MPFI DOHC",-2236.42545682552
+"engine2L I-4 gasoline direct injection, DOHC, intercooled turbo, engin",-2233.21070265355
+"ext_col.Granite Crystal Metallic Clearcoat",-2232.7558142613
+"engine360.0HP 6.6L 8 Cylinder Engine Diesel Fuel",-2230.53918368218
+"modelSilverado 2500 LT H/D Extended Cab",-2230.37982222757
+"engine228.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-2229.57341974855
+"int_col.Medium Stone",-2228.87252196143
+"modelSRX Standard",-2228.58449969391
+"model750 i",-2227.32337811588
+"engine355.0HP Electric Motor Electric Fuel System",2223.35868719116
+"int_col.Pearl Beige",-2222.55888956754
+"brandLincoln",-2220.60585218036
+"modelF-150 XL",-2220.57292987698
+"int_col.Shara Beige",-2219.19038922361
+"ext_col.Maroon",-2215.87336971153
+"modelEV6 Wind",-2215.15398494319
+"engine111.2Ah / FR 70kW / RR 160kW (697V)",-2214.856414183
+"modelAviator Reserve AWD",2214.70448258146
+"ext_col.Glacier",-2214.16970832278
+"modelAccord Sport",-2212.85446773034
+"brandVolvo",-2207.99510405345
+"engine455.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas",2207.10820847408
+"model2 Launch Edition",-2206.12696862682
+"brandPolestar",-2205.94706037155
+"ext_col.Thunder Gray",-2205.35977371697
+"int_col.Black/Saddle Brown",2191.92378222733
+"ext_col.Emerald Green Metallic",2191.66571720619
+"modelE-Class AMG E 53",2190.7039368843
+"modelAMG GL AMG GL 63 4MATIC",-2190.27787633969
+"engine550.0HP 5.5L 8 Cylinder Engine Gasoline Fuel",-2190.19179367595
+"ext_col.Imperial Blue Metallic",-2189.99174882931
+"modelRover Discovery HSE",-2184.83295798392
+"modelX3 xDrive30i",-2183.78616318711
+"int_col.Anthracite",2182.09214051981
+"engine3.0 Liter DOHC Turbo",2181.27223583275
+"modelM4 CS",2181.07709195933
+"engine2.5L H4 16V GDI DOHC",-2178.47289481863
+"ext_col.Crystal Black Silica",-2178.33909914625
+"modelRover Range Rover Sport 3.0L Supercharged HSE",-2176.18845043567
+"modelG80 3.8",-2170.90381476904
+"int_col.Mesa",2170.63185622625
+"engine420.0HP 4.8L 8 Cylinder Engine Gasoline Fuel",-2168.3605947214
+"ext_col.Sunset Drift Chromaflair",-2164.28208394414
+"transmission_grp.6-Speed A/T",-2163.77647977165
+"transmission.6-Speed A/T",-2163.65189027266
+"modelS4 3.0T Premium Plus",-2159.45037737044
+"engine355.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-2159.39277701926
+"modelRam 2500 ST",-2159.19708229456
+"engine315.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability",-2157.65350153004
+"modelYukon SLT",-2156.24944179268
+"engine500.0HP 4.8L 8 Cylinder Engine Gasoline Fuel",-2154.62223502485
+"modelAMG GLE 43 4MATIC Coupe",2149.50517700253
+"modelS3 2.0T Premium Plus",-2146.59013547654
+"engine2.0L I4 16V GDI SOHC Turbo",-2144.2420346077
+"modelQ8 55 Premium Plus",2143.89054488182
+"modelExcursion XLT 4WD",-2141.86137849484
+"engine420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",-2141.55572114938
+"ext_col.Oxford White",2141.4435713073
+"ext_col.Navarre Blue",-2140.8689901023
+"int_col.Chateau",-2140.20432562337
+"modelSilverado 3500 LTZ",2139.82437300468
+"modelRS 4 Base",-2136.22116294391
+"model4Runner Trail",-2132.91261843088
+"modelRover Range Rover 5.0L Supercharged",-2132.40885246044
+"engine286.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",2130.70384484643
+"ext_col.Brilliant Black",-2128.20553424167
+"engine550.0HP 6.0L 12 Cylinder Engine Gasoline Fuel",-2127.3413643768
+"modelYukon XL 1500 SLT",-2126.77406624435
+"modelQ8 3.0T Prestige",2125.38660146334
+"model300C SRT8",-2119.97769789767
+"engine6.7L V8 32V DDI OHV Turbo Diesel",2118.75035379732
+"modelQ70h Base",-2117.37445730291
+"engine360.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid",-2117.24529682284
+"engine372.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-2116.09605006552
+"ext_col.Alta White",-2110.10037507393
+"modelMustang SVT Cobra",-2109.71677618501
+"engine390.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-2109.6415217509
+"engine430.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid",2106.52819464748
+"engine2.9L V6 24V GDI DOHC Twin Turbo",2104.55203102795
+"modelNavigator Reserve",2102.68963244306
+"modelAMG C AMG C 63",-2102.03751835884
+"modelG80 2.5T",-2101.33576118602
+"ext_col.Black Forest Green",-2100.61968695988
+"int_col.Yellow",2097.55061073317
+"model1500 Classic Warlock",-2096.64584980013
+"ext_col.Summit White",-2095.50448339891
+"modelES 250 Base",-2093.72705990728
+"engine2.5 Liter",-2093.68712292322
+"ext_col.Glacial White Pearl",-2092.09499636619
+"transmission_grp.8-Speed Automatic",2091.87016986803
+"engine382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",2091.82230723184
+"transmission.8-Speed Automatic",2091.55476636667
+"engine414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",-2089.98451560313
+"ext_col.Carrara White Metallic",-2087.18508023939
+"modelF-TYPE R",2084.85973465666
+"modelRomeo Giulia Quadrifoglio",2083.52889786138
+"brandJeep",-2082.33753569494
+"modelStinger GT1",-2082.02531846582
+"engine3.3L V-6 gasoline direct injection, DOHC, D-CVVT variable valve",-2081.90044794686
+"engine415.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel",2081.39009069553
+"model911 Carrera Turbo",2081.30545176085
+"int_col.Light Titanium",-2078.65961088464
+"ext_col.Iridium Metallic",-2078.57249054504
+"ext_col.Cirrus Silver Metallic",-2078.18510128378
+"int_col.AMG Black",-2078.01687343314
+"modelRover Range Rover Sport HSE Dynamic",2075.09205340777
+"modelSprinter 2500",-2073.72277979257
+"ext_col.Phytonic Blue Metallic",-2073.46342511406
+"ext_col.Hyper Red",-2073.04184251527
+"modelHighlander SE",-2070.92028962845
+"engine239.0HP 4.0L V6 Cylinder Engine Gasoline Fuel",-2069.22486199051
+"int_col.Ebony Black",-2068.62751741132
+"modelPilot EX",-2066.63213562278
+"model1500 SLT",-2064.55316451982
+"modele-tron Premium",-2062.33785161003
+"ext_col.Navarra Blue Metallic",-2061.57214316091
+"engine270.0HP 2.3L 4 Cylinder Engine Gasoline Fuel",-2061.19070646496
+"modelF-250 XL SuperCab H/D",-2058.28544877007
+"engine335.0HP 2.7L V6 Cylinder Engine Gasoline Fuel",-2055.72043943603
+"model4Runner SR5",-2054.16606443377
+"engine3.0 Liter",2052.90614379355
+"engine150.0HP 2.7L 4 Cylinder Engine Gasoline Fuel",-2051.86426616567
+"model4Runner 4WD",-2051.46995976575
+"engine261.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",2049.9085813849
+"modelRomeo Stelvio Ti",-2049.67205652304
+"ext_col.Yulong White",-2047.75156154813
+"int_col.Tan/Ebony",-2047.49892739622
+"ext_col.Emin White",-2044.44406823859
+"modelTitan S",-2043.96637600644
+"ext_col.Lunare White Metallic",-2039.09684663529
+"int_col.Ice",-2038.94995107259
+"int_col.Black Onyx",2035.78621825486
+"modelRX 450h F Sport Handling",2033.55705099664
+"modelQ5 S line Premium",-2032.96780698071
+"engine203.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-2030.64136816973
+"modelRAV4 TRD Off Road",-2030.60619250993
+"modelEQS 450+ Base",2030.3963503923
+"engine161.0HP 2.1L 4 Cylinder Engine Diesel Fuel",-2030.29919170176
+"transmission.6-Speed Automatic",-2028.8759900435
+"model370Z NISMO Tech",-2025.09544027544
+"modelModel S 85",-2015.42258263254
+"engine362.0HP Electric Motor Electric Fuel System",-2015.13264666049
+"modelRDX Technology Package",-2013.37327541966
+"modelX5 sDrive35i",-2011.38329156746
+"modelRover Range Rover 3.0L V6 Supercharged HSE",2011.25409313285
+"modelIS 300 Base",-2004.23771680339
+"modelIntegra w/A-Spec Tech Package",-2004.10707875569
+"engine1.5 Liter Turbo",-2004.05707681189
+"ext_col.Apex Blue",-2003.80297761464
+"int_col.Orchid",-2003.63742311854
+"modelModel S Long Range",2002.64317044119
+"engine247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-2001.79740961528
+"engine445.0HP 4.4L 8 Cylinder Engine Gasoline Fuel",-1996.13020410437
+"engine3.6L V6 24V MPFI DOHC",-1995.65524241073
+"modelCharger R/T 392",-1994.73520567552
+"ext_col.White Knuckle Clearcoat",-1989.52333079015
+"transmission.Transmission Overdrive Switch",-1988.66475192211
+"modelA5 Sportback S line Premium Plus",-1987.79095639844
+"modelBronco Outer Banks Advanced",1986.56610829291
+"engine382.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",1986.323611236
+"modelAMG CLA 45 Base 4MATIC",1986.23933855347
+"modelEscalade EXT Base",-1986.23737613564
+"modelEscalade ESV Luxury",-1981.98051241265
+"modelHighlander Hybrid Limited",-1978.72280003708
+"engine310.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-1978.33262157434
+"modelEscalade Luxury",-1977.81122979836
+"ext_col.Platinum White Pearl",-1977.77378652714
+"engine293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-1976.84663010808
+"modelS-Class S 550",-1975.63423850298
+"modelHighlander Limited Platinum",-1975.28940997816
+"engine181.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-1974.04469671284
+"modelMX-5 Miata RF Club",-1973.98730342784
+"modelHighlander Limited",-1969.23982866045
+"modelS6 4.0T",-1968.81021288721
+"modelCorvette Z06",1968.22196326465
+"ext_col.Polymetal Gray Metallic",-1965.96335200982
+"modelChallenger SRT8 392",-1964.12810067578
+"modelS-Class S 560 4MATIC",1959.55028827201
+"modelSuburban RST",1957.89537836722
+"int_col.Cocoa / Dune",-1957.86377154762
+"engine300.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-1954.18267764283
+"modelMaxima 3.5 SR",-1954.05606724436
+"engine317.0HP 5.6L 8 Cylinder Engine Gasoline Fuel",-1952.74717933234
+"modelSportage Nightfall",-1952.14427008188
+"modelSequoia Platinum",1950.15723459289
+"transmission.Automatic, 9-Spd 9G-Tronic",-1947.88554622935
+"engine311.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-1945.80884217525
+"modelMKX Black Label",-1940.75950477559
+"model440 Gran Coupe i",-1939.82741495057
+"modelBronco XLT",-1939.73427791567
+"modelEncore GX Essence",-1939.69812279599
+"engine510.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability",-1939.54291509399
+"int_col.Whisper Beige",-1939.53035896701
+"engine435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",-1937.16248817493
+"engine255.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability",-1935.86283934474
+"model1500 Big Horn",-1933.46131059091
+"ext_col.Glacier White",1924.85803178486
+"modelGrand Cherokee WK Laredo X",-1924.18357888132
+"modelOutback Limited",-1923.20146071176
+"ext_col.Florett Silver",-1922.02227652464
+"modelNV Passenger NV3500 HD SL V8",1914.9566510006
+"engine375.0HP 5.6L 8 Cylinder Engine Gasoline Fuel",1914.92446616781
+"modelAtlas Cross Sport 3.6L V6 SEL Premium",-1912.9744858512
+"modelRogue S",-1912.20840768722
+"engine295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-1900.52655094088
+"int_col.Green",-1899.39561957918
+"ext_col.Granite Crystal Clearcoat Metallic",-1897.57748338159
+"engine270.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-1897.3455494668
+"modelSilverado 1500 LT",-1897.22320513349
+"modelQX60 Pure",-1895.12643248942
+"engine6.7L I6 24V DDI OHV Turbo Diesel",1894.72877464174
+"ext_col.Typhoon Gray Metallic",-1893.04213175098
+"modelSuburban 1500 LS",-1889.65890483091
+"engine3.5L V6 24V GDI SOHC",-1887.01547398347
+"fuel_grp.E85 Flex Fuel",-1886.61130124976
+"fuel_type.E85 Flex Fuel",-1886.22341254281
+"ext_col.Portofino Blue Metallic",-1884.26512078144
+"int_col.Tan/Ebony/Ebony",-1884.02809527763
+"modelOdyssey Elite",-1879.67045815329
+"engine2.0 Liter TFSI",-1872.85808714584
+"brandJaguar",-1871.64038892477
+"modelRidgeline RTL-E",-1871.02867148214
+"int_col.Gray",-1870.13546956582
+"modelSuburban 2500 LS",-1868.38796680007
+"engine325.0HP 8.1L 8 Cylinder Engine Gasoline Fuel",-1868.36637794615
+"modelExcursion XLS",-1867.52259813704
+"modelX6 xDrive40i",1866.07022484047
+"engine323.0HP 6.0L 8 Cylinder Engine Gasoline Fuel",-1862.04715519003
+"modelOutback Limited XT",-1861.95966084072
+"ext_col.Magnetite Gray Metallic",-1861.89614427531
+"engine5.5 Liter",1860.3602280103
+"engine329.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-1856.22524836584
+"brandHummer",-1855.48992415582
+"int_col.White / Brown",-1853.54574536473
+"engine276.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-1847.71197555743
+"modelArteon 2.0T SEL Premium R-Line",-1847.52031889956
+"int_col.Mistral Gray / Raven",-1847.08280829537
+"ext_col.Anthracite Blue Metallic",-1846.67005404975
+"int_col.Silk Beige/Espresso Brown",-1846.42648464913
+"modelF-150 XLT",-1846.31071108681
+"ext_col.Glacier Blue Metallic",1845.33832766438
+"modelSilverado 1500 ZR2",1844.71770388211
+"modelRX 350 F Sport Performance",-1844.30727101888
+"ext_col.Manhattan Noir Metallic",1843.21086863755
+"modelRover Defender 110 SE",1842.54622718887
+"modelExpedition Max King Ranch",1841.99338869456
+"engine5.0L V8 32V PDI DOHC",1836.91700672025
+"engine3.0L V6 24V GDI DOHC Twin Turbo",1833.90260961376
+"modelGLB 250 Base 4MATIC",-1831.03477595094
+"ext_col.Pacific Blue",-1830.18214915085
+"int_col.Classic Red",-1830.09651725879
+"modelPanamera S",-1828.03129003679
+"modelArnage R",-1827.47965952071
+"engine400.0HP 6.75L 8 Cylinder Engine Gasoline Fuel",-1827.27140103552
+"ext_col.Midnight Black Metallic",-1826.94113378942
+"engine400.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",-1826.90441275685
+"modelSierra 1500 SLE",-1823.48132518262
+"modelCLS-Class CLS 63 AMG S-Model 4MATIC",-1822.02680053686
+"engine552.0HP 6.0L 12 Cylinder Engine Gasoline Fuel",1816.48308318482
+"modelAscent Touring 7-Passenger",-1812.4175067431
+"engine219.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid",-1811.02173193582
+"modelRAV4 Hybrid XLE",-1811.01429128458
+"modelXF 35t R-Sport",-1807.80633612632
+"int_col.Medium Pewter",-1807.42984729224
+"engine5.3L V8 16V MPFI OHV Flexible Fuel",-1807.09992842234
+"modelExpress 1500 Work Van",-1806.84398909938
+"engine260.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",-1806.1127600353
+"engine3.0L V6 24V GDI DOHC Supercharged",-1800.63739296923
+"modelGrand Cherokee L Limited",-1800.46586983086
+"ext_col.Cobra Beige Metallic",-1800.34022170817
+"int_col.Nougat Brown",-1800.22365987516
+"modelCanyon Denali",-1798.97277382675
+"engine5.7L V8 32V MPFI DOHC",-1792.05926330838
+"engine365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel",-1791.23723615192
+"engine2.0 Liter",-1788.86073506977
+"modelSorento SX Prestige",-1783.35266683802
+"engine281.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-1783.31830667293
+"ext_col.Pristine White",-1779.35456216762
+"modelSQ5 3.0T Premium Plus",-1779.15567822141
+"engine340.0HP 3.0L V6 Cylinder Engine Flex Fuel Capability",-1778.49399027335
+"modelNavigator L Select",-1774.80842265345
+"modelQX80 Luxe",-1771.96038730991
+"brandAlfa",-1769.08096899607
+"accident.At least 1 accident or damage reported",-1768.01206748387
+"model430 i xDrive",-1764.65722986566
+"modele-tron Prestige",-1755.25071881045
+"modelSL-Class SL 550",-1752.70107351004
+"engine353.0HP 6.0L 8 Cylinder Engine Gasoline Fuel",-1749.43876393544
+"modelSilverado 2500 LTZ H/D Extended Cab",-1749.41337293014
+"ext_col.Santorini Black Metallic",1748.97483982405
+"engine5.0 Liter",1746.80215034357
+"brandToyota",-1743.4290165715
+"transmission.10-Speed A/T",1736.11989499169
+"engine2.0 Liter DOHC Turbo",-1733.61795444497
+"model3500 Laramie",1724.04431495483
+"engine429.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-1721.8987098849
+"engine449.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-1721.3190112655
+"modelRover Range Rover Sport Supercharged HSE",-1719.96287339238
+"engine429.0HP 4.7L 8 Cylinder Engine Gasoline Fuel",-1718.04316465466
+"modelAMG E 53 4MATIC",1717.99812583189
+"modelGLC 300 Base",-1717.87369874569
+"engineAMG 3L I-6 gasoline direct injection, DOHC, variable valve contr",1717.73862528588
+"modelRidgeline Black Edition",-1717.41473770985
+"modelRover Range Rover Evoque R-Dynamic HSE",-1715.05010721452
+"modelGLE 350 GLE 350",1713.08083508743
+"ext_col.Sonic Silver Metallic",-1712.83053010059
+"int_col.Tension",1707.95777075471
+"ext_col.Arctic White",1707.82206049785
+"modelQX60 Luxe",-1707.47911956471
+"modelWrangler Unlimited Sahara",-1707.46583269658
+"modelNX 300 Base",-1706.85747732199
+"engine2.0L I4 16V PDI DOHC Turbo",-1706.80593113793
+"engine510.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",-1705.74085058077
+"engine190.0HP 2.8L Straight 6 Cylinder Engine Gasoline Fuel",-1703.05936020131
+"modelRoadmaster Estate",-1701.11269718257
+"engine385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability",1699.69819541192
+"engine5.8L V8 32V MPFI DOHC Supercharged",-1697.61846859684
+"int_col.Red",1694.11439942785
+"modelFocus RS Base",-1692.01131411502
+"engine350.0HP 2.3L 4 Cylinder Engine Gasoline Fuel",-1691.98216394427
+"modelGladiator Sport",-1691.84175897916
+"modelSprinter 3500XD High Roof",-1690.89736701859
+"int_col.Pimento Red w/Ebony",-1690.72217071194
+"modelGladiator Freedom",-1689.39970978798
+"ext_col.Hydro Blue Pearlcoat",-1688.73303915058
+"ext_col.Barcelona Red",-1685.52413402944
+"modelQ7 3.0T Prestige",-1684.21808660821
+"modelWRX STI Base",-1684.02252706152
+"modelX5 M Base",1676.46847847775
+"ext_col.Yulong",1674.66269338902
+"modelF-PACE 30t R-Sport",1673.94704331034
+"modelLX 470 Base",-1673.26659867549
+"modelColorado ZR2",-1672.28262992212
+"transmission.Variable",-1670.98276132065
+"engine6.0L 8 Cylinder Engine Gasoline Fuel",-1669.1934392919
+"modelModel 3 Performance",-1657.98987548119
+"modelHighlander XLE",-1657.58508248578
+"ext_col.Firecracker Red Clearcoat",-1654.95144639896
+"modelModel 3 Base",-1654.26930496338
+"engine292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-1652.26941437335
+"engine430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",-1649.9718228617
+"engine181.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-1647.41412203981
+"engine3.5L V6 24V PDI DOHC",-1646.05735050567
+"modelRover Range Rover Velar P380 S",-1645.86116171207
+"engine2.7L V6 24V PDI DOHC Twin Turbo",-1643.3948227252
+"ext_col.Deep Black Pearl Effect",-1639.65001166455
+"modelS-Class S 550 4MATIC",-1635.58441364694
+"modelGolf R 4-Door w/DCC & Navigation",-1633.42070152337
+"modelTacoma TRD Sport",-1632.65339342877
+"modelStinger GT",-1630.38745253352
+"modelOutback Touring XT",-1629.03427553754
+"engine2.4L I4 16V PDI DOHC Turbo",-1629.00650323301
+"ext_col.Ruby Flare Pearl",-1628.51610760464
+"ext_col.Billet Silver Metallic Clearcoat",-1627.35149136248
+"engine315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel",1626.78022340637
+"ext_col.Lunar Silver Metallic",-1626.44499587937
+"engine310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-1623.11429896985
+"engine295.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-1622.98653218839
+"engine287.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-1617.6544742613
+"modelPacifica Launch Edition",-1617.64324508548
+"int_col.Sandstone",-1616.32026378158
+"engine333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel",-1606.32139096946
+"ext_col.Alfa White",-1604.52639514904
+"modelExpedition XLT",-1604.24602738303
+"engine3.0L",1600.09012594972
+"engine275.0HP 3.7L V6 Cylinder Engine Flex Fuel Capability",1599.36579275379
+"ext_col.Eminent White Pearl",-1598.31556629858
+"ext_col.Patriot Blue Pearlcoat",-1596.98044725361
+"int_col.Canberra Beige/Black",-1591.4727707914
+"transmission_grp.A/T",-1583.58658037312
+"accident.None reported",1583.45100528151
+"transmission.A/T",-1583.43220078498
+"ext_col.Fuji White",-1578.86780824136
+"ext_col.Magnetic Gray Metallic",-1577.66597743919
+"int_col.Graphite w/Gun Metal",-1577.45843531355
+"modelGV80 2.5T",1575.41214710082
+"modelTransit-350 Base",-1572.3902738115
+"modelRS 7 4.0T Performance Prestige",1570.48875958811
+"model2500 Laramie",1558.14303608105
+"brandPlymouth",-1557.24460013599
+"engine253.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-1557.03468332953
+"modelProwler Base",-1556.94805566313
+"modelAMG C 63 S",1554.99602108225
+"engine330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-1554.39749361267
+"modelXC60 T6 Inscription",-1554.38224847296
+"engine325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel",-1553.21542221676
+"modelGR86 Premium",-1550.81230988775
+"modelTelluride S",-1548.04424598677
+"modelTraverse Premier",-1546.40117541338
+"modelRDX w/Advance Package",-1546.39922225326
+"modelFJ Cruiser Base",-1545.42062502768
+"model2500 Longhorn",1544.858104782
+"int_col.Silk Beige/Black",-1544.65745413001
+"engineDual Motor - Standard",-1537.95511152794
+"modelM440 i",1535.05580860921
+"int_col.Titan Black / Quarzit",-1534.68993384912
+"modelQ5 S line Premium Plus",-1534.24923074389
+"ext_col.Vik Black",-1533.06740819034
+"int_col.Obsidian Black",-1532.9038986522
+"modelTraverse High Country",-1528.46013398344
+"ext_col.Stone Gray Metallic",-1528.38055471503
+"modelPassport TrailSport",-1526.09230184131
+"engine2.5L I4 16V GDI DOHC Turbo",-1524.37934180165
+"engine560.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",1523.71930689572
+"modelRS 7 4.0T Prestige",1523.6488791261
+"modelA6 55 Premium",-1523.35923940164
+"modelTransit Connect XL w/Rear Symmetrical Doors",-1521.27267617338
+"engine265.0HP 2.7L Flat 6 Cylinder Engine Gasoline Fuel",-1519.85803498024
+"modelF-250 Lariat",1517.69092253598
+"ext_col.Flame Red Clearcoat",1514.80837261614
+"engine290.0HP 7.4L 8 Cylinder Engine Gasoline Fuel",-1512.92151195329
+"modelSuburban 2500",-1512.87296364627
+"modelGR86 Base",-1511.25036647388
+"model440 i xDrive",-1508.94841025918
+"engine382.0HP 5.5L 8 Cylinder Engine Gasoline Fuel",-1507.39980917508
+"modelCayenne Base",-1501.27067601865
+"int_col.Deep Chestnut",-1500.07348069971
+"modelMazda6 Signature",-1500.06796527271
+"int_col.Gold",-1494.50577872919
+"modelSierra 1500 Denali",-1490.11322452219
+"engine305.0HP 3.6L V6 Cylinder Engine Flex Fuel Capability",-1489.55627781641
+"modelS60 B5 Inscription",-1489.53713591764
+"engine247.0HP 2.0L 4 Cylinder Engine Gasoline/Mild Electric Hybrid",-1489.44890278394
+"int_col.Walnut",-1489.27358015146
+"engine250.0HP 3.0L V6 Cylinder Engine Diesel Fuel",-1487.9742966877
+"ext_col.Siren Red Tintcoat",-1487.65878749646
+"modelImpreza WRX Premium",-1486.5222485859
+"engine567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel",1481.61764379715
+"ext_col.Pink",-1479.08247635693
+"engine354.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-1478.78501230037
+"engine316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-1474.87164124612
+"modelF-PACE 25t Premium",-1473.43815883935
+"modelSequoia SR5",-1473.14471748236
+"engine381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",1473.13507554877
+"modelPalisade Limited",-1469.36908392138
+"engine460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",-1468.46546492137
+"int_col.Mocha",1467.80709248233
+"modelExplorer Platinum",-1464.47572731756
+"ext_col.Yellow",1462.76021215522
+"ext_col.Nautical Blue Pearl",-1460.81242276282
+"engine362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-1460.42670689921
+"modelV60 T6 R-Design Platinum",-1449.58798444214
+"engine325.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",-1449.57503291154
+"engine350.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",1449.28937635878
+"model718 Boxster S",1449.25492227968
+"modelArteon SEL R-Line",-1445.60593709303
+"ext_col.Oryx White Prl",-1444.98636189328
+"modelQ5 40 Premium",-1444.00997232463
+"engine201.0HP 2.0L 4 Cylinder Engine Gasoline/Mild Electric Hybrid",-1443.85662080389
+"engine285.0HP 4.3L V6 Cylinder Engine Flex Fuel Capability",-1442.06034528619
+"modelStinger GT2",-1439.36180272776
+"modelBronco Outer Banks",1439.03534982051
+"modelCLS 450 Base",-1438.81210452265
+"engine369.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid",-1438.65785663846
+"modelTouareg TDI Lux",-1438.14432075605
+"modelSorento Hybrid EX",-1437.24021130511
+"engine227.0HP 1.6L 4 Cylinder Engine Gas/Electric Hybrid",-1437.121124946
+"modelH2 SUT",-1434.03015857905
+"modelAMG C 43 AMG C 43 4MATIC",-1433.37667176534
+"modelF-350 Lariat Super Duty Crew Cab",-1432.18267953353
+"engine250.0HP 7.3L 8 Cylinder Engine Diesel Fuel",-1430.70147491353
+"modelM4 Base",1429.79806111503
+"ext_col.Silver",-1426.43573299618
+"engine4.0L V6 24V MPFI DOHC",-1426.1019891455
+"modelTacoma SR5",-1422.34415364939
+"engine310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-1420.7781870532
+"transmission_grp.Automatic",1419.72083566453
+"transmission.Automatic",1419.38433716023
+"engine400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",1418.680495994
+"brandGenesis",-1414.08512491445
+"modelG70 3.3T",-1411.28681992216
+"ext_col.Bright White Clearcoat",-1407.66979919738
+"modelQ7 45 Premium Plus",-1406.85473131311
+"modelQ4 e-tron Sportback Premium",1404.88449889095
+"modelAMG C 43 Base 4MATIC",-1402.9809396507
+"engine261.0HP 2.0L 4 Cylinder Engine Gasoline/Mild Electric Hybrid",-1398.89761540721
+"engine270.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",1397.91754117026
+"modelWrangler Unlimited 4xe Sahara",-1396.14985735842
+"engine2.0L I4 16V GDI DOHC Turbo Hybrid",-1396.02723497648
+"engine411.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",-1395.25044574175
+"modelCharger Scat Pack",-1388.36362288892
+"modelImpreza WRX STI",-1384.56541681298
+"engine495.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",-1382.71480592366
+"modelChallenger R/T Scat Pack",-1379.08173336344
+"modelGX 460 Luxury",1378.81131236289
+"int_col.Slate",-1378.6484444142
+"int_col.Mountain Brown",-1374.78819088107
+"model4Runner TRD Off Road",-1366.42221304463
+"modelCX-9 Carbon Edition",-1364.83867568215
+"modelX4 M Competition",1359.60930307115
+"engine485.0HP 6.4L 8 Cylinder Engine Gasoline Fuel",-1351.8816853614
+"modelEnclave Avenir",-1347.67807617589
+"transmission.1-Speed Automatic",-1345.59804593807
+"engine305.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-1344.74319007491
+"engine2.4L H4 16V GDI DOHC Turbo",-1343.00568027017
+"modelF-TYPE S",-1342.33460292363
+"model540 i xDrive",-1341.41035614462
+"model1500 Sport",-1332.49781510999
+"engine325.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel",-1331.47210169109
+"int_col.Rioja Red",1329.99335468126
+"modelTitan SV",-1328.20118146688
+"modelGrand Cherokee L Laredo",-1327.42286746882
+"modelG70 2.0T",-1326.98537911638
+"engine3.5L V6 24V GDI DOHC Twin Turbo",-1319.79420736519
+"ext_col.Iconic Silver Metallic",1317.51481586154
+"modelMacan",-1316.69524615885
+"modelM3 Base",-1316.41113775358
+"modelDurango R/T",-1315.19241701074
+"modelF-PACE SVR",1313.5519213872
+"engine5.6 Liter",-1313.26016265478
+"modelE350 Super Duty XLT",-1309.83534544646
+"ext_col.Diamond Black",-1309.56449025787
+"model1500 Laramie",-1304.4705853998
+"modelTLX w/A-Spec Package",-1302.18443307561
+"ext_col.Jet Black Mica",-1302.09973973546
+"engine505.0HP 2.9L V6 Cylinder Engine Gasoline Fuel",1299.87829190957
+"modelMaverick Lariat",-1296.93599901397
+"transmission.Transmission w/Dual Shift Mode",1294.98758385851
+"transmission_grp.Transmission w/Dual Shift Mode",1294.94531749674
+"modelSuburban LTZ",-1294.91552991012
+"modelCorsair Standard",-1294.50148747013
+"engine278.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-1293.27299471337
+"modelTacoma SR",-1293.20335795966
+"engine295.0HP 3.4L Flat 6 Cylinder Engine Gasoline Fuel",-1292.74092345038
+"modelX3 M40i",-1287.92975018945
+"engine291.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-1283.37470755933
+"modelLancer Evolution GSR",-1283.24035635061
+"ext_col.Wind Chill Pearl",-1280.27684153982
+"engine480.0HP Electric Motor Electric Fuel System",1275.88121853632
+"engine280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-1274.05114896932
+"modelCamaro 1SS",-1269.84404081397
+"engine395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",-1267.73723699757
+"model4Runner Limited",-1266.11336599826
+"engine475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel",1265.7788934265
+"brandAudi",-1258.92917948865
+"engine345.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel",-1256.73474720833
+"engine3.4L V6 24V PDI DOHC Twin Turbo",-1254.2786421293
+"engine266.0HP Electric Motor Electric Fuel System",-1254.16855166818
+"modelS7 4.0T Premium Plus",-1254.13085824191
+"engine275.0HP 2.7L Flat 6 Cylinder Engine Gasoline Fuel",-1254.07115793832
+"brandLand",1251.9325721579
+"modelCamaro 2SS",-1251.37055499315
+"modelTundra SR",1248.25446398753
+"modelGLE 350 Base 4MATIC",1246.57268178068
+"modelSilverado 1500 Custom Trail Boss",-1245.06622730304
+"modelS5 3.0T Prestige",-1244.98944604732
+"modelTraverse RS",-1242.78628953977
+"modelX6 sDrive35i",-1242.21931903368
+"brandLotus",1239.60269781325
+"ext_col.Ebony Twilight Metallic",-1238.29916188191
+"modelXC90 Hybrid T8 R-Design",-1234.05561148043
+"engine285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",-1231.61152868717
+"ext_col.Star White",-1230.10351865022
+"ext_col.Beige",-1228.68810880948
+"modelEvora Base",1221.98866793217
+"engine402.0HP Electric Motor Electric Fuel System",1220.07373176875
+"modelC40 Recharge Pure Electric Twin Ultimate",1219.83681825625
+"modelHighlander Platinum",-1219.10642313669
+"brandFord",-1217.05354159945
+"modelTacoma Double Cab",-1213.6191652415
+"modelProMaster 2500 High Roof",-1209.3405258689
+"engine500.0HP 5.4L 8 Cylinder Engine Gasoline Fuel",-1206.21225849383
+"modelGLS 550 Base 4MATIC",-1202.60240547791
+"engine3.8L V6 24V GDI DOHC",-1202.50452755379
+"engine4.7 Liter Twin Turbo",-1202.39383914802
+"modelF-250 XL",-1195.74971707309
+"modelMustang Mach-E Premium",-1194.12360058355
+"modelM240 i xDrive",1181.25676036519
+"modelS-Class S 450",-1176.91171100247
+"engine450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",1172.87836024349
+"ext_col.Nebula Gray Pearl",-1169.27431300653
+"engine469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",1165.78487493727
+"modelSupra 3.0 Premium",1163.58179159799
+"modelSorento Plug-In Hybrid SX",-1161.99776875835
+"engine1.6L I4 16V GDI DOHC Turbo Hybrid",-1161.81778018118
+"ext_col.Aurora Black",-1161.65722991822
+"modelAtlas 3.6L SEL Premium",-1156.44253549881
+"engine360.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-1152.30883055886
+"ext_col.Obsidian Black Metallic",1145.72973201381
+"modelModel S 90D",-1141.95377676789
+"ext_col.Eiger Grey Metallic",-1141.78907822902
+"engine417.0HP Electric Motor Electric Fuel System",-1141.65801931615
+"int_col.Ebony/Light Oyster Stitch",-1141.54108945608
+"engine346.0HP Electric Motor Electric Fuel System",-1132.88988310106
+"clean_title.Yes",-1124.63520719724
+"clean_title.Unknown",1124.6232327668
+"modelNavigator L Reserve",1124.57863763635
+"engine2.0L I4 16V GDI DOHC Hybrid",1124.45630908834
+"modelLX 570 Base",1121.90128043662
+"modelSilverado 2500 WT",-1120.07818132128
+"modelSilverado 1500 1LT",-1118.45889725434
+"transmission.SCHEDULED FOR OR IN PRODUCTION",1115.32790706222
+"modelA7 3.0T Premium",-1109.07854666442
+"modelQ8 3.0T Premium",-1107.02232648042
+"engine540.0HP 5.4L 8 Cylinder Engine Gasoline Fuel",-1106.00975361433
+"modelTelluride SX",-1104.15333459862
+"engine221.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-1100.61887976964
+"modelTundra SR5",-1098.22432817179
+"engine341.0HP 6.0L 8 Cylinder Engine Flex Fuel Capability",-1095.06887573528
+"ext_col.Caviar",-1093.36832989476
+"ext_col.Blue",-1090.66161045977
+"modelS6 4.0T Premium Plus",1082.72254045229
+"modelPalisade Calligraphy",1080.36002150153
+"modelTelluride EX",-1079.5931435574
+"int_col.–",1079.50586579404
+"modelArmada SL",-1077.10218648669
+"modelPassport Elite",-1076.72955079276
+"int_col.Dark Ash",-1075.87206445575
+"engine6.0L V8 16V MPFI OHV Flexible Fuel",-1075.84499372737
+"modelGladiator Sport S",-1075.03310550964
+"modelS8 4.0T Plus",1068.52431436864
+"modelExpedition Max XLT",-1067.03957306246
+"modelGX 460 Base",-1066.45524100735
+"modelTransit-250 Base",-1065.35809848143
+"modelElise Base",-1058.69929120828
+"engine190.0HP 1.8L 4 Cylinder Engine Gasoline Fuel",-1058.5953393899
+"int_col.Diesel Gray / Black",-1048.89824083334
+"modelXC60 Recharge Plug-In Hybrid T8 Inscription",1044.9397445254
+"engine390.0HP 6.0L 8 Cylinder Engine Gasoline Fuel",1043.77086681145
+"modelTrailblazer SS",1043.66427325372
+"engine180.0HP 6.5L 8 Cylinder Engine Diesel Fuel",-1043.09926487884
+"modelTahoe Base",-1042.80327584133
+"ext_col.Matador Red Metallic",1041.82832258303
+"modelExcursion Limited 4WD",-1041.61568760673
+"modelSQ7 4.0T",1040.87740076049
+"ext_col.Mineral White",1040.68772137483
+"engine4.0 Liter",-1031.83158070972
+"modelIS 350 F Sport",-1031.32369939112
+"modelSilverado 2500 LTZ",-1030.75104571918
+"engine335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",-1030.41134652618
+"modelBronco Base",-1026.69173087455
+"modelSilverado 2500 LT",-1025.35180495913
+"engine425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",1023.45157846481
+"engine450.0HP 4.0L 8 Cylinder Engine Gasoline Fuel",-1021.39419741146
+"brandMercedes-Benz",1019.9079494354
+"int_col.Ceramic",1016.3321466309
+"modelMacan GTS",1012.67414491109
+"int_col.Tupelo",1010.82057511956
+"int_col.Rock Gray",-1010.69359480549
+"transmission.2",-1009.98094779252
+"modelGrand Cherokee L Summit",1009.97272000999
+"fuel_type.Diesel",1009.66865394143
+"fuel_grp.Diesel",1009.52857187176
+"modelH2 Base",-1007.72883183521
+"ext_col.Orange",1006.90131611247
+"modelTLX PMC Edition",-1001.01881561032
+"engine382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid",996.812158264664
+"engine300.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",-992.951528921624
+"brandLexus",-991.065743970272
+"ext_col.Satin Steel Metallic",-990.315570109413
+"engine473.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",989.389459621116
+"modelX3 M AWD",989.290555321055
+"engine285.0HP 4.8L 8 Cylinder Engine Gasoline Fuel",-987.750099730457
+"modelCX-9 Grand Touring",-978.640349880701
+"engine2.7L V6 24V GDI DOHC Twin Turbo",-978.017224255867
+"ext_col.Silver Radiance",-977.567603794517
+"modelF-150 Limited",-972.385420531296
+"engine455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",-971.550405307444
+"modelAscent Limited 7-Passenger",-970.21554646319
+"engine300.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",966.752877956985
+"model718 Boxster Base",966.581216016886
+"modelNV Passenger NV3500 HD SV V8",-965.466509372233
+"modelQ7 55 Prestige",-964.988627867343
+"brandDodge",-964.581979143582
+"engine385.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel",962.430601712417
+"modelPalisade SEL",-957.885666270703
+"ext_col.Moonlight Cloud",-957.523915323575
+"modelSilverado 1500 Limited High Country",955.795204339555
+"modelGrand Cherokee L Overland",952.802459503415
+"brandBMW",-952.410055573389
+"ext_col.Silver Zynith",-940.645599050684
+"engine270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel",-939.320398064575
+"modelCayman S",-933.044054571017
+"modelSierra 1500 SLT",-916.631057589542
+"transmission.10-Speed Automatic",914.677952446608
+"int_col.Beige",-913.103855425122
+"engine375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",-910.638408497876
+"modelF-350 Lariat",905.78087103773
+"modelA6 45 Premium Plus",-904.125825829501
+"engine248.0HP 2.0L 4 Cylinder Engine Gasoline/Mild Electric Hybrid",-904.00321527345
+"ext_col.Brown",-903.880630245298
+"modelSprinter High Roof",-899.43629286989
+"engine342.0HP 6.0L 8 Cylinder Engine Flex Fuel Capability",895.642320564807
+"engine403.0HP 2.0L Electric Motor Electric Fuel System",895.477167647024
+"modelRevero Base",895.159369663949
+"brandKarma",895.145808463603
+"modelSilverado 1500 RST",890.978468754629
+"modelGX 460 Premium",889.107106112182
+"modelSilverado 1500 Limited LT Trail Boss",885.582773543952
+"modelExpedition King Ranch",877.301993650583
+"modelWrangler Unlimited Freedom Edition",-876.278255034543
+"engine211.0HP 2.0L 4 Cylinder Engine Diesel Fuel",874.984558967293
+"transmission_grp.Other/Unknown",869.631403428071
+"ext_col.Tungsten Metallic",-867.922271874997
+"engine350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel",-867.482197518312
+"engine260.0HP 3.0L V6 Cylinder Engine Diesel Fuel",-863.153703376292
+"model430 430i",-858.709558915252
+"int_col.Sarder Brown",855.66611758531
+"engine4.0 Liter Turbo",854.824373457591
+"modelA8 4.0",854.509428423136
+"engine318.0HP 3.3L V6 Cylinder Engine Gas/Electric Hybrid",-852.018375896027
+"engine188.0HP 3.0L V6 Cylinder Engine Diesel Fuel",849.446111902696
+"ext_col.Chronos Gray Metallic",846.861320799976
+"transmission.Automatic, 7-Spd S tronic Dual-Clutch",846.675054178942
+"engine3L V-6 gasoline direct injection, DOHC, variable valve control,",846.432538350239
+"modelA6 55 Premium Plus",846.219150882714
+"int_col.Ebony",-844.904831933341
+"modelRomeo Stelvio Quadrifoglio",844.552934933528
+"modelTahoe LT",-843.94007871801
+"engine440.0HP 4.8L 8 Cylinder Engine Gasoline Fuel",842.638490308842
+"modelPanamera GTS",842.47709504171
+"modelChallenger SRT 392",-841.532514645915
+"modelTundra Limited",-840.781671848581
+"brandChevrolet",-834.478967459819
+"ext_col.Dark Ash Metallic",833.418735707448
+"modelS60 Recharge Plug-In Hybrid T8 Inscription",-833.357876119171
+"modelRover Range Rover Velar P250 SE R-Dynamic",-833.019668010468
+"modelALPINA B7 Base",-826.652909263534
+"ext_col.Midnight Black",-824.63427602856
+"ext_col.Ice Silver Metallic",-823.120217764062
+"modelHighlander Hybrid XLE",-818.710147422579
+"ext_col.Shadow Gray Metallic",-817.690904956433
+"modelF-PACE S",-815.152174136037
+"modelProMaster 3500 High Roof",-814.821409229512
+"modelA5 45 S line Premium Plus",-809.479410610172
+"modelM550 i xDrive",-807.841488487466
+"modelEV6 GT-Line",-807.059571050135
+"engine320.0HP Electric Motor Electric Fuel System",-806.805559324683
+"modelMDX w/Advance Package",806.435370517518
+"modelLand Cruiser Base",800.722567856248
+"engine306.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid",-798.126037132289
+"modelRover Range Rover Sport HST MHEV",791.054667981663
+"engine355.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability",-790.891470082776
+"engine308.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid",789.358104277247
+"modelTundra 1794",788.367827720283
+"ext_col.Alpine White",787.707289451495
+"modelCorvette Grand Sport",-784.766169884565
+"engine291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",-782.434538207433
+"modelSierra 2500 SLE",-781.111724527431
+"engine200.0HP 4.3L V6 Cylinder Engine Gasoline Fuel",-780.427858439943
+"modelModel Y Long Range",-776.734023706265
+"modelA7 Premium Plus",-770.651928139563
+"modelNautilus Reserve",-770.159567069793
+"modelAMG C 63 Base",770.152464332954
+"ext_col.Typhoon Gray",-769.711845988242
+"modelWrangler Unlimited Sport S",-754.073506717334
+"ext_col.Mythos Black",-750.423493665615
+"engine3.0L V6 24V GDI DOHC Turbo",-747.306244972111
+"modelX3 sDrive30i",-747.034357192142
+"model1500 Rebel",-744.106525985664
+"engine6.6L V8 16V GDI OHV",742.319201414871
+"modelRX 450h F Sport",-741.803580397406
+"engine3.5L V6 24V PDI DOHC Hybrid",-741.68052874078
+"modelTacoma TRD Pro",-740.077159499093
+"transmission.6-Speed",-739.999555864437
+"ext_col.Super White",-739.851727516134
+"engine6.4 Liter",739.419283248959
+"modelA7 3.0T Premium Plus",-736.923819893027
+"modelA7 55 Premium",728.723737363383
+"engine266.0HP 2.5L 4 Cylinder Engine Plug-In Electric/Gas",727.48312932786
+"modelCorsair Grand Touring",727.470667357142
+"model2500 Big Horn",-726.784730065142
+"engine536.0HP 5.5L 8 Cylinder Engine Gasoline Fuel",726.694028845553
+"int_col.Jet Black",-723.583114613362
+"brandGMC",-723.473248632236
+"model1500 Limited",717.611648446531
+"engine3.5L 24V SOHC I-VTEC V6",-717.521407861558
+"modelPanamera Turbo",714.967498443832
+"modelIS-F Base",-714.197083793938
+"engine416.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",-714.16001536733
+"modelX4 xDrive30i",705.624020853654
+"modelNavigator Premiere",705.333541345478
+"modelCorvette Stingray",703.42218571772
+"modelF-150 Platinum",-701.593806296863
+"engine3.5L V6 24V PDI DOHC Twin Turbo",697.192541410915
+"engine550.0HP 5.4L 8 Cylinder Engine Gasoline Fuel",697.012717577406
+"engine5.7L V8 16V MPFI OHV",-692.723258808713
+"ext_col.Dark Moss",-691.075002145782
+"modelGLS 450 Base 4MATIC",-687.231963209461
+"modelM5 Base",684.691593512275
+"engine4.6L V8 32V MPFI DOHC",684.107144127537
+"modelPanamera Edition",-677.886376055069
+"engine355.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",674.971123818511
+"engine451.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",-673.083409580958
+"ext_col.Black",-661.480851061182
+"modelAMG GLE 43 Coupe 4MATIC",-660.42113427886
+"modelCayenne AWD",659.562778427145
+"engine400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel",-656.278412715287
+"ext_col.Agate Black Metallic",-656.145439185844
+"engine6.4L V8 16V MPFI OHV",654.916237027374
+"engine3.0L I6 24V GDI DOHC Turbo",-651.388067789335
+"ext_col.Navarra Blue",-647.767691466696
+"int_col.Saiga Beige",-647.504913064441
+"modelS5 3.0T Premium",646.694964776978
+"modelSportage Plug-In Hybrid X-Line",-646.652600415754
+"engine177.0HP 1.6L 4 Cylinder Engine Plug-In Electric/Gas",-646.586466531026
+"modelRDX w/A-Spec Package",-640.113323093182
+"modelF-TYPE",-635.629178404494
+"engine2.0 Liter Supercharged",-635.525699357697
+"model4Runner SR5 Premium",-634.822097384228
+"engine444.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",633.356456171463
+"modelMustang Boss 302",633.318798606991
+"modelCharger R/T Scat Pack",-632.036609906681
+"modelMDX Sport Hybrid 3.0L w/Technology Package",-626.287317782602
+"engine321.0HP 3.0L V6 Cylinder Engine Gas/Electric Hybrid",-626.123321818878
+"modelImpreza WRX Sti Special Edition",-622.257001219978
+"modelModel Y Performance",-622.254728987739
+"modelPilot Black Edition",-621.316242999382
+"engine295.0HP Electric Motor Electric Fuel System",620.119206036412
+"engine355.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel",-616.710829889492
+"modelEscalade ESV Platinum",-614.404477895775
+"modelF-150 SVT Raptor",613.984383098507
+"int_col.Espresso",612.842810921704
+"ext_col.Mythos Black Metallic",-604.874827607913
+"modelSL-Class SL63 AMG Roadster",603.821162540472
+"engineLAMBDA II 3.8L V-6 gasoline direct injection, DOHC, D-CVVT varia",-591.192097681847
+"modelS4 3.0T Premium",-590.781033245559
+"fuel_grp.Unknown",589.855130348707
+"fuel_type.Unknown",589.640725429786
+"engine245.0HP 5.9L Straight 6 Cylinder Engine Diesel Fuel",-585.214993040005
+"modelRam 2500 Quad Cab",-584.987453020348
+"ext_col.Chronos Gray",-582.353638713151
+"transmission.M/T",-580.423597432239
+"modelExpedition Limited",579.474827584269
+"modelRover Range Rover 5.0L Supercharged Autobiography",579.261987857592
+"engine520.0HP 4.8L 8 Cylinder Engine Gasoline Fuel",-578.833482920526
+"engine325.0HP 3.4L Flat 6 Cylinder Engine Gasoline Fuel",-572.421967242334
+"engine255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-568.77527606398
+"modelF-350 XL",567.636950666706
+"modelAMG GLC 63 Base 4MATIC",-565.189029060066
+"modelSuburban LT",-562.874272347861
+"transmission.9-Speed A/T",562.542701068556
+"int_col.Camel",559.483857265591
+"modelM340 i xDrive",557.921065816464
+"modelGrecale Modena",-557.390735233477
+"engine397.0HP 6.6L 8 Cylinder Engine Diesel Fuel",556.931419605857
+"fuel_grp.Hybrid",556.087316700752
+"fuel_type.Hybrid",555.965357667809
+"modelSQ5 3.0T Prestige",551.940276889828
+"int_col.Black w/Red Stitching",551.428149131359
+"ext_col.Graphite Grey Metallic",551.178370234221
+"modelAMG GLC 43 AMG GLC 43",550.316941099081
+"engine306.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-548.249773359618
+"modelCivic Type R Touring",-548.10907817773
+"brandCadillac",-542.285920156954
+"modelMustang Shelby GT500",-538.809513539171
+"engine410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel",-538.013890672176
+"modelSuburban Premier",537.877311061408
+"ext_col.Magnetic Metallic",-537.122990860484
+"modelGLE 350 Base",-536.125092830982
+"ext_col.designo Diamond White Bright",-535.332310535142
+"int_col.Macchiato/Magmagrey",-535.086353638383
+"engine400.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas",534.32078617972
+"modelRover Range Rover Velar P250 S R-Dynamic",-528.249464343413
+"engine550.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability",524.440691899647
+"engine425.0HP Electric Motor Electric Fuel System",-522.065492754684
+"engine455.0HP Electric Motor Electric Fuel System",-518.878978753459
+"modelSL-Class SL 63 AMG",-512.142078641675
+"brandRAM",-511.200050415554
+"modelGladiator Willys",503.334640095631
+"modelMustang Bullitt",497.863752383566
+"engine480.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",497.79685659038
+"engine260.0HP 4.0L V6 Cylinder Engine Gasoline Fuel",-494.993952867963
+"engine6.2L V8 16V MPFI SOHC Flexible Fuel",493.684371153363
+"engine330.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",490.934108621495
+"modelPanamera Base",490.893192926836
+"model1500 Longhorn",489.420831448132
+"engine335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid",488.414481663168
+"engine302.0HP 2.5L 4 Cylinder Engine Plug-In Electric/Gas",486.994560311756
+"modelRAV4 Prime XSE",486.922835903701
+"engine500.0HP 8.3L 10 Cylinder Engine Gasoline Fuel",-486.284400968912
+"engine560.0HP 4.4L 8 Cylinder Engine Gasoline Fuel",486.269611930359
+"fuel_grp.–",-485.369364740034
+"engine–",-485.361718068206
+"fuel_type.–",-485.083507966029
+"modelCX-50 2.5 Turbo Premium Package",-481.871440349463
+"modelRX 350 F SPORT Appearance",-478.341672956976
+"ext_col.Obsidian",-477.700573121003
+"modelMartin V8 Vantage Base",-477.115665518601
+"modelHighlander Hybrid Limited Platinum",-471.281682265206
+"modelTundra TRD Pro",470.035401139943
+"ext_col.Antimatter Blue Metallic",469.405735510988
+"modelX6 xDrive50i",463.720005300939
+"ext_col.Black Sapphire Metallic",-462.979864658141
+"int_col.Black",-457.712772827837
+"transmission.Automatic, 8-Spd",-457.066195828568
+"engine240.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid",452.658838651645
+"modelNX 350h Premium",452.587498422849
+"modelCT5 Premium Luxury",451.036601504257
+"int_col.Parchment.",450.99429063114
+"transmission.F",450.843698080263
+"transmission.8-Speed A/T",449.312081839523
+"transmission_grp.8-Speed A/T",449.263576126356
+"ext_col.Go Mango!",-447.879271790327
+"engine360.0HP 6.0L 8 Cylinder Engine Flex Fuel Capability",-440.929188078464
+"modelMustang Mach-E GT",440.158077319079
+"engineElectric Motor Electric Fuel System",431.368667891653
+"ext_col.Arctic Gray Metallic",-430.009754032577
+"ext_col.Velvet Red Pearlcoat",427.51513486462
+"modelSierra 2500 Base",425.394920587596
+"ext_col.Selenite Gray Metallic",-424.119597725959
+"modelModel X P100D",-418.242085931759
+"engine3.0 Liter TFSI",416.52221663968
+"modelQ7 Premium Plus",416.247823104257
+"modelSilverado 1500 LT Trail Boss",-415.417916642165
+"engine275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel",410.781147638547
+"accident.Unknown",406.085530571276
+"modelGrand Caravan R/T",-405.409422496775
+"modelModel X 75D",402.943225912091
+"engine365.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",402.056192552093
+"engine301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",-401.125053137255
+"modelBoxster Black Edition",-399.607962041992
+"engine380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",397.501262242915
+"modelGladiator Rubicon",395.681449080912
+"int_col.Blue",392.704960204307
+"modelC-Class C 63 AMG",-376.130614211322
+"modelExpedition Max Limited",358.289131285707
+"engine212.0HP 4.5L Straight 6 Cylinder Engine Gasoline Fuel",-352.529462932913
+"model4Runner TRD Pro",342.898842151058
+"modelM440 i xDrive",-335.596585261143
+"modelGS 350 F Sport",-333.48174267517
+"ext_col.Ultra White",-333.307839728116
+"modelContinental GT Base",-332.713891395493
+"modelS3 2.0T Tech Premium Plus",-319.31002821364
+"modelExplorer ST",-312.018479951944
+"engine400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",308.378426641074
+"modelXK R",-298.526791810785
+"transmission.1-Speed A/T",-297.166029766969
+"engine395.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability",-294.436245536324
+"modelRS 5 4.2",-292.350843842801
+"engine450.0HP 4.2L 8 Cylinder Engine Gasoline Fuel",-292.294779428474
+"modelExpress 2500 Work Van",290.895076163369
+"brandTesla",-288.691227919389
+"fuel_grp.Other/Unknown",-283.59165745451
+"modelRX 350 RX 350",282.281239324266
+"engine456.0HP 4.4L 8 Cylinder Engine Gasoline Fuel",-281.372720738689
+"modelTucson Hybrid SEL Convenience",-279.477179155551
+"engine226.0HP 1.6L 4 Cylinder Engine Gas/Electric Hybrid",-279.397499469466
+"modelLancer Evolution MR",277.820246757109
+"model_year",276.32991440163
+"transmission_grp.6-Speed M/T",-275.238386829465
+"transmission.6-Speed M/T",-275.155862637254
+"modelYukon XL SLT",-261.370566517466
+"modelXC90 T6 Inscription",-257.073855758717
+"modelSequoia Limited",-256.245231701061
+"engine4.4 Liter DOHC Twin Turbo",-251.609577235335
+"modelMacan Turbo",-245.38703315187
+"engine329.0HP Electric Motor Electric Fuel System",-244.077889430525
+"engine5.3 Liter",-239.917496333396
+"int_col.Global Black",-238.188631267406
+"int_col.Brown",232.421700181824
+"engine518.0HP Electric Motor Electric Fuel System",231.234352196296
+"engine288.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas",229.648147375691
+"model530e Base",229.518325462126
+"modelF-350 XLT",228.189557328846
+"engine316.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability",227.940465391901
+"ext_col.Gray",223.81161586166
+"int_col.Chestnut",-223.566111316137
+"ext_col.Rich Garnet Metallic",-223.492135065801
+"modelYukon Denali",219.46726931586
+"engine451.0HP 6.3L 8 Cylinder Engine Gasoline Fuel",218.370234660534
+"modelS-Class S 560",-215.941537048267
+"ext_col.designo Diamond White",-215.234330397055
+"modelF-250 XLT",214.255141185545
+"modelRover Range Rover 3.0L Supercharged HSE",213.469548489071
+"modelRX 450h F SPORT Handling",210.114999547054
+"model2500 SLT",-208.724903657834
+"modelTelluride EX X-Line",202.926897108986
+"engine188.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-200.917953119849
+"engine325.0HP 2.0L 4 Cylinder Engine Gasoline/Mild Electric Hybrid",200.001706527085
+"model750 i xDrive",-199.852953224808
+"transmission.6 Speed At/Mt",-199.193066595255
+"int_col.Black/Gun Metal",-198.981671693246
+"modelGV70 3.5T Sport",-195.120761462114
+"modelGolf R Base",-191.632184987194
+"modelExpedition Platinum",187.932906315101
+"int_col.Platinum",179.099261270124
+"modelSilverado 1500 2LT",-176.275204918829
+"engine285.0HP 3.6L V6 Cylinder Engine Gasoline/Mild Electric Hybrid",-175.354696088423
+"modelX5 xDrive40i",-174.352197729253
+"modelPanamera 4S",-173.001494279281
+"model4Runner TRD Sport",168.893204604994
+"modelBronco Heritage Edition Advanced",167.8746612462
+"engine440.0HP 6.7L 8 Cylinder Engine Diesel Fuel",165.989433097939
+"modelQ4 e-tron 50 Premium Plus",-165.572869369106
+"engine4.6 Liter",164.283664528519
+"engine505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel",-163.563800514236
+"model840 Gran Coupe i xDrive",-157.445162824825
+"modelRX 350 RX 350 F SPORT Handling",-153.696895771759
+"ext_col.White",-152.05842866066
+"engine385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability",151.743692664678
+"modelA8 L 55",-150.890747438485
+"int_col.Medium Earth Gray",149.214624203873
+"engine400.0HP 6.7L 8 Cylinder Engine Diesel Fuel",-141.465040607464
+"engine355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel",-137.481024408485
+"transmission.7-Speed A/T",137.245539189071
+"transmission_grp.7-Speed A/T",137.176542952539
+"modelMDX w/Technology Package",-133.542793533199
+"ext_col.Ibis White",132.254512084494
+"modelModel S P100D",128.706734930465
+"modelTLX Type S w/Performance Tire",-126.632138763105
+"engine3.0 Liter Turbo",125.891176313125
+"ext_col.Atomic Silver",124.009159606616
+"engine381.0HP 5.7L 8 Cylinder Engine Flex Fuel Capability",122.721683038139
+"modelGrand Caravan SE",122.521975763908
+"modelGladiator Overland",121.106671566695
+"model740e xDrive iPerformance",-120.115693453592
+"engine322.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas",-119.962177740435
+"modelDurango SRT",-113.416638945116
+"modelRover Range Rover Sport Supercharged Dynamic",-112.541120475983
+"transmission.6-Speed Automatic with Auto-Shift",-110.870799811997
+"modelTransit-350 XL",-110.500048320214
+"modelRover Range Rover Sport 5.0L Supercharged Dynamic",-110.080977595001
+"modelAvalanche LTZ",106.959964973322
+"modelRC F Base",-106.343617067365
+"engine467.0HP 5.0L 8 Cylinder Engine Gasoline Fuel",-106.332706169054
+"model2500 Tradesman",-103.070902041116
+"ext_col.Purple",-102.62308542784
+"modelSavana 2500 Work Van",-99.4853046508291
+"model3500 SLT",96.8280715324206
+"ext_col.Firenze Red",96.6260400529902
+"engineI4",96.0060401385525
+"modelRover Range Rover Velar R-Dynamic S",95.7879803429939
+"ext_col.Majestic Black Pearl",-89.2495018924791
+"modelGolf R 20th Anniversary Edition",87.4252466425958
+"engineElectric",-70.3413559751487
+"engine310.0HP 2.7L 4 Cylinder Engine Gasoline Fuel",63.6946712038395
+"modelSierra 1500 Limited Elevation",63.6730696933672
+"engine2.0L I4 16V GDI DOHC Turbo",-60.9543947523357
+"engine3.5 Liter SOHC",60.2209144979683
+"engine3.0 Liter Twin Turbo",59.9620200013109
+"modelWrangler Unlimited Rubicon",-59.4303795165353
+"int_col.Silver",56.7584775967448
+"modelCT6 Luxury",56.5972131719453
+"engine315.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",-52.0807185710473
+"ext_col.Delmonico Red Pearlcoat",51.8524891659444
+"modelBronco Big Bend Advanced",51.1028111494734
+"modelM6 Base",50.4437189540846
+"model911 Carrera S Cabriolet",-49.0443558938925
+"engine3.8L H6 24V MPFI DOHC",-49.0042507047586
+"modelGolf GTI 2.0T Autobahn",47.7249065857543
+"engine556.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",47.6829104228851
+"engine3.5 Liter DOHC",46.4988081985452
+"engine518.0HP 6.3L 8 Cylinder Engine Gasoline Fuel",45.9485116948503
+"modelCX-9 Touring Plus",-45.4708362198977
+"engine349.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",44.4912752598414
+"model911 Carrera Cabriolet",43.5147034737511
+"ext_col.Green",-36.7780957970755
+"engine395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid",-30.8024527168699
+"fuel_grp.Gasoline",-29.8874154515088
+"engine567.0HP 6.0L 12 Cylinder Engine Flex Fuel Capability",-29.8754784630918
+"fuel_type.Gasoline",-29.8343591952049
+"modelAMG GLE AMG GLE 63 S-Model 4MATIC",29.6947075659042
+"modelModel S 100D",-26.6389925071985
+"engine5.3L V8 16V GDI OHV",-24.5602173601142
+"engine385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",18.6624211104118
+"ext_col.Garnet Red Metallic",17.9740059830134
+"modelXT6 Sport AWD",17.7757832689908
+"modelRover Range Rover 3.0L Supercharged",-15.8847936636112
+"engine335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",14.5336317440448
+"modelS-Class S 63 AMG",12.47548846494
+"modelF-150 Lariat",12.1667055652997
+"engine577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel",-9.72919012581596
+"engine261.0HP 1.6L 4 Cylinder Engine Plug-In Electric/Gas",8.68097044077468
+"model911 Carrera C2S",8.61598464282482
+"modelSorento Plug-In Hybrid SX Prestige",8.564228226855
+"modelRC 350 F Sport",7.59141389140737
+"modelRover Range Rover Sport SVR",4.84763450919585
+"fuel_type.Plug-In Hybrid",1.22733745135855
+"mileage",-0.0571098443058588
+"brandSaab",0
+"model124 Spider Abarth",0
+"model300 Base",0
+"model300M Base",0
+"model300ZX Base",0
+"model350Z NISMO",0
+"model428 i xDrive",0
+"model4Runner Limited Nightshade",0
+"model4Runner Venture",0
+"model525 i",0
+"model530 i",0
+"model718 Cayman S",0
+"model750 iL",0
+"model9-3 Aero",0
+"model9-3 SE",0
+"model911 Carrera C4S",0
+"modelA4 2.0T Premium Plus quattro",0
+"modelA4 2.0T Titanium Premium",0
+"modelA4 3.2 Premium Plus quattro",0
+"modelA6 2.0T Sport",0
+"modelA6 3.0 TDI Premium Plus",0
+"modelA6 55 Prestige",0
+"modelAcadia SLT-2",0
+"modelAccord Crosstour EX-L",0
+"modelAccord EX-L 2.0T",0
+"modelAMG GLA 45 Base 4MATIC",0
+"modelAMG GLE 63 S Coupe 4MATIC",0
+"modelArmada SV",0
+"modelArteon 2.0T SEL R-Line",0
+"modelAtlas 3.6L SEL Premium R-Line",0
+"modelBentayga S",0
+"modelBentayga W12 Signature",0
+"modelBlazer Premier",0
+"modelBoxster GTS",0
+"modelBoxster RS 60 Spyder",0
+"modelBronco Badlands",0
+"modelBronco Big Bend",0
+"modelC-Class C 250 Sport",0
+"modelChallenger GT",0
+"modelChallenger SE",0
+"modelCharger SE",0
+"modelCharger SRT Hellcat Widebody",0
+"modelClarity Plug-In Hybrid Base",0
+"modelCLS-Class CLS500",0
+"modelCompass Trailhawk",0
+"modelConvertible John Cooper Works",0
+"modelCorolla Hybrid LE",0
+"modelCorvette Stingray Z51",0
+"modelCR-V EX-L",0
+"modelCR-V LX",0
+"modelCR-V Touring",0
+"modelCrosstrek Premium",0
+"modelCruze LT Automatic",0
+"modelCT 200h Base",0
+"modelCT5-V V-Series",0
+"modelCTS 3.6L Premium",0
+"modelCTS 3.6L Premium Luxury",0
+"modelCTS Base",0
+"modelCX-30 Select",0
+"modelCX-90 Premium",0
+"modelDakota SLT",0
+"modelDTS Luxury",0
+"modelE-Class 400E",0
+"modelE-Class D 2.5 Turbo",0
+"modelE-Class E 400 4MATIC",0
+"modelE-Class E 450 4MATIC",0
+"modelE-PACE 300 Sport",0
+"modelE-PACE S",0
+"modelE250 Cargo",0
+"modelElantra GLS",0
+"modelEnclave Essence",0
+"modelEncore Preferred",0
+"modelEvora 2+2",0
+"modelExpedition EL King Ranch",0
+"modelExplorer Timberline",0
+"modelExpress 3500 LT",0
+"modelF-150 Heritage XL SuperCab Flareside",0
+"modelF-150 Lightning LARIAT",0
+"modelF-150 Lightning XLT",0
+"modelF-150 Tremor",0
+"modelF-350 King Ranch",0
+"modelF-TYPE S British Design Edition",0
+"modelF12berlinetta Base",0
+"modelFF Base",0
+"modelFlex Limited",0
+"modelFlying Spur V8",0
+"modelForester 2.5i Limited",0
+"modelFR-S Monogram",0
+"modelG37 Journey",0
+"modelG37 S Sport",0
+"modelG37 Sport",0
+"modelG8 GT",0
+"modelG80 3.3T Sport",0
+"modelG90 3.3T Premium",0
+"modelGallardo Base",0
+"modelGallardo LP550-2",0
+"modelGenesis Coupe 2.0T R-Spec",0
+"modelGLE 450 GLE 450",0
+"modelGLS 450 Base",0
+"modelGR Corolla Circuit Edition",0
+"modelGranTurismo MC",0
+"modelGV70 2.5T",0
+"modeli3 Base",0
+"modelID.4 Pro S",0
+"modelILX 2.4L",0
+"modelImpala 2LZ",0
+"modelImpreza Premium",0
+"modelIntegra LS",0
+"modelIONIQ 5 SE",0
+"modelIONIQ Plug-In Hybrid SEL",0
+"modelJetta SportWagen SE",0
+"modelJuke NISMO RS",0
+"modelKicks S",0
+"modelLancer Evolution Base",0
+"modelLancer GTS",0
+"modelLegacy 2.5 GT spec.B",0
+"modelLevante Modena",0
+"modelLiberty Limited",0
+"modelLS V8",0
+"modelLX 600 Premium",0
+"modelM2 CS",0
+"modelM850 i xDrive",0
+"modelMagnum Base",0
+"modelMaxima SL",0
+"modelMaybach S S 600",0
+"modelMazda3 Touring",0
+"modelMazdaSpeed3 Grand Touring",0
+"modelModel 3",0
+"modelModel 3 Standard Range",0
+"modelModel S Long Range Plus",0
+"modelModel X 100D",0
+"modelModel X P90D",0
+"modelModel X Plaid",0
+"modelMustang Mach-E California Route 1",0
+"modelMustang Mach-E Select",0
+"modelMX-5 Miata Club",0
+"modelNiro Plug-In Hybrid EX",0
+"modelNiro Plug-In Hybrid EX Premium",0
+"modelNX 350 F SPORT Handling",0
+"modelOptima Hybrid LX",0
+"modelOptima SX Turbo",0
+"modelOutback 3.6R Limited",0
+"modelOutback 3.6R Touring",0
+"modelPacifica Hybrid Touring L",0
+"modelPanamera Platinum Edition",0
+"modelPilot Elite",0
+"modelPrelude Type SH",0
+"modelPrius Touring",0
+"modelPrius Two",0
+"modelProtege DX",0
+"modelQ5 2.0T Premium",0
+"modelQ7 3.0T Premium",0
+"modelQ8 55 Premium",0
+"modelQuattroporte S GranLusso",0
+"modelQuattroporte S Q4 GranLusso",0
+"modelQuest SL",0
+"modelQX30 Premium",0
+"modelQX60 AUTOGRAPH",0
+"modelR8 4.2 quattro Spyder",0
+"modelR8 5.2 quattro Spyder",0
+"modelR8 Base",0
+"modelRam 1500 Laramie Mega Cab",0
+"modelRam 3500 Quad Cab DRW",0
+"modelRam Van 1500",0
+"modelRDX",0
+"modelRDX Advance Package",0
+"modelRDX PMC Edition",0
+"modelRLX Advance Package",0
+"modelRogue SV",0
+"modelRover Defender",0
+"modelRover Defender V8",0
+"modelRover Discovery S",0
+"modelRover Discovery Sport S R-Dynamic",0
+"modelRover Range Rover Evoque Base",0
+"modelRover Range Rover Evoque HSE Dynamic",0
+"modelRover Range Rover P400 SE LWB 7 Seat",0
+"modelRover Range Rover P530 SE",0
+"modelRover Range Rover Sport 3.0 Supercharged HST",0
+"modelRover Range Rover Sport P400 SE Dynamic",0
+"modelRover Range Rover Velar P380 SE R-Dynamic",0
+"modelRS 4 4.2 quattro L",0
+"modelRS 7 4.0T quattro",0
+"modelRX-8 R3",0
+"modelRX-8 Sport",0
+"modelS-10 LS",0
+"modelS2000 Base",0
+"modelS4 4.2 quattro",0
+"modelS5 3.0 Premium Plus",0
+"modelS5 4.2 Premium Plus",0
+"modelS6 4.0T Prestige",0
+"modelS60 R",0
+"modelSanta Fe SEL Plus 2.4",0
+"modelSC 300 Base",0
+"modelSienna XSE 25th Anniversary",0
+"modelSierra 1500 AT4",0
+"modelSilverado 1500 1LZ",0
+"modelSilverado 1500 High Country",0
+"modelSilverado 1500 LT Extended Cab",0
+"modelSilverado 1500 LTZ",0
+"modelSorento S",0
+"modelSportage S",0
+"modelSQ5 3.0T Premium",0
+"modelSTS V6",0
+"modelTahoe High Country",0
+"modeltC Anniversary Edition",0
+"modeltC Base",0
+"modeltC Release Series 6.0",0
+"modelTelluride LX",0
+"modelTerrain Denali",0
+"modelTitan SE",0
+"modelTown & Country LX",0
+"modelTrailblazer LT",0
+"modelTrax LS",0
+"modelTundra Grade",0
+"modelTundra Hybrid Capstone",0
+"modelTundra Hybrid Limited",0
+"modelV60 Cross Country T5",0
+"modelVenza XLE",0
+"modelVersa 1.6 SL",0
+"modelWrangler Rubicon Hard Rock",0
+"modelX5 3.0si",0
+"modelX6 xDrive35i",0
+"modelX7 xDrive50i",0
+"modelXC40 T5 Momentum",0
+"modelXC60 3.2",0
+"modelXC90 3.2 Premier Plus",0
+"modelXLR Base",0
+"modelXterra Pro-4X",0
+"modelXTS Premium",0
+"modelYaris Base",0
+"modelYaris L",0
+"modelZ4 2.5i",0
+"engine1.3L I3 12V MPFI DOHC Turbo",0
+"engine1.6L I4 16V MPFI DOHC",0
+"engine106.0HP 1.5L 4 Cylinder Engine Gasoline Fuel",0
+"engine109.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",0
+"engine115.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",0
+"engine120.0HP 2.2L 4 Cylinder Engine Flex Fuel Capability",0
+"engine121.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid",0
+"engine138.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",0
+"engine139.0HP 1.6L 4 Cylinder Engine Plug-In Electric/Gas",0
+"engine150.0HP 3.8L V6 Cylinder Engine Gasoline Fuel",0
+"engine153.0HP 1.4L 4 Cylinder Engine Gasoline Fuel",0
+"engine161.0HP 2.4L 4 Cylinder Engine Gasoline Fuel",0
+"engine164.0HP 1.4L 4 Cylinder Engine Gasoline Fuel",0
+"engine170.0HP 3.3L V6 Cylinder Engine Gasoline Fuel",0
+"engine180.0HP 1.6L 4 Cylinder Engine Plug-In Electric/Gas",0
+"engine180.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",0
+"engine192.0HP 1.5L 4 Cylinder Engine Gasoline Fuel",0
+"engine192.0HP 2.3L 4 Cylinder Engine Gasoline Fuel",0
+"engine193.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",0
+"engine2.4 Liter",0
+"engine2.5L",0
+"engine2.7L I4 16V GDI DOHC Turbo",0
+"engine200.0HP 2.2L 4 Cylinder Engine Gasoline Fuel",0
+"engine205.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",0
+"engine208.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability",0
+"engine212.0HP 1.3L Rotary engine Gasoline Fuel",0
+"engine212.0HP 1.5L 4 Cylinder Engine Plug-In Electric/Gas",0
+"engine215.0HP 1.6L 4 Cylinder Engine Gasoline Fuel",0
+"engine215.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel",0
+"engine225.0HP 4.6L 8 Cylinder Engine Flex Fuel Capability",0
+"engine227.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",0
+"engine240.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel",0
+"engine243.0HP 2.5L 4 Cylinder Engine Gasoline Fuel",0
+"engine245.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid",0
+"engine245.0HP 2.7L Flat 6 Cylinder Engine Gasoline Fuel",0
+"engine252.0HP 3.9L 8 Cylinder Engine Gasoline Fuel",0
+"engine255.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",0
+"engine256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel",0
+"engine260.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",0
+"engine260.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",0
+"engine260.0HP 6.6L 8 Cylinder Engine Diesel Fuel",0
+"engine263.0HP 2.3L 4 Cylinder Engine Gasoline Fuel",0
+"engine265.0HP 3.2L V6 Cylinder Engine Gasoline Fuel",0
+"engine271.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",0
+"engine271.0HP 3.5L V6 Cylinder Engine Gasoline Fuel",0
+"engine273.0HP 3.7L V6 Cylinder Engine Gasoline Fuel",0
+"engine275.0HP 3.7L V6 Cylinder Engine Gasoline Fuel",0
+"engine278.0HP 4.3L 8 Cylinder Engine Gasoline Fuel",0
+"engine280.0HP 2.8L V6 Cylinder Engine Gasoline Fuel",0
+"engine285.0HP 5.3L 8 Cylinder Engine Gasoline Fuel",0
+"engine290.0HP Electric Motor Electric Fuel System",0
+"engine296.0HP 2.0L 4 Cylinder Engine Gasoline/Mild Electric Hybrid",0
+"engine2L H-4 gasoline direct injection, DOHC, variable valve control,",0
+"engine3.0 Liter GTDI",0
+"engine3.2L H6 24V MPFI DOHC",0
+"engine3.4L H6 24V MPFI DOHC",0
+"engine3.5L V-6 port/direct injection, DOHC, VVT-iE variable valve cont",0
+"engine3.6 Liter SIDI DOHC",0
+"engine3.6L V6 24V MPFI DOHC Hybrid",0
+"engine300.0HP 1.6L 3 Cylinder Engine Gasoline Fuel",0
+"engine300.0HP 2.5L 5 Cylinder Engine Gasoline Fuel",0
+"engine301.0HP 3.6L V6 Cylinder Engine Gasoline Fuel",0
+"engine303.0HP 3.4L Flat 6 Cylinder Engine Gasoline Fuel",0
+"engine305.0HP 5.6L 8 Cylinder Engine Gasoline Fuel",0
+"engine305.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",0
+"engine306.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",0
+"engine317.0HP 5.6L 8 Cylinder Engine Flex Fuel Capability",0
+"engine320.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel",0
+"engine320.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",0
+"engine321.0HP Electric Motor Electric Fuel System",0
+"engine324.0HP 6.0L 8 Cylinder Engine Flex Fuel Capability",0
+"engine325.0HP 2.9L V6 Cylinder Engine Gasoline Fuel",0
+"engine326.0HP 5.4L 12 Cylinder Engine Gasoline Fuel",0
+"engine348.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",0
+"engine354.0HP 4.2L 8 Cylinder Engine Gasoline Fuel",0
+"engine355.0HP 6.0L 8 Cylinder Engine Gasoline Fuel",0
+"engine366.0HP 6.0L 8 Cylinder Engine Gasoline Fuel",0
+"engine375.0HP 2.0L 4 Cylinder Engine Gasoline Fuel",0
+"engine375.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas",0
+"engine375.0HP 2.9L V6 Cylinder Engine Gasoline Fuel",0
+"engine380.0HP 5.4L 8 Cylinder Engine Gasoline Fuel",0
+"engine395.0HP 6.0L 8 Cylinder Engine Gasoline Fuel",0
+"engine4.2L V8 32V GDI DOHC",0
+"engine4.4 Liter GDI DOHC Twin Turbo",0
+"engine402.0HP 4.6L 8 Cylinder Engine Gasoline Fuel",0
+"engine405.0HP 3.0L V6 Cylinder Engine Gasoline Fuel",0
+"engine405.0HP 5.7L 8 Cylinder Engine Gasoline Fuel",0
+"engine444.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel",0
+"engine460.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",0
+"engine471.0HP 6.4L 8 Cylinder Engine Gasoline Fuel",0
+"engine4L H-6 gasoline direct injection, DOHC, VarioCam Plus variable v",0
+"engine4L V-6 DOHC, VVT-i variable valve control, engine with 270HP",0
+"engine5.0L 8 Cylinder",0
+"engine518.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",0
+"engine523.0HP 6.0L 12 Cylinder Engine Gasoline Fuel",0
+"engine525.0HP 5.2L 10 Cylinder Engine Gasoline Fuel",0
+"engine540.0HP 4.4L 8 Cylinder Engine Gasoline Fuel",0
+"engine557.0HP Electric Motor Electric Fuel System",0
+"engine563.0HP 6.7L 12 Cylinder Engine Gasoline Fuel",0
+"engine563.0HP Electric Motor Electric Fuel System",0
+"engine591.0HP 4.0L 8 Cylinder Engine Gasoline/Mild Electric Hybrid",0
+"engine6.0L V8 16V MPFI OHV",0
+"engine6.3L V12 48V GDI DOHC",0
+"engine601.0HP 6.6L 12 Cylinder Engine Gasoline Fuel",0
+"engine616.0HP 6.0L 12 Cylinder Engine Gasoline Fuel",0
+"engine616.0HP Electric Motor Electric Fuel System",0
+"engine640.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel",0
+"engine640.0HP 6.2L 8 Cylinder Engine Gasoline Fuel",0
+"engine650.0HP 5.8L 8 Cylinder Engine Gasoline Fuel",0
+"engine651.0HP 6.3L 12 Cylinder Engine Gasoline Fuel",0
+"engine691.0HP Electric Motor Electric Fuel System",0
+"engine76.0HP 1.5L 4 Cylinder Engine Gas/Electric Hybrid",0
+"engineBattery Electric",0
+"engineStandard Range Battery",0
+"transmission.6-Speed Electronically Controlled Automatic with O",0
+"transmission.6 Speed Mt",0
+"transmission.7-Speed DCT Automatic",0
+"transmission.8-SPEED AT",0
+"transmission.CVT-F",0
+"transmission.Manual, 6-Spd",0
+"ext_col.Anodized Blue Metallic",0
+"ext_col.Aventurine Green Metallic",0
+"ext_col.Blueprint",0
+"ext_col.Cajun Red Tintcoat",0
+"ext_col.Carbonized Gray Metallic",0
+"ext_col.Caspian Blue",0
+"ext_col.Crystal Black",0
+"ext_col.Crystal White Pearl",0
+"ext_col.Dark Moon Blue Metallic",0
+"ext_col.Daytona Gray",0
+"ext_col.Electric Blue Metallic",0
+"ext_col.Firenze Red Metallic",0
+"ext_col.GT SILVER",0
+"ext_col.Horizon Blue",0
+"ext_col.Kinetic Blue",0
+"ext_col.Lunar Rock",0
+"ext_col.Magnetic Gray Clearcoat",0
+"ext_col.MANUFAKTUR Diamond White Bright",0
+"ext_col.Maximum Steel Metallic",0
+"ext_col.Mountain Air Metallic",0
+"ext_col.Nero Daytona",0
+"ext_col.Orca Black Metallic",0
+"ext_col.Pacific Blue Metallic",0
+"ext_col.Phantom Black Pearl Effect / Black Roof",0
+"ext_col.Quartzite Grey Metallic",0
+"ext_col.Red Multi",0
+"ext_col.Red Obsession",0
+"ext_col.Red Quartz Tintcoat",0
+"ext_col.Redline Red",0
+"ext_col.Remington Red Metallic",0
+"ext_col.Selenite Grey Metallic",0
+"ext_col.Shimmering Silver",0
+"ext_col.Shoreline Blue Pearl",0
+"ext_col.Silician Yellow",0
+"ext_col.Super Black",0
+"ext_col.White Diamond Tri-Coat",0
+"ext_col.White Frost Tri-Coat",0
+"int_col.Agave Green",0
+"int_col.Amber",0
+"int_col.Aragon Brown",0
+"int_col.Ash",0
+"int_col.Black / Graphite",0
+"int_col.Black / Stone Grey",0
+"int_col.Brandy",0
+"int_col.Dark Galvanized",0
+"int_col.Deep Garnet",0
+"int_col.Ebony.",0
+"int_col.Gideon",0
+"int_col.Gray w/Blue Bolsters",0
+"int_col.Light Gray",0
+"int_col.Light Slate",0
+"int_col.Macchiato Beige/Black",0
+"int_col.Magma Red",0
+"int_col.Medium Ash Gray",0
+"int_col.Medium Light Camel",0
+"int_col.Pimento / Ebony",0
+"int_col.Roast",0
+"int_col.Saddle Brown",0
+"int_col.Sand Beige",0
+"int_col.Shale",0
+"int_col.Very Light Cashmere",0
