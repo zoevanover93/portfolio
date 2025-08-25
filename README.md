@@ -62,14 +62,14 @@ This capstone applies a **full data science workflow** to the used car market:
 
 ## 📊 Key Results
 **Model Performance** (`outputs/model_performance.csv`)  
-- RMSE: …  
-- R²: …  
-- Lambda: …  
+- RMSE: 28621.78  
+- R²: 0.464 
+- Lambda: 336419.597124885
 
 **Selected Inventory** (`outputs/selected_inventory.csv`)  
 - Budget: 500,000  
-- Vehicles selected: …  
-- Total predicted cost: …  
+- Vehicles selected: 13
+- Total predicted cost: 499,999.99
 
 ---
 
